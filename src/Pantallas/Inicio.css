@@ -1,0 +1,160 @@
+.fondoInicio{
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-size: cover;
+  display: flex;
+  justify-content: space-around;
+  height: 100vh;
+}
+
+.backgroundImage{
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  filter: blur(4px);
+}
+
+.cuerpoInicio{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+  height: 90vh;
+  margin-top: 20px;
+}
+
+.escogerUsuario{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  height: 60vh;
+}
+
+.escogerUsuario h3{
+  text-align: left;
+  width: 100%;
+  margin: 2px;
+}
+
+.escogerUsuario button{
+  padding: 6px;
+  width: auto;
+  border-style: solid;
+  border-width: 4px;
+  border-color: black;
+  border-radius: 10px;
+  background-color: white;
+  font-size: small;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.usuarios{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 60vw;
+  overflow-x: scroll;
+  height: 30vh;
+}
+
+.usuarios .div{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 58vw;
+  border-style: solid;
+  padding: 3px;
+  margin-top: 10px;
+  border-radius: 5px;
+  background-color: rgb(255, 255, 255);
+}
+
+.usuarios .div p{
+  width: 150px;
+  margin: 3px;
+  text-align: left;
+}
+.usuarios div button{
+  width: auto;
+  border-width: 3px;
+  border-color:#333;
+  border-style: dashed;
+  font-size: 12px;
+  margin: 0;
+}
+
+.headerInicio{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.headerInicio img{
+  height: 80px;
+  border-radius: 10px;
+  object-fit: cover;
+  margin: 20px;
+}
+
+.footerInicio{
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  flex-direction: row;    
+  justify-content: space-between;
+  width: 200vw;
+  background-color: white;
+  overflow-x: scroll;
+  opacity: 80%;
+}
+
+.footerContenedor {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  flex-direction: row;    
+  justify-content: space-around;
+  background-color: white;
+  animation: slide 20s infinite linear;
+  width: 200vw;
+}
+
+.footerInicio img{
+  height: 40px;
+  margin: 5px;
+}
+
+@keyframes slide{
+  0%{
+    transform: translateX(0%);
+  }
+  100%{
+    transform: translateX(-50%);
+  }
+}
+
+@media (max-height: 400px) {
+
+  .cuerpoInicio{
+    margin-top: 20px;
+    width: 90vw;
+    height: 80vh;
+    font-size: small;
+  }
+
+  .escogerUsuario button{
+    font-size: small;
+    margin: 0;
+  }
+}

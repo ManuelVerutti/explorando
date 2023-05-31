@@ -1,0 +1,6672 @@
+[
+    {
+        "id": 1,
+        "pregunta": "Estrategias para ajustarse a los efectos del cambio climático, como sequías, inundaciones y aumento del nivel del mar.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "modificación"
+            },
+            {
+                "id": 2,
+                "texto": "adaptación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "ajuste"
+            },
+            {
+                "id": 4,
+                "texto": "cambio"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "pregunta": "Cambio o fluctuación en algo. En el contexto del clima, se refiere a la variabilidad climática, que puede ser natural o causada por el ser humano.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "variabilidad",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "diversidad"
+            },
+            {
+                "id": 3,
+                "texto": "fluctuación"
+            },
+            {
+                "id": 4,
+                "texto": "heterogeneidad"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "pregunta": "Estado de la atmósfera en un momento y lugar determinados. En el contexto del clima, se refiere a las condiciones meteorológicas a corto plazo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tiempo",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "clima"
+            },
+            {
+                "id": 3,
+                "texto": "duración"
+            },
+            {
+                "id": 4,
+                "texto": "estación"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "pregunta": "Conjunto de condiciones meteorológicas que caracterizan una región a lo largo de un periodo de tiempo determinado.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "meteorología"
+            },
+            {
+                "id": 2,
+                "texto": "ambiente"
+            },
+            {
+                "id": 3,
+                "texto": "clima",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "condición"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "pregunta": "Susceptibilidad de un sistema o comunidad a sufrir daños, consecuencias negativas o impactos debido a su exposición a un peligro o riesgo.Puede estar relacionada con factores socioeconómicos, ambientales y culturales, etc.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vulnerabilidad",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "debilidad"
+            },
+            {
+                "id": 3,
+                "texto": "fragilidad"
+            },
+            {
+                "id": 4,
+                "texto": "susceptibilidad"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "pregunta": "Cantidad de agua que cae del cielo en forma de lluvia, nieve, granizo. Variable climática importante y su medición y análisis son fundamentales para la comprensión del ciclo hidrológico y el pronóstico del tiempo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "rocío"
+            },
+            {
+                "id": 2,
+                "texto": "humedad"
+            },
+            {
+                "id": 3,
+                "texto": "lluvia"
+            },
+            {
+                "id": 4,
+                "texto": "precipitación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "pregunta": "Medida de la energía térmica de un objeto o sustancia. En el contexto del clima, se refiere a la medida del calor o frío que se siente en la atmósfera y es una variable climática clave para la comprensión y el pronóstico del clima.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "termómetro"
+            },
+            {
+                "id": 2,
+                "texto": "calor"
+            },
+            {
+                "id": 3,
+                "texto": "frío"
+            },
+            {
+                "id": 4,
+                "texto": "temperatura",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "pregunta": "Punto de recolección de datos climáticos, que puede estar ubicado en una estación meteorológica o en cualquier otro lugar donde se realice la medición y registro de las condiciones atmosféricas y climáticas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "mes"
+            },
+            {
+                "id": 2,
+                "texto": "clima"
+            },
+            {
+                "id": 3,
+                "texto": "estaciondeclima",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "estación"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "pregunta": "Conjunto de medidas y acciones que buscan reducir las emisiones de gases de efecto invernadero y disminuir la vulnerabilidad y exposición de los sistemas naturales y humanos a los impactos del cambio climático. ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reducción"
+            },
+            {
+                "id": 2,
+                "texto": "disminución"
+            },
+            {
+                "id": 3,
+                "texto": "mitigacion",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "prevención"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "pregunta": "Aumento de la temperatura promedio de la Tierra debido a las emisiones de gases de efecto invernadero.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "incremento"
+            },
+            {
+                "id": 2,
+                "texto": "aumento"
+            },
+            {
+                "id": 3,
+                "texto": "calentamiento",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "elevación"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "pregunta": "Masas de hielo que se están derritiendo rápidamente debido al calentamiento global y contribuyendo al aumento del nivel del mar.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nieve"
+            },
+            {
+                "id": 2,
+                "texto": "glaciares",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "hielos"
+            },
+            {
+                "id": 4,
+                "texto": "montañas"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "pregunta": "Variación climática periódica que afecta el clima global y puede provocar sequías, inundaciones y otros efectos extremos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "oscilación"
+            },
+            {
+                "id": 2,
+                "texto": "ENSO"
+            },
+            {
+                "id": 3,
+                "texto": "corriente"
+            },
+            {
+                "id": 4,
+                "texto": "fenómenodelniño",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "pregunta": "Medida de la cantidad de emisiones de gases de efecto invernadero que son producidas por una persona, organización o actividad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "rastro"
+            },
+            {
+                "id": 2,
+                "texto": "carbono"
+            },
+            {
+                "id": 3,
+                "texto": "emisiones"
+            },
+            {
+                "id": 4,
+                "texto": "huelladecarbono",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "pregunta": "Medidas que se toman para ajustarse a los impactos del cambio climático, como la gestión de recursos hídricos y la construcción de infraestructura resistente al clima.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "modificación"
+            },
+            {
+                "id": 2,
+                "texto": "adaptación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "ajuste"
+            },
+            {
+                "id": 4,
+                "texto": "cambio"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "pregunta": "Acuerdo internacional para limitar el aumento de la temperatura global a menos de 2°C por encima de los niveles preindustriales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tratado"
+            },
+            {
+                "id": 2,
+                "texto": "acuerdo"
+            },
+            {
+                "id": 3,
+                "texto": "acuerdodeparís",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "convención"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "pregunta": "Medida de la cantidad de agua utilizada directa e indirectamente por una persona, organización o actividad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "uso"
+            },
+            {
+                "id": 2,
+                "texto": "agua"
+            },
+            {
+                "id": 3,
+                "texto": "consumo"
+            },
+            {
+                "id": 4,
+                "texto": "huellahídrica",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "pregunta": "Energía obtenida del sol que se puede convertir en electricidad a través de paneles solares.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "solar fotovoltaica"
+            },
+            {
+                "id": 2,
+                "texto": "célula solar"
+            },
+            {
+                "id": 3,
+                "texto": "energíasolar",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "placa solar"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "pregunta": "Medida del impacto ambiental de una persona, organización o actividad en términos de uso de recursos naturales y emisiones de",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "impacto"
+            },
+            {
+                "id": 2,
+                "texto": "carbono"
+            },
+            {
+                "id": 3,
+                "texto": "huella"
+            },
+            {
+                "id": 4,
+                "texto": "huellaecológica",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "pregunta": "Capacidad de los sistemas humanos o naturales para recuperarse de eventos adversos y adaptarse al cambio climático.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "resistencia"
+            },
+            {
+                "id": 2,
+                "texto": "adaptabilidad"
+            },
+            {
+                "id": 3,
+                "texto": "flexibilidad"
+            },
+            {
+                "id": 4,
+                "texto": "resiliencia",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "pregunta": "Periodo prolongado de escasez de agua en una región.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sequía",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "aridez"
+            },
+            {
+                "id": 3,
+                "texto": "escasez"
+            },
+            {
+                "id": 4,
+                "texto": "estiaje"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "pregunta": "Fenómeno natural que permite la retención del calor en la atmósfera terrestre.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "invernadero"
+            },
+            {
+                "id": 2,
+                "texto": "efecto"
+            },
+            {
+                "id": 3,
+                "texto": "efectoinvernader",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "gases"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "pregunta": "Gases que atrapan el calor en la atmósfera y contribuyen al calentamiento global.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ozono"
+            },
+            {
+                "id": 2,
+                "texto": "CO2"
+            },
+            {
+                "id": 3,
+                "texto": "gasinvernadero",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "metano"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "pregunta": "Cantidad de gases de efecto invernadero emitidos por una actividad o producto.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "rastro"
+            },
+            {
+                "id": 2,
+                "texto": "carbono"
+            },
+            {
+                "id": 3,
+                "texto": "emisiones"
+            },
+            {
+                "id": 4,
+                "texto": "huelladecarbono",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "pregunta": "Cantidad máxima de personas o impacto ambiental que un área puede soportar sin sufrir daños a largo plazo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "límite"
+            },
+            {
+                "id": 2,
+                "texto": "capacidad"
+            },
+            {
+                "id": 3,
+                "texto": "capacidadecarga",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "carga"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "pregunta": "Poceso que ocurre cuando los océanos absorben dióxido de carbono y se vuelven más ácidos, afectando negativamente la vida marina.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ácido"
+            },
+            {
+                "id": 2,
+                "texto": "acidificación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "alcalinidad"
+            },
+            {
+                "id": 4,
+                "texto": "pH"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "pregunta": "Degradación del suelo en zonas secas debido a la actividad humana y el cambio climático. Esto causa pérdida de recursos naturales, biodiversidad, pobreza y migración.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sequedad"
+            },
+            {
+                "id": 2,
+                "texto": "desertificación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "desierto"
+            },
+            {
+                "id": 4,
+                "texto": "erosión"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "pregunta": "Energía obtenida a partir de la radiación solar",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "térmica"
+            },
+            {
+                "id": 2,
+                "texto": "fotovoltaica"
+            },
+            {
+                "id": 3,
+                "texto": "luminosa"
+            },
+            {
+                "id": 4,
+                "texto": "solar",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "pregunta": "Energía obtenida a partir del viento",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "viento"
+            },
+            {
+                "id": 2,
+                "texto": "eólica",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "generación"
+            },
+            {
+                "id": 4,
+                "texto": "turbina"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "pregunta": "Energía obtenida a partir de materia orgánica",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "residuos"
+            },
+            {
+                "id": 2,
+                "texto": "biomasa",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "combustible"
+            },
+            {
+                "id": 4,
+                "texto": "orgánico"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "pregunta": "Energía obtenida a partir del agua en movimiento",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "turbina"
+            },
+            {
+                "id": 2,
+                "texto": "agua"
+            },
+            {
+                "id": 3,
+                "texto": "hidráulica",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "presa"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "pregunta": "Energía obtenida a partir del calor de la Tierra",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tierra"
+            },
+            {
+                "id": 2,
+                "texto": "calor"
+            },
+            {
+                "id": 3,
+                "texto": "energía"
+            },
+            {
+                "id": 4,
+                "texto": "geotérmica",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "pregunta": "Energía obtenida a partir de las corrientes marinas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "olas"
+            },
+            {
+                "id": 2,
+                "texto": "energía"
+            },
+            {
+                "id": 3,
+                "texto": "mar"
+            },
+            {
+                "id": 4,
+                "texto": "oceánica",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "pregunta": "Fuente de energía que se puede regenerar naturalmente",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sostenible"
+            },
+            {
+                "id": 2,
+                "texto": "ecológico"
+            },
+            {
+                "id": 3,
+                "texto": "limpio"
+            },
+            {
+                "id": 4,
+                "texto": "renovable",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "pregunta": "Fuente de energía que no proviene de combustibles fósiles",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "otra"
+            },
+            {
+                "id": 2,
+                "texto": "alternativa",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "diferente"
+            },
+            {
+                "id": 4,
+                "texto": "opción"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "pregunta": "Dispositivos que transforman la energía solar en electricidad",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "térmicos"
+            },
+            {
+                "id": 2,
+                "texto": "fotovoltaicos"
+            },
+            {
+                "id": 3,
+                "texto": "paneles",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "solares"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "pregunta": "Dispositivos que convierten la energía del viento en electricidad",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "viento"
+            },
+            {
+                "id": 2,
+                "texto": "generación"
+            },
+            {
+                "id": 3,
+                "texto": "hidráulicas"
+            },
+            {
+                "id": 4,
+                "texto": "turbinas",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "pregunta": "Combustibles producidos a partir de biomasa",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "etanol"
+            },
+            {
+                "id": 2,
+                "texto": "aceite"
+            },
+            {
+                "id": 3,
+                "texto": "biocombustibles",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "biodiésel"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "pregunta": "Que puede ser utilizado sin comprometer su disponibilidad futura",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "viable"
+            },
+            {
+                "id": 2,
+                "texto": "renovable"
+            },
+            {
+                "id": 3,
+                "texto": "sostenible",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "sustentable"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "pregunta": "Tecnología para convertir la energía solar en electricidad",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "solar"
+            },
+            {
+                "id": 2,
+                "texto": "célula"
+            },
+            {
+                "id": 3,
+                "texto": "energía"
+            },
+            {
+                "id": 4,
+                "texto": "fotovoltaica",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "pregunta": "Acción de sustituir fuentes de energía no renovables por renovables",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "renovación",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "actualización"
+            },
+            {
+                "id": 3,
+                "texto": "mejora"
+            },
+            {
+                "id": 4,
+                "texto": "renovable"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "pregunta": "Mezcla de contaminantes atmosféricos que reduce la visibilidad y afecta la salud humana y el medio ambiente.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "smog",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "contaminación"
+            },
+            {
+                "id": 3,
+                "texto": "humo"
+            },
+            {
+                "id": 4,
+                "texto": "niebla"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "pregunta": "Gas presente en la atmósfera que protege la vida en la Tierra, pero en la troposfera es un contaminante peligroso.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ozono",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "aire"
+            },
+            {
+                "id": 3,
+                "texto": "capa"
+            },
+            {
+                "id": 4,
+                "texto": "contaminante"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "pregunta": "Pequeñas partículas sólidas o líquidas que se suspenden en el aire y pueden ser inhaladas, causando enfermedades.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "suciedad"
+            },
+            {
+                "id": 2,
+                "texto": "fragmentos"
+            },
+            {
+                "id": 3,
+                "texto": "partículas",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "polvo"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "pregunta": "Dióxido de carbono, gas que contribuye al efecto invernadero y es uno de los principales contaminantes atmosféricos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "emisiones"
+            },
+            {
+                "id": 2,
+                "texto": "carbono"
+            },
+            {
+                "id": 3,
+                "texto": "co2",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "dióxido"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "pregunta": "Cualquier sustancia o forma de energía que puede causar daño a los seres vivos y el medio ambiente.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tóxico"
+            },
+            {
+                "id": 2,
+                "texto": "contaminante",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "nocivo"
+            },
+            {
+                "id": 4,
+                "texto": "polución"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "pregunta": "Gas tóxico e incoloro que se produce por la combustión incompleta de combustibles fósiles, altamente peligroso.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "monóxido",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "CO"
+            },
+            {
+                "id": 3,
+                "texto": "asfixiante"
+            },
+            {
+                "id": 4,
+                "texto": "gas"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "pregunta": "Gas que se encuentra en la atmósfera, pero la liberación excesiva por actividades humanas puede generar contaminación.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nitrógeno",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "NO2"
+            },
+            {
+                "id": 3,
+                "texto": "aire"
+            },
+            {
+                "id": 4,
+                "texto": "gas"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "pregunta": "Combustible fósil utilizado en motores de vehículos, que emite partículas y gases contaminantes al aire.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "motor"
+            },
+            {
+                "id": 2,
+                "texto": "combustible"
+            },
+            {
+                "id": 3,
+                "texto": "diésel",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "gasoil"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "pregunta": "Contaminación por ruido que puede causar daño a la salud y afectar el medio ambiente.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sonido"
+            },
+            {
+                "id": 2,
+                "texto": "acústica",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "decibelios"
+            },
+            {
+                "id": 4,
+                "texto": "ruido"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "pregunta": "Gas tóxico e incoloro producido por la combustión de combustibles fósiles que contribuye a la lluvia ácida.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "polvo"
+            },
+            {
+                "id": 2,
+                "texto": "dióxidodeazufre",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "gas"
+            },
+            {
+                "id": 4,
+                "texto": "lluvia"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "pregunta": "Proceso de combustión de combustibles fósiles que emite gases y partículas contaminantes al aire.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "humo"
+            },
+            {
+                "id": 2,
+                "texto": "combustión",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "fogata"
+            },
+            {
+                "id": 4,
+                "texto": "fogonazo"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "pregunta": "Sustancia corrosiva que se forma cuando contaminantes atmosféricos, como óxidos de azufre y nitrógeno, se mezclan con la lluvia.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ácido",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "agrio"
+            },
+            {
+                "id": 3,
+                "texto": "amargo"
+            },
+            {
+                "id": 4,
+                "texto": "veneno"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "pregunta": "Mezcla de gases y partículas sólidas que se liberan durante la combustión, causando contaminación atmosférica.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nieve"
+            },
+            {
+                "id": 2,
+                "texto": "bruma"
+            },
+            {
+                "id": 3,
+                "texto": "humo",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "neblina"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "pregunta": "Elementos químicos como el mercurio y el plomo, que pueden ser liberados en la atmósfera y causar contaminación del aire.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "plomo"
+            },
+            {
+                "id": 2,
+                "texto": "mercurio"
+            },
+            {
+                "id": 3,
+                "texto": "metales pesados",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "oro"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "pregunta": "Medida de acidez o alcalinidad del agua. Un pH inferior a 7 indica acidez, mientras que un pH superior a 7 indica alcalinidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ácido"
+            },
+            {
+                "id": 2,
+                "texto": "base"
+            },
+            {
+                "id": 3,
+                "texto": "neutro"
+            },
+            {
+                "id": 4,
+                "texto": "ph",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "pregunta": "Gas que al disolverse en el agua produce ácido carbónico, contribuyendo a la acidificación del agua.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "oxígeno"
+            },
+            {
+                "id": 2,
+                "texto": "co2",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "dióxido de nitrógeno"
+            },
+            {
+                "id": 4,
+                "texto": "monóxido de carbono"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "pregunta": "Proceso natural que ocurre en el agua para equilibrar su acidez, mediante la incorporación de carbonato de calcio.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "mineralización"
+            },
+            {
+                "id": 2,
+                "texto": "calcificación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "descalcificación"
+            },
+            {
+                "id": 4,
+                "texto": "fosilización"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "pregunta": "Las especies marinas se ven afectadas por la acidificación del agua, que reduce la disponibilidad de carbonato de calcio.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "plantas"
+            },
+            {
+                "id": 2,
+                "texto": "animales"
+            },
+            {
+                "id": 3,
+                "texto": "especies",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "microbios"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "pregunta": "Los corales son especialmente vulnerables a la acidificación del agua, ya que requieren carbonato de calcio para su formación.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "estrellas de mar"
+            },
+            {
+                "id": 2,
+                "texto": "arrecifes"
+            },
+            {
+                "id": 3,
+                "texto": "conchas"
+            },
+            {
+                "id": 4,
+                "texto": "corales",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "pregunta": "La acidificación del agua reduce la capacidad de las plantas acuáticas para realizar la fotosíntesis.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "respiración"
+            },
+            {
+                "id": 2,
+                "texto": "clorofila"
+            },
+            {
+                "id": 3,
+                "texto": "fotosíntesis",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "luz solar"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "pregunta": "Los niveles elevados de acidez pueden inhibir el crecimiento del fitoplancton, lo que afecta la cadena alimentaria marina.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "zooplancton"
+            },
+            {
+                "id": 2,
+                "texto": "algas"
+            },
+            {
+                "id": 3,
+                "texto": "bacterias"
+            },
+            {
+                "id": 4,
+                "texto": "fitoplancton",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "pregunta": "Los océanos absorben gran cantidad de CO2, lo que aumenta la acidez del agua y disminuye la capacidad de absorción de CO2.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ríos"
+            },
+            {
+                "id": 2,
+                "texto": "lagos"
+            },
+            {
+                "id": 3,
+                "texto": "mares"
+            },
+            {
+                "id": 4,
+                "texto": "oceanos",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "pregunta": "Los mariscos y otros organismos marinos pueden verse afectados por la acidificación del agua debido a la disminución del pH.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "pescados"
+            },
+            {
+                "id": 2,
+                "texto": "camarones"
+            },
+            {
+                "id": 3,
+                "texto": "crustáceos"
+            },
+            {
+                "id": 4,
+                "texto": "mariscos",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "pregunta": "El cambio climático es uno de los principales factores que contribuyen a la acidificación del agua.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "transformación"
+            },
+            {
+                "id": 2,
+                "texto": "cambio",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "evolución"
+            },
+            {
+                "id": 4,
+                "texto": "modificación"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "pregunta": "La solución a la acidificación del agua incluye la reducción de las emisiones de CO2 y la implementación de medidas de adaptación.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "suspensión"
+            },
+            {
+                "id": 2,
+                "texto": "disolución"
+            },
+            {
+                "id": 3,
+                "texto": "mezcla"
+            },
+            {
+                "id": 4,
+                "texto": "solución",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "pregunta": "La acidificación del agua afecta los ecosistemas marinos y su biodiversidad, especialmente los arrecifes de coral.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nichos"
+            },
+            {
+                "id": 2,
+                "texto": "biomas"
+            },
+            {
+                "id": 3,
+                "texto": "ecosistemas",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "hábitats"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "pregunta": "La acidificación del agua puede afectar negativamente la acuicultura y la producción de mariscos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "piscicultura"
+            },
+            {
+                "id": 2,
+                "texto": "acuicultura",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "agricultura"
+            },
+            {
+                "id": 4,
+                "texto": "ganadería"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "pregunta": "La acidificación del agua puede reducir la biodiversidad marina, afectando la cadena alimentaria y el equilibrio ecológico.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "variedad biológica"
+            },
+            {
+                "id": 2,
+                "texto": "biodiversidad",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "polinización"
+            },
+            {
+                "id": 4,
+                "texto": "selección natural"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "pregunta": "La reducción de la acidificación del agua es importante para preservar los ecosistemas marinos y la biodiversidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reducción",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "disminución"
+            },
+            {
+                "id": 3,
+                "texto": "eliminación"
+            },
+            {
+                "id": 4,
+                "texto": "reduccionismo"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "pregunta": "Aumento de la temperatura del planeta debido al efecto invernadero causado por gases como el dióxido de carbono (CO2) y metano (CH4).",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "enfriamiento"
+            },
+            {
+                "id": 2,
+                "texto": "aumento de temperatura"
+            },
+            {
+                "id": 3,
+                "texto": "calefacción"
+            },
+            {
+                "id": 4,
+                "texto": "calentamiento",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "pregunta": "Gases que contribuyen al efecto invernadero y al calentamiento global, como el dióxido de carbono (CO2), metano (CH4) y óxido nitroso (N2O).",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vapor"
+            },
+            {
+                "id": 2,
+                "texto": "atmósfera"
+            },
+            {
+                "id": 3,
+                "texto": "gases",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "líquidos"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "pregunta": "Energía radiante emitida por la Tierra, que es absorbida por los gases de efecto invernadero en la atmósfera y reemitida en todas las direcciones.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "rayos"
+            },
+            {
+                "id": 2,
+                "texto": "energía"
+            },
+            {
+                "id": 3,
+                "texto": "ondas"
+            },
+            {
+                "id": 4,
+                "texto": "radiación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "pregunta": "Aumento del nivel del mar, deshielo de los polos, cambios en los patrones climáticos, aumento de las sequías e inundaciones, y afectación de la biodiversidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "resultados"
+            },
+            {
+                "id": 2,
+                "texto": "consecuencias",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "efectos"
+            },
+            {
+                "id": 4,
+                "texto": "impactos"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "pregunta": "Resultado del efecto invernadero, que provoca cambios en los patrones climáticos y temperaturas del planeta.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "variabilidad climática"
+            },
+            {
+                "id": 2,
+                "texto": "cambio ambiental"
+            },
+            {
+                "id": 3,
+                "texto": "cambioclimático",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "evolución del clima"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "pregunta": "Gas de efecto invernadero que se produce por la actividad agrícola y la eliminación de residuos, y que es más potente que el dióxido de carbono en su capacidad de calentamiento.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "propano"
+            },
+            {
+                "id": 2,
+                "texto": "butano"
+            },
+            {
+                "id": 3,
+                "texto": "gas natural"
+            },
+            {
+                "id": 4,
+                "texto": "metano",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "pregunta": "Capa de gases que rodea la Tierra y que es esencial para mantener la vida en el planeta, pero que también puede atrapar el calor y provocar el efecto invernadero.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ozono"
+            },
+            {
+                "id": 2,
+                "texto": "aire"
+            },
+            {
+                "id": 3,
+                "texto": "atmósfera",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "estratos"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "pregunta": "Fuente de energía renovable que no emite gases de efecto invernadero y puede contribuir a reducir la dependencia de combustibles fósiles.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "paneles solares"
+            },
+            {
+                "id": 2,
+                "texto": "energía eólica"
+            },
+            {
+                "id": 3,
+                "texto": "energía hidráulica"
+            },
+            {
+                "id": 4,
+                "texto": "energía solar",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "pregunta": "Reducción del pH del agua debido a la absorción de dióxido de carbono de la atmósfera, lo que puede afectar negativamente a la vida marina y los ecosistemas costeros.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "toxicidad"
+            },
+            {
+                "id": 2,
+                "texto": "acidificación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "corrosión"
+            },
+            {
+                "id": 4,
+                "texto": "envenenamiento"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "pregunta": "Variedad de formas de vida en la Tierra, que se ve amenazada por el cambio climático y la deforestación.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "variedad de vida"
+            },
+            {
+                "id": 2,
+                "texto": "biodiversidad",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "diversidad de género"
+            },
+            {
+                "id": 4,
+                "texto": "variedad cultural"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "pregunta": "Compuestos orgánicos que contienen carbono e hidrógeno, que se utilizan como combustibles fósiles y emiten gases de efecto invernadero al ser quemados.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "petróleo"
+            },
+            {
+                "id": 2,
+                "texto": "gasolina"
+            },
+            {
+                "id": 3,
+                "texto": "hidrocarburos",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "lubricantes"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "pregunta": "Reducción de las emisiones de gases de efecto invernadero para minimizar los impactos del cambio climático en el futuro.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reducción"
+            },
+            {
+                "id": 2,
+                "texto": "intervención"
+            },
+            {
+                "id": 3,
+                "texto": "mitigación",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "prevención"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "pregunta": "Adaptación de la sociedad y los ecosistemas a los efectos del cambio climático que ya están ocurriendo o son inevitables.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "modificación"
+            },
+            {
+                "id": 2,
+                "texto": "adaptación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "ajuste"
+            },
+            {
+                "id": 4,
+                "texto": "cambio"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "pregunta": "Cantidad total de gases de efecto invernadero emitidos por una persona, organización o actividad, incluyendo la energía utilizada y los desplazamientos en transporte.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "huelladecarbono",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "huella de ozono"
+            },
+            {
+                "id": 3,
+                "texto": "huella ecológica"
+            },
+            {
+                "id": 4,
+                "texto": "huella hídrica"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "pregunta": "Acuerdo internacional para reducir las emisiones de gases de efecto invernadero y combatir el cambio climático, ratificado por la mayoría de los países del mundo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tratado internacional"
+            },
+            {
+                "id": 2,
+                "texto": "acuerdo internacional"
+            },
+            {
+                "id": 3,
+                "texto": "alianza internacional"
+            },
+            {
+                "id": 4,
+                "texto": "protocolokioto",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "pregunta": "Inversión en tecnologías y prácticas sostenibles que pueden ayudar a reducir las emisiones de gases de efecto invernadero y combatir el cambio climático.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "negocio"
+            },
+            {
+                "id": 2,
+                "texto": "dinero"
+            },
+            {
+                "id": 3,
+                "texto": "efectivo"
+            },
+            {
+                "id": 4,
+                "texto": "inversión",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "pregunta": "Precipitación atmosférica de agua que cae al suelo",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "viento"
+            },
+            {
+                "id": 2,
+                "texto": "lluvia",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "nieve"
+            },
+            {
+                "id": 4,
+                "texto": "sol"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "pregunta": "Fenómeno meteorológico que se caracteriza por la lluvia, el viento y los truenos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tormenta",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "huracán"
+            },
+            {
+                "id": 3,
+                "texto": "nevada"
+            },
+            {
+                "id": 4,
+                "texto": "terremoto"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "pregunta": "Anegamiento temporal y no deseado de terrenos que normalmente están secos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tsunami"
+            },
+            {
+                "id": 2,
+                "texto": "inundación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "sequía"
+            },
+            {
+                "id": 4,
+                "texto": "terremoto"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "pregunta": "Fenómeno climático que se caracteriza por la falta de lluvia y la escasez de agua en un área determinada",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sequía",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "ciclón"
+            },
+            {
+                "id": 3,
+                "texto": "lluvia ácida"
+            },
+            {
+                "id": 4,
+                "texto": "nevada"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "pregunta": "Proceso por el cual el agua se convierte en vapor y se eleva a la atmósfera",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "transpiración"
+            },
+            {
+                "id": 2,
+                "texto": "combustión"
+            },
+            {
+                "id": 3,
+                "texto": "evaporación",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "oxidación"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "pregunta": "Salida o rebosamiento de agua de un cauce o lugar determinado debido a la acumulación de agua",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sobrecarga"
+            },
+            {
+                "id": 2,
+                "texto": "desbordamiento",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "exceso"
+            },
+            {
+                "id": 4,
+                "texto": "saturación"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "pregunta": "Movimiento de una masa de tierra, rocas o escombros por efecto de la gravedad y la falta de cohesión del terreno",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "desprendimiento"
+            },
+            {
+                "id": 2,
+                "texto": "desintegración"
+            },
+            {
+                "id": 3,
+                "texto": "deslizamiento",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "desmoronamiento"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "pregunta": "Construcción artificial que se utiliza para almacenar agua y regular su caudal",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "represa",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "acueducto"
+            },
+            {
+                "id": 3,
+                "texto": "canal"
+            },
+            {
+                "id": 4,
+                "texto": "pozo"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "pregunta": "Acumulación artificial de agua, generalmente para usos hidroeléctricos o de abastecimiento",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "río"
+            },
+            {
+                "id": 2,
+                "texto": "arroyo"
+            },
+            {
+                "id": 3,
+                "texto": "embalse",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "lago"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "pregunta": "Sistema de canalizaciones que se utiliza para evacuar el agua y evitar inundaciones",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vertedero"
+            },
+            {
+                "id": 2,
+                "texto": "alcantarillado"
+            },
+            {
+                "id": 3,
+                "texto": "cloaca"
+            },
+            {
+                "id": 4,
+                "texto": "drenaje",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "pregunta": "Volumen de agua que fluye por un cauce en un momento determinado",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "flujo"
+            },
+            {
+                "id": 2,
+                "texto": "cauce"
+            },
+            {
+                "id": 3,
+                "texto": "caudal",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "corriente"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "pregunta": "Cantidad de vapor de agua que contiene la atmósfera en un momento determinado",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sequedad"
+            },
+            {
+                "id": 2,
+                "texto": "calor"
+            },
+            {
+                "id": 3,
+                "texto": "frío"
+            },
+            {
+                "id": 4,
+                "texto": "humedad",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "pregunta": "Curso natural de agua que fluye de forma intermitente y que desemboca en un río o en el mar",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "río"
+            },
+            {
+                "id": 2,
+                "texto": "arroyo",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "lago"
+            },
+            {
+                "id": 4,
+                "texto": "riachuelo"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "pregunta": "Lecho por donde corre el agua de un río, arroyo o canal",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "torrente"
+            },
+            {
+                "id": 2,
+                "texto": "arroyo"
+            },
+            {
+                "id": 3,
+                "texto": "cauce",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "corriente"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "pregunta": "Formación geológica capaz de almacenar agua subterránea y suministrarla a manantiales, ríos y pozos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sumidero"
+            },
+            {
+                "id": 2,
+                "texto": "acuífero",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "pozo"
+            },
+            {
+                "id": 4,
+                "texto": "río subterráneo"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "pregunta": "Conjunto de animales de un lugar o región determinada.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "fauna",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "animales"
+            },
+            {
+                "id": 3,
+                "texto": "bestiario"
+            },
+            {
+                "id": 4,
+                "texto": "especies"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "pregunta": "Conjunto de plantas de un lugar o región determinada.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vegetación"
+            },
+            {
+                "id": 2,
+                "texto": "flora",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "hierbas"
+            },
+            {
+                "id": 4,
+                "texto": "plantas"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "pregunta": "Acción de cortar árboles y eliminar bosques.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tala",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "corta"
+            },
+            {
+                "id": 3,
+                "texto": "deforestación"
+            },
+            {
+                "id": 4,
+                "texto": "poda"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "pregunta": "Pérdida de suelo causada por factores naturales o humanos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "erosión",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "avalancha"
+            },
+            {
+                "id": 3,
+                "texto": "degradación"
+            },
+            {
+                "id": 4,
+                "texto": "desertificación"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "pregunta": "Proceso por el cual una región se vuelve árida y sin vida.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sequedad"
+            },
+            {
+                "id": 2,
+                "texto": "aridez"
+            },
+            {
+                "id": 3,
+                "texto": "desertificación",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "esterilidad"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "pregunta": "Fuego no controlado que afecta áreas boscosas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "quema"
+            },
+            {
+                "id": 2,
+                "texto": "fogatas"
+            },
+            {
+                "id": 3,
+                "texto": "fuego artificial"
+            },
+            {
+                "id": 4,
+                "texto": "incendios",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "pregunta": "Bosque tropical con gran biodiversidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "selvas",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "arbustos"
+            },
+            {
+                "id": 3,
+                "texto": "bosques"
+            },
+            {
+                "id": 4,
+                "texto": "matorrales"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "pregunta": "Grupo de seres vivos que comparten características comunes.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "variedades"
+            },
+            {
+                "id": 2,
+                "texto": "especies",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "razas"
+            },
+            {
+                "id": 4,
+                "texto": "tipos"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "pregunta": "Desaparición de una especie del planeta.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "muerte"
+            },
+            {
+                "id": 2,
+                "texto": "desaparición"
+            },
+            {
+                "id": 3,
+                "texto": "eliminación"
+            },
+            {
+                "id": 4,
+                "texto": "extinción",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "pregunta": "Plantación de árboles para recuperar un área forestal.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reforestado"
+            },
+            {
+                "id": 2,
+                "texto": "cultivo"
+            },
+            {
+                "id": 3,
+                "texto": "plantación"
+            },
+            {
+                "id": 4,
+                "texto": "reforestación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "pregunta": "Ciencia que estudia las relaciones entre los seres vivos y su entorno.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "naturaleza"
+            },
+            {
+                "id": 2,
+                "texto": "biología"
+            },
+            {
+                "id": 3,
+                "texto": "ecología",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "medio ambiente"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "pregunta": "Lugar o tipo de ecosistema en el que vive una especie.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "zona"
+            },
+            {
+                "id": 2,
+                "texto": "entorno"
+            },
+            {
+                "id": 3,
+                "texto": "hábitat",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "territorio"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "pregunta": "Protección y preservación de la biodiversidad y el medio ambiente.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "protección"
+            },
+            {
+                "id": 2,
+                "texto": "conservación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "cuidado"
+            },
+            {
+                "id": 4,
+                "texto": "preservación"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "pregunta": "Gran área geográfica con un clima y tipo de vegetación específicos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "hábitat"
+            },
+            {
+                "id": 2,
+                "texto": "bioma",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "clima"
+            },
+            {
+                "id": 4,
+                "texto": "ecosistema"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "pregunta": "Clase de animales vertebrados que incluye sapos, ranas y salamandras.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sapos"
+            },
+            {
+                "id": 2,
+                "texto": "anfibios",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "ranas"
+            },
+            {
+                "id": 4,
+                "texto": "reptiles"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "pregunta": "División de un ecosistema en áreas más pequeñas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "separación"
+            },
+            {
+                "id": 2,
+                "texto": "descomposición"
+            },
+            {
+                "id": 3,
+                "texto": "desintegración"
+            },
+            {
+                "id": 4,
+                "texto": "fragmentación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "pregunta": "Práctica agrícola que consiste en el cultivo alternado de diferentes especies en una misma parcela para mejorar la salud del suelo y reducir la erosión.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sustitución"
+            },
+            {
+                "id": 2,
+                "texto": "alternancia"
+            },
+            {
+                "id": 3,
+                "texto": "cambio"
+            },
+            {
+                "id": 4,
+                "texto": "rotación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "pregunta": "Proceso de descomposición controlada de materiales orgánicos para obtener compost, un abono natural que mejora la calidad del suelo y reduce la necesidad de fertilizantes químicos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "químico"
+            },
+            {
+                "id": 2,
+                "texto": "abono"
+            },
+            {
+                "id": 3,
+                "texto": "compostaje",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "fertilización"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "pregunta": "Sistema agrícola que combina la plantación de árboles con la producción de cultivos y/o ganadería para mejorar la biodiversidad, la productividad y la resiliencia ante el cambio climático.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "silvicultura"
+            },
+            {
+                "id": 2,
+                "texto": "agricultura"
+            },
+            {
+                "id": 3,
+                "texto": "agroforestería",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "forestación"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "pregunta": "Diseño de sistemas agrícolas basados en principios de sostenibilidad, que buscan imitar los ecosistemas naturales para maximizar la eficiencia y la productividad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "permacultura",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "agricultura orgánica"
+            },
+            {
+                "id": 3,
+                "texto": "agroecología"
+            },
+            {
+                "id": 4,
+                "texto": "jardinería"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "pregunta": "Proceso de transferencia de polen de las flores a los estigmas, que es esencial para la reproducción de muchas plantas y la producción de frutos y semillas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reproducción"
+            },
+            {
+                "id": 2,
+                "texto": "fecundación"
+            },
+            {
+                "id": 3,
+                "texto": "germinación"
+            },
+            {
+                "id": 4,
+                "texto": "polinización",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "pregunta": "Práctica agrícola que implica no arar el suelo, lo que ayuda a reducir la erosión del suelo y a conservar la humedad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "no labrar"
+            },
+            {
+                "id": 2,
+                "texto": "agricultura ecológica"
+            },
+            {
+                "id": 3,
+                "texto": "agricultura natural"
+            },
+            {
+                "id": 4,
+                "texto": "labranzacero",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "pregunta": "Enfoque de la agricultura que busca integrar los conocimientos científicos y locales para diseñar sistemas productivos sostenibles, justos y respetuosos con el medio ambiente.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sostenibles"
+            },
+            {
+                "id": 2,
+                "texto": "agroecológicos",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "naturales"
+            },
+            {
+                "id": 4,
+                "texto": "orgánicos"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "pregunta": "Técnica de recolección de productos agrícolas que consiste en elegir cuidadosamente los individuos maduros o de mayor calidad, para reducir el impacto sobre la biodiversidad y garantizar la regeneración natural.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "selectiva",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "exclusiva"
+            },
+            {
+                "id": 3,
+                "texto": "intensiva"
+            },
+            {
+                "id": 4,
+                "texto": "restrictiva"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "pregunta": "Cultivos que se siembran en las parcelas agrícolas con el propósito de mejorar la fertilidad del suelo, aumentar la retención de agua y reducir la erosión.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tierra"
+            },
+            {
+                "id": 2,
+                "texto": "abonosverdes",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "compost"
+            },
+            {
+                "id": 4,
+                "texto": "fertilizantes"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "pregunta": "Sistema de riego que libera agua de manera gradual y controlada directamente en las raíces de las plantas, lo que reduce el desperdicio de agua.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "riegoporgoteo",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "aspersión"
+            },
+            {
+                "id": 3,
+                "texto": "riego por aspersión"
+            },
+            {
+                "id": 4,
+                "texto": "riego por inundación"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "pregunta": "Práctica agrícola que implica el cambio de la especie cultivada en una parcela cada temporada, para evitar la pérdida de nutrientes del suelo, reducir la propagación de plagas y enfermedades y mejorar la calidad de los cultivos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "rotacióncultivo",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "intercalamiento"
+            },
+            {
+                "id": 3,
+                "texto": "monocultivo"
+            },
+            {
+                "id": 4,
+                "texto": "policultivo"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "pregunta": "Estrategia de control de plagas que implica la combinación de diferentes métodos, como la rotación de cultivos, el control biológico y el uso de pesticidas naturales, para minimizar el uso de productos químicos y reducir el impacto ambiental.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "pesticidas"
+            },
+            {
+                "id": 2,
+                "texto": "herbicidas"
+            },
+            {
+                "id": 3,
+                "texto": "insecticidas"
+            },
+            {
+                "id": 4,
+                "texto": "manejodeplagas",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "pregunta": "Agua que se recoge de la precipitación y que se puede utilizar para riego en sistemas de agricultura sostenible, como una forma de reducir el consumo de agua potable y conservar los recursos hídricos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "agua potable"
+            },
+            {
+                "id": 2,
+                "texto": "agua de lluvia",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "agua embotellada"
+            },
+            {
+                "id": 4,
+                "texto": "agua mineral"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "pregunta": "Sistema agrícola que utiliza prácticas sostenibles, como la rotación de cultivos, el compostaje y el control biológico, y que prohíbe el uso de pesticidas y fertilizantes químicos sintéticos, para producción organica, sin quimicos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "orgánica",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "biológica"
+            },
+            {
+                "id": 3,
+                "texto": "ecológica"
+            },
+            {
+                "id": 4,
+                "texto": "natural"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "pregunta": "Proceso de utilizar de nuevo un producto o envase para evitar el desperdicio y reducir el consumo de recursos naturales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reutilización",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "compostaje"
+            },
+            {
+                "id": 3,
+                "texto": "reciclaje"
+            },
+            {
+                "id": 4,
+                "texto": "reducción"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "pregunta": "Proceso de recolección, separación y transformación de materiales para convertirlos en nuevos productos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reutilización"
+            },
+            {
+                "id": 2,
+                "texto": "compostaje"
+            },
+            {
+                "id": 3,
+                "texto": "reciclaje",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "reducción"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "pregunta": "Capacidad de satisfacer las necesidades actuales sin comprometer la capacidad de las generaciones futuras de satisfacer sus propias necesidades.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sustentabilidad"
+            },
+            {
+                "id": 2,
+                "texto": "durabilidad"
+            },
+            {
+                "id": 3,
+                "texto": "estabilidad"
+            },
+            {
+                "id": 4,
+                "texto": "sostenibilidad",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "pregunta": "Material que se descompone naturalmente en el medio ambiente, sin causar daños a la naturaleza.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reciclable"
+            },
+            {
+                "id": 2,
+                "texto": "biodegradable",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "compostable"
+            },
+            {
+                "id": 4,
+                "texto": "no biodegradable"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "pregunta": "Producto cultivado sin el uso de químicos y pesticidas sintéticos, manteniendo los ciclos naturales del suelo y sin dañar el medio ambiente.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "químico"
+            },
+            {
+                "id": 2,
+                "texto": "ecológico"
+            },
+            {
+                "id": 3,
+                "texto": "natural"
+            },
+            {
+                "id": 4,
+                "texto": "orgánico",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "pregunta": "Producto o práctica que no daña el medio ambiente y es respetuoso con la naturaleza.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "verde"
+            },
+            {
+                "id": 2,
+                "texto": "amigable con el medio ambiente"
+            },
+            {
+                "id": 3,
+                "texto": "ecofriendly",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "sustentable"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "pregunta": "Sistema comercial que busca un trato justo para los productores y trabajadores en los países en vías de desarrollo, asegurando un precio justo y unas condiciones laborales adecuadas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "comerciojusto",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "comercio justo y solidario"
+            },
+            {
+                "id": 3,
+                "texto": "comercio responsable"
+            },
+            {
+                "id": 4,
+                "texto": "comercio ético"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "pregunta": "Acción de disminuir el consumo de recursos naturales y la producción de residuos, mediante la elección de productos duraderos y de mayor calidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reutilización"
+            },
+            {
+                "id": 2,
+                "texto": "compostaje"
+            },
+            {
+                "id": 3,
+                "texto": "reciclaje"
+            },
+            {
+                "id": 4,
+                "texto": "reducción",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "pregunta": "Producto o servicio producido y vendido en la misma comunidad, fomentando la economía local y reduciendo la huella de carbono.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "regional"
+            },
+            {
+                "id": 2,
+                "texto": "global"
+            },
+            {
+                "id": 3,
+                "texto": "local",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "nacional"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "pregunta": "Información impresa en los productos que indica los ingredientes, origen, fabricante y las instrucciones de uso y cuidado, ayudando a los consumidores a tomar decisiones informadas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "etiqueta",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "calificación"
+            },
+            {
+                "id": 3,
+                "texto": "certificación"
+            },
+            {
+                "id": 4,
+                "texto": "clasificación"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "pregunta": "Medida del impacto ambiental que causa una persona o una empresa, tomando en cuenta las emisiones de gases de efecto invernadero, la energía utilizada y el uso de recursos naturales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "pisada"
+            },
+            {
+                "id": 2,
+                "texto": "carbono"
+            },
+            {
+                "id": 3,
+                "texto": "huella",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "impacto"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "pregunta": "Proceso de transformación de materiales y objetos en desuso en productos de mayor valor, reduciendo los residuos y el consumo de recursos naturales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "upcycling",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "reciclaje creativo"
+            },
+            {
+                "id": 3,
+                "texto": "reciclaje innovador"
+            },
+            {
+                "id": 4,
+                "texto": "reutilización creativa"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "pregunta": "Actitud de estar consciente de las consecuencias ambientales de nuestras acciones y decisiones, y actuar de forma responsable y sostenible.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "responsable"
+            },
+            {
+                "id": 2,
+                "texto": "consciente",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "consciente del impacto"
+            },
+            {
+                "id": 4,
+                "texto": "consciente del medio ambiente"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "pregunta": "Material utilizado para proteger y transportar productos, con el objetivo de minimizar el impacto ambiental se debe priorizar los embalajes reciclables y biodegradables.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "envase"
+            },
+            {
+                "id": 2,
+                "texto": "contenedor"
+            },
+            {
+                "id": 3,
+                "texto": "embalaje",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "empaque"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "pregunta": "Medio de transporte de dos ruedas que no emite gases de efecto invernadero y fomenta el ejercicio físico.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "patineta"
+            },
+            {
+                "id": 2,
+                "texto": "bicicleta",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "ciclomotor"
+            },
+            {
+                "id": 4,
+                "texto": "monopatín"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "pregunta": "Persona que se desplaza a pie, contribuyendo a reducir la contaminación y mejorar la salud.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "viandante"
+            },
+            {
+                "id": 2,
+                "texto": "caminante"
+            },
+            {
+                "id": 3,
+                "texto": "peatón",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "transeúnte"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "pregunta": "Sistema de transporte público subterráneo que reduce la emisión de gases contaminantes.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tren subterráneo"
+            },
+            {
+                "id": 2,
+                "texto": "metro",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "subterráneo"
+            },
+            {
+                "id": 4,
+                "texto": "transporte público"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "pregunta": "Combustible renovable producido a partir de aceites vegetales que disminuye las emisiones de CO2.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "gasolina"
+            },
+            {
+                "id": 2,
+                "texto": "biocombustible"
+            },
+            {
+                "id": 3,
+                "texto": "biodiésel",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "diesel"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "pregunta": "Medio de transporte de larga distancia que emite menos gases de efecto invernadero que los aviones.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tren",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "ferrocarril"
+            },
+            {
+                "id": 3,
+                "texto": "metro"
+            },
+            {
+                "id": 4,
+                "texto": "tranvía"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "pregunta": "Medio de transporte eléctrico que utiliza energía renovable y no emite gases contaminantes.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "trolebús"
+            },
+            {
+                "id": 2,
+                "texto": "autobús eléctrico"
+            },
+            {
+                "id": 3,
+                "texto": "metrobus"
+            },
+            {
+                "id": 4,
+                "texto": "tranvía",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "pregunta": "Medio de transporte individual y ecológico que funciona con baterías eléctricas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "segway"
+            },
+            {
+                "id": 2,
+                "texto": "bicicleta eléctrica"
+            },
+            {
+                "id": 3,
+                "texto": "monopatín"
+            },
+            {
+                "id": 4,
+                "texto": "patinete",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "pregunta": "Vehículo que funciona con energía eléctrica, no emite gases contaminantes y reduce la dependencia del petróleo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "motocicleta eléctrica"
+            },
+            {
+                "id": 2,
+                "texto": "auto eléctrico"
+            },
+            {
+                "id": 3,
+                "texto": "auto híbrido"
+            },
+            {
+                "id": 4,
+                "texto": "carroeléctrico",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "pregunta": "Transporte público que permite reducir el número de vehículos en circulación y las emisiones de gases.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "moto"
+            },
+            {
+                "id": 2,
+                "texto": "autobús",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "bici"
+            },
+            {
+                "id": 4,
+                "texto": "carro"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "pregunta": "Medio de transporte personal que no emite gases de efecto invernadero y beneficia la salud.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "saltar"
+            },
+            {
+                "id": 2,
+                "texto": "caminar",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "correr"
+            },
+            {
+                "id": 4,
+                "texto": "nadar"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "pregunta": "Vehículo que combina un motor de combustión interna con uno eléctrico para reducir las emisiones.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "gasolina"
+            },
+            {
+                "id": 2,
+                "texto": "cochehíbrido",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "diesel"
+            },
+            {
+                "id": 4,
+                "texto": "eléctrico"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "pregunta": "Sistema de alquiler de vehículos que permite reducir el número de coches en circulación.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "taxi"
+            },
+            {
+                "id": 2,
+                "texto": "avión"
+            },
+            {
+                "id": 3,
+                "texto": "camión"
+            },
+            {
+                "id": 4,
+                "texto": "carrocompartido",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "pregunta": "Transporte público que utiliza energía renovable y no emite gases contaminantes.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "híbrido"
+            },
+            {
+                "id": 2,
+                "texto": "diesel"
+            },
+            {
+                "id": 3,
+                "texto": "eléctrico",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "gasolina"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "pregunta": "Vía exclusiva para bicicletas que fomenta el uso de medios de transporte no contaminantes.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ciclovía",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "autopista"
+            },
+            {
+                "id": 3,
+                "texto": "avenida"
+            },
+            {
+                "id": 4,
+                "texto": "carretera"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "pregunta": "Conjunto de leyes y regulaciones que buscan proteger el medio ambiente y regular el comportamiento humano en relación a la naturaleza.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reglas"
+            },
+            {
+                "id": 2,
+                "texto": "leyes"
+            },
+            {
+                "id": 3,
+                "texto": "normativas",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "ordenanzas"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "pregunta": "Concepto que busca satisfacer las necesidades presentes sin comprometer la capacidad de las futuras generaciones para satisfacer sus propias necesidades.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sostenibilidad",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "crecimiento"
+            },
+            {
+                "id": 3,
+                "texto": "desarrollo"
+            },
+            {
+                "id": 4,
+                "texto": "progreso"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "pregunta": "Protección y preservación de los recursos naturales y del medio ambiente con el fin de evitar su deterioro y asegurar su sostenibilidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "restauración"
+            },
+            {
+                "id": 2,
+                "texto": "conservación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "preservación"
+            },
+            {
+                "id": 4,
+                "texto": "protección"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "pregunta": "Proceso mediante el cual se recuperan los materiales útiles de los residuos y se utilizan para la producción de nuevos bienes, reduciendo la cantidad de residuos y su impacto ambiental.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vertedero"
+            },
+            {
+                "id": 2,
+                "texto": "basura"
+            },
+            {
+                "id": 3,
+                "texto": "compostaje"
+            },
+            {
+                "id": 4,
+                "texto": "reciclaje",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "pregunta": "Fuente de energía que no emite gases de efecto invernadero ni produce contaminación, como la energía solar, eólica, hidráulica y geotérmica.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sucia"
+            },
+            {
+                "id": 2,
+                "texto": "energíalimpia",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "no renovable"
+            },
+            {
+                "id": 4,
+                "texto": "renovable"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "pregunta": "Conjunto de medidas que buscan reducir las emisiones de gases de efecto invernadero para frenar el cambio climático y sus efectos negativos sobre el medio ambiente y la sociedad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "resiliencia"
+            },
+            {
+                "id": 2,
+                "texto": "adaptación"
+            },
+            {
+                "id": 3,
+                "texto": "mitigación",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "prevención"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "pregunta": "Conjunto de medidas que buscan reducir la vulnerabilidad de las comunidades y los ecosistemas frente al cambio climático y sus efectos negativos, mediante la implementación de estrategias de adaptación.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "resiliencia"
+            },
+            {
+                "id": 2,
+                "texto": "adaptación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "mitigación"
+            },
+            {
+                "id": 4,
+                "texto": "prevención"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "pregunta": "Presencia en el medio ambiente de sustancias nocivas para la salud humana y el medio ambiente, como gases tóxicos, metales pesados, pesticidas, entre otros.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "suciedad"
+            },
+            {
+                "id": 2,
+                "texto": "basura"
+            },
+            {
+                "id": 3,
+                "texto": "contaminación",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "polución"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "pregunta": "Materiales desechados que ya no tienen utilidad para el consumidor final y que necesitan ser gestionados adecuadamente para evitar su impacto negativo en el medio ambiente.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "residuos",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "basura"
+            },
+            {
+                "id": 3,
+                "texto": "desechables"
+            },
+            {
+                "id": 4,
+                "texto": "desechos"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "pregunta": "Variedad de seres vivos que habitan en un ecosistema y que contribuyen a su equilibrio y sostenibilidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "flora"
+            },
+            {
+                "id": 2,
+                "texto": "biodiversidad",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "ecosistema"
+            },
+            {
+                "id": 4,
+                "texto": "fauna"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "pregunta": "Medida del impacto ambiental de una persona, empresa o comunidad sobre la naturaleza, en términos de consumo de recursos naturales, emisiones de gases contaminantes y producción de residuos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "impacto"
+            },
+            {
+                "id": 2,
+                "texto": "carbono"
+            },
+            {
+                "id": 3,
+                "texto": "emisiones"
+            },
+            {
+                "id": 4,
+                "texto": "huellaecológica",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "pregunta": "Sistema de etiquetado que informa al consumidor sobre el impacto ambiental de un producto o servicio, permitiéndole tomar decisiones más sostenibles y responsables.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "marca"
+            },
+            {
+                "id": 2,
+                "texto": "certificación"
+            },
+            {
+                "id": 3,
+                "texto": "ecoetiquetado",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "etiqueta"
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "pregunta": "Modelo económico que busca conciliar el crecimiento económico con la protección del medio ambiente y el uso sostenible de los recursos naturales, mediante la innovación y la tecnología.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sostenibilidad"
+            },
+            {
+                "id": 2,
+                "texto": "desarrollo"
+            },
+            {
+                "id": 3,
+                "texto": "ecología"
+            },
+            {
+                "id": 4,
+                "texto": "economíaverde",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "pregunta": "Dispositivos que convierten la energía solar en electricidad",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vidrio"
+            },
+            {
+                "id": 2,
+                "texto": "paneles",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "solar"
+            },
+            {
+                "id": 4,
+                "texto": "térmico"
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "pregunta": "Energía generada por la fuerza del viento",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "solar"
+            },
+            {
+                "id": 2,
+                "texto": "eólica",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "geotérmica"
+            },
+            {
+                "id": 4,
+                "texto": "hidráulica"
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "pregunta": "Vehículo que combina un motor de combustión interna con uno eléctrico",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "híbrido",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "diesel"
+            },
+            {
+                "id": 3,
+                "texto": "eléctrico"
+            },
+            {
+                "id": 4,
+                "texto": "gasolina"
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "pregunta": "Combustible renovable hecho de aceites vegetales o animales",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "gasolina"
+            },
+            {
+                "id": 2,
+                "texto": "aceite"
+            },
+            {
+                "id": 3,
+                "texto": "biodiesel",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "diésel"
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "pregunta": "Energía que se obtiene del calor del interior de la Tierra",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "térmica"
+            },
+            {
+                "id": 2,
+                "texto": "geotérmica",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "hidráulica"
+            },
+            {
+                "id": 4,
+                "texto": "solar"
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "pregunta": "Dispositivo electrónico que emite luz con alta eficiencia energética",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "lámpara"
+            },
+            {
+                "id": 2,
+                "texto": "bombilla"
+            },
+            {
+                "id": 3,
+                "texto": "halógeno"
+            },
+            {
+                "id": 4,
+                "texto": "led",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "pregunta": "Análisis del impacto ambiental de un producto en todas sus etapas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reciclaje"
+            },
+            {
+                "id": 2,
+                "texto": "ciclodevida",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "compostaje"
+            },
+            {
+                "id": 4,
+                "texto": "desecho"
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "pregunta": "Capacidad de aprovechar al máximo los recursos y minimizar los residuos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "productividad"
+            },
+            {
+                "id": 2,
+                "texto": "ahorro"
+            },
+            {
+                "id": 3,
+                "texto": "eficiencia",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "optimización"
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "pregunta": "Sistema que se puede mantener en el tiempo sin agotar los recursos naturales",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "verde"
+            },
+            {
+                "id": 2,
+                "texto": "ecológico"
+            },
+            {
+                "id": 3,
+                "texto": "renovable"
+            },
+            {
+                "id": 4,
+                "texto": "sostenible",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "pregunta": "Diseño de sistemas sostenibles inspirados en la naturaleza",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "permacultura",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "agricultura"
+            },
+            {
+                "id": 3,
+                "texto": "huerto"
+            },
+            {
+                "id": 4,
+                "texto": "jardinería"
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "pregunta": "Diseño de tecnologías inspirado en la naturaleza",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "naturaleza"
+            },
+            {
+                "id": 2,
+                "texto": "biomimética",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "diseño"
+            },
+            {
+                "id": 4,
+                "texto": "imitación"
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "pregunta": "Proceso de transformar residuos en nuevos materiales",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vertedero"
+            },
+            {
+                "id": 2,
+                "texto": "basura"
+            },
+            {
+                "id": 3,
+                "texto": "compostaje",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "reciclaje"
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "pregunta": "Proceso de transformación de materia orgánica en abono",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "pesca"
+            },
+            {
+                "id": 2,
+                "texto": "agricultura",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "caza"
+            },
+            {
+                "id": 4,
+                "texto": "ganadería"
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "pregunta": "Prácticas sostenibles para cultivar alimentos y conservar el suelo",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "radiador"
+            },
+            {
+                "id": 2,
+                "texto": "aire acondicionado"
+            },
+            {
+                "id": 3,
+                "texto": "calefacción",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "calentador"
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "pregunta": "Sistemas de calefacción con alta eficiencia energética",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "investigación"
+            },
+            {
+                "id": 2,
+                "texto": "creatividad"
+            },
+            {
+                "id": 3,
+                "texto": "desarrollo"
+            },
+            {
+                "id": 4,
+                "texto": "innovación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "pregunta": "Desarrollo de nuevas tecnologías y soluciones sostenibles",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "transporte"
+            },
+            {
+                "id": 2,
+                "texto": "construcción"
+            },
+            {
+                "id": 3,
+                "texto": "edificación"
+            },
+            {
+                "id": 4,
+                "texto": "infraestructura",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "pregunta": "Capacidad de aprovechar al máximo los recursos y minimizar los residuos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "seguridad",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "defensa"
+            },
+            {
+                "id": 3,
+                "texto": "prevención"
+            },
+            {
+                "id": 4,
+                "texto": "protección"
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "pregunta": "Conjunto de elementos y estructuras físicas que se construyen con el fin de mejorar y adaptar el entorno al cambio climático.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "resiliencia",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "adaptación"
+            },
+            {
+                "id": 3,
+                "texto": "mitigación"
+            },
+            {
+                "id": 4,
+                "texto": "prevención"
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "pregunta": "Conjunto de medidas y políticas enfocadas en garantizar la seguridad de la población ante situaciones extremas relacionadas con el cambio climático, como desastres naturales o pandemias.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "zonificación",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "parcelamiento"
+            },
+            {
+                "id": 3,
+                "texto": "planificación"
+            },
+            {
+                "id": 4,
+                "texto": "urbanismo"
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "pregunta": "Capacidad de un sistema o comunidad para resistir, adaptarse y recuperarse ante situaciones de estrés y choques climáticos.combinación de factores, incluyendo, prácticas agrícolas sostenibles, y sistemas de alerta temprana para desastres naturales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "resistencia"
+            },
+            {
+                "id": 2,
+                "texto": "agilidad"
+            },
+            {
+                "id": 3,
+                "texto": "fortaleza"
+            },
+            {
+                "id": 4,
+                "texto": "resiliencia",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "pregunta": "División de un área geográfica en zonas específicas con el fin de identificar las áreas de mayor vulnerabilidad al cambio climático y adaptar las políticas y medidas de acuerdo a las necesidades de cada zona.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "zonificación",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "delimitación"
+            },
+            {
+                "id": 3,
+                "texto": "sectorización"
+            },
+            {
+                "id": 4,
+                "texto": "separación"
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "pregunta": "Acciones y estrategias que se implementan para minimizar los impactos negativos del cambio climático en la sociedad y en el medio ambiente. Incluye medidas de mitigación y adaptación para reducir las emisiones de gases de efecto invernadero",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "modificación"
+            },
+            {
+                "id": 2,
+                "texto": "adaptación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "adecuación"
+            },
+            {
+                "id": 4,
+                "texto": "ajuste"
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "pregunta": "Acciones para reducir las emisiones de gases de efecto invernadero y limitar el calentamiento global. Incluye el uso de energías renovables, la mejora de la eficiencia energética, y la promoción de prácticas agrícolas y forestales sostenibles.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reducción"
+            },
+            {
+                "id": 2,
+                "texto": "amortiguación"
+            },
+            {
+                "id": 3,
+                "texto": "atenuación"
+            },
+            {
+                "id": 4,
+                "texto": "mitigación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "pregunta": "Sistema de monitoreo y alerta que se utiliza para detectar eventos climáticos extremos, como huracanes, sequías o inundaciones, y para informar a la población con antelación para minimizar el riesgo de daños y pérdidas humanas y materiales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "notificación"
+            },
+            {
+                "id": 2,
+                "texto": "advertencia"
+            },
+            {
+                "id": 3,
+                "texto": "alerta temprana",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "aviso"
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "pregunta": "Estrategias y medidas para reducir la exposición y vulnerabilidad de las comunidades ante eventos climáticos extremos y desastres naturales. Incluye medidas como,la capacitación de la población para responder ante situaciones de riesgo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "protección"
+            },
+            {
+                "id": 2,
+                "texto": "control"
+            },
+            {
+                "id": 3,
+                "texto": "gestión de riesgo",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "prevención"
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "pregunta": "Se pueden cultivar una gran variedad de hortalizas, frutas y hierbas aromáticas en un espacio reducido, utilizando técnicas de agricultura sostenible y sin necesidad de utilizar químicos o pesticidas dañinos para la salud.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "jardín"
+            },
+            {
+                "id": 2,
+                "texto": "campo"
+            },
+            {
+                "id": 3,
+                "texto": "cultivo"
+            },
+            {
+                "id": 4,
+                "texto": "huerta casera",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "pregunta": "Fertilizantes naturales obtenidos a partir de materiales vegetales o animales en descomposición, como por ejemplo, estiércol, compost, restos de cosechas, entre otros. ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nutrientes"
+            },
+            {
+                "id": 2,
+                "texto": "abonos orgánicos",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "composta"
+            },
+            {
+                "id": 4,
+                "texto": "fertilizantes"
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "pregunta": "Estructura subterránea que se utiliza para almacenar agua de lluvia o de manantial. Consiste en una excavación en el terreno, que recoge y almacena el agua para su uso en momentos de escasez o sequía. ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "pozo"
+            },
+            {
+                "id": 2,
+                "texto": "algibe",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "cisterna"
+            },
+            {
+                "id": 4,
+                "texto": "depósito"
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "pregunta": "Técnica sostenible y económica para aprovechar un recurso valioso y reducir la dependencia de fuentes de agua tradicionales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "torre de agua"
+            },
+            {
+                "id": 2,
+                "texto": "aguas lluvias",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "pluviales"
+            },
+            {
+                "id": 4,
+                "texto": "precipitaciones"
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "pregunta": "Desarrollo sostenible a través de la implementación de prácticas y políticas económicas que minimicen el impacto ambiental y fomenten la equidad social. Generar un crecimiento económico sostenible e inclusivo, preservando los recursos naturales",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "producción limpia"
+            },
+            {
+                "id": 2,
+                "texto": "crecimiento sustentable"
+            },
+            {
+                "id": 3,
+                "texto": "desarrollo sostenible"
+            },
+            {
+                "id": 4,
+                "texto": "economía verde",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "pregunta": "Energía obtenida a partir del sol mediante paneles solares que convierten la luz solar en electricidad o calor.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "solar",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "fotovoltaica"
+            },
+            {
+                "id": 3,
+                "texto": "luminosa"
+            },
+            {
+                "id": 4,
+                "texto": "radiante"
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "pregunta": "Energía generada a partir del viento mediante la utilización de turbinas eólicas que convierten la energía cinética del viento en electricidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "viento"
+            },
+            {
+                "id": 2,
+                "texto": "aerogenerador"
+            },
+            {
+                "id": 3,
+                "texto": "eólica",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "molino"
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "pregunta": "Energía generada a partir del agua en movimiento, generalmente mediante la utilización de presas y turbinas que convierten la energía hidráulica en electricidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "hidráulica",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "agua"
+            },
+            {
+                "id": 3,
+                "texto": "central hidroeléctrica"
+            },
+            {
+                "id": 4,
+                "texto": "embalse"
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "pregunta": "Energía obtenida a partir del movimiento de las mareas mediante la utilización de turbinas que convierten la energía mareomotriz en electricidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "olas"
+            },
+            {
+                "id": 2,
+                "texto": "energía de las corrientes"
+            },
+            {
+                "id": 3,
+                "texto": "marea"
+            },
+            {
+                "id": 4,
+                "texto": "mareomotriz",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "pregunta": "Energía obtenida a partir del calor interno de la Tierra, mediante la utilización de pozos geotérmicos que extraen agua caliente o vapor para generar electricidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "volcán"
+            },
+            {
+                "id": 2,
+                "texto": "energía de la tierra"
+            },
+            {
+                "id": 3,
+                "texto": "geotérmica",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "terremoto"
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "pregunta": "Energía obtenida a partir de materia orgánica como residuos agrícolas, forestales o urbanos, que se queman o fermentan para generar calor o electricidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "residuos"
+            },
+            {
+                "id": 2,
+                "texto": "biomasa",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "combustible vegetal"
+            },
+            {
+                "id": 4,
+                "texto": "materia orgánica"
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "pregunta": "Energía generada a partir de la fisión nuclear del uranio o plutonio en una central nuclear, que produce calor para generar electricidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "átomo"
+            },
+            {
+                "id": 2,
+                "texto": "energía atómica"
+            },
+            {
+                "id": 3,
+                "texto": "fisión"
+            },
+            {
+                "id": 4,
+                "texto": "nuclear",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "pregunta": "Energía obtenida a partir de la energía térmica almacenada en el interior de la Tierra o en los océanos, mediante la utilización de sistemas de intercambio de calor.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "térmica",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "calor"
+            },
+            {
+                "id": 3,
+                "texto": "energía calorífica"
+            },
+            {
+                "id": 4,
+                "texto": "termoeléctrica"
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "pregunta": "Mezcla de hidrógeno y oxígeno que se puede utilizar como combustible en motores de combustión interna para reducir las emisiones contaminantes.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "oxígeno"
+            },
+            {
+                "id": 2,
+                "texto": "combustible de hidrógeno"
+            },
+            {
+                "id": 3,
+                "texto": "hho",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "hidrógeno"
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "pregunta": "Partícula elemental que compone la radiación electromagnética y que es capturada por los paneles solares para producir electricidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "rayo de luz"
+            },
+            {
+                "id": 2,
+                "texto": "energía lumínica"
+            },
+            {
+                "id": 3,
+                "texto": "fotón",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "partícula"
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "pregunta": "Conferencia de las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "cop",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "acuerdo internacional"
+            },
+            {
+                "id": 3,
+                "texto": "conferencia de las partes"
+            },
+            {
+                "id": 4,
+                "texto": "convención"
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "pregunta": "Acuerdo internacional que establece objetivos y acciones para abordar un problema global.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tratado"
+            },
+            {
+                "id": 2,
+                "texto": "acuerdo"
+            },
+            {
+                "id": 3,
+                "texto": "ley internacional"
+            },
+            {
+                "id": 4,
+                "texto": "protocolo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "pregunta": "Acuerdo internacional que establece objetivos para reducir las emisiones de gases de efecto invernadero.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "protocolo de kioto"
+            },
+            {
+                "id": 2,
+                "texto": "acuerdo de kioto"
+            },
+            {
+                "id": 3,
+                "texto": "ciudad de kioto"
+            },
+            {
+                "id": 4,
+                "texto": "kioto",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "pregunta": "Acuerdo internacional que establece objetivos para limitar el calentamiento global a 2°C.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tratado de parís"
+            },
+            {
+                "id": 2,
+                "texto": "acuerdo de parís"
+            },
+            {
+                "id": 3,
+                "texto": "ciudad de parís"
+            },
+            {
+                "id": 4,
+                "texto": "parís",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "pregunta": "Alteración en el clima que se debe a la actividad humana.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "variación"
+            },
+            {
+                "id": 2,
+                "texto": "cambio",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "modificación"
+            },
+            {
+                "id": 4,
+                "texto": "transformación"
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "pregunta": "Pacto entre países para resolver un problema global.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tratado"
+            },
+            {
+                "id": 2,
+                "texto": "acuerdo",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "convenio"
+            },
+            {
+                "id": 4,
+                "texto": "pacto"
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "pregunta": "Liberación de gases contaminantes al medio ambiente.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "gases tóxicos"
+            },
+            {
+                "id": 2,
+                "texto": "contaminación"
+            },
+            {
+                "id": 3,
+                "texto": "emisiones",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "gases de efecto invernadero"
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "pregunta": "Acuerdo internacional para abordar un problema ambiental.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tratado"
+            },
+            {
+                "id": 2,
+                "texto": "acuerdo"
+            },
+            {
+                "id": 3,
+                "texto": "convenio",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "pacto"
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "pregunta": "Comercio de derechos de emisión para reducir las emisiones de gases de efecto invernadero.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "transacciones"
+            },
+            {
+                "id": 2,
+                "texto": "bolsa"
+            },
+            {
+                "id": 3,
+                "texto": "comercio"
+            },
+            {
+                "id": 4,
+                "texto": "mercado",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "pregunta": "Objeto en órbita que recopila información para monitorear el clima y el medio ambiente.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "órbita"
+            },
+            {
+                "id": 2,
+                "texto": "espacio"
+            },
+            {
+                "id": 3,
+                "texto": "satélite",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "telescopio"
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "pregunta": "Dispositivo que mide variables climáticas como temperatura, humedad y presión.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sensor",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "detector"
+            },
+            {
+                "id": 3,
+                "texto": "medidor"
+            },
+            {
+                "id": 4,
+                "texto": "receptor"
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "pregunta": "Lugar equipado con instrumentos para medir y monitorear variables climáticas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "punto de monitoreo"
+            },
+            {
+                "id": 2,
+                "texto": "estación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "medición"
+            },
+            {
+                "id": 4,
+                "texto": "observatorio"
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "pregunta": "Observación y registro sistemático de variables climáticas y ambientales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vigilancia"
+            },
+            {
+                "id": 2,
+                "texto": "monitoreo",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "seguimiento"
+            },
+            {
+                "id": 4,
+                "texto": "supervisión"
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "pregunta": "Acción de observar y registrar variables climáticas y ambientales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "observación",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "control"
+            },
+            {
+                "id": 3,
+                "texto": "examinación"
+            },
+            {
+                "id": 4,
+                "texto": "inspección"
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "pregunta": "Dispositivo utilizado para medir y monitorear variables climáticas y ambientales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "instrumento",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "aparato"
+            },
+            {
+                "id": 3,
+                "texto": "dispositivo"
+            },
+            {
+                "id": 4,
+                "texto": "herramienta"
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "pregunta": "Estudio científico de la atmósfera y los fenómenos climáticos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "termómetro"
+            },
+            {
+                "id": 2,
+                "texto": "calor"
+            },
+            {
+                "id": 3,
+                "texto": "frío"
+            },
+            {
+                "id": 4,
+                "texto": "temperatura",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "pregunta": "Patrón de variaciones climáticas a largo plazo en un área geográfica determinada.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "pronóstico"
+            },
+            {
+                "id": 2,
+                "texto": "aire"
+            },
+            {
+                "id": 3,
+                "texto": "clima"
+            },
+            {
+                "id": 4,
+                "texto": "meteorología",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "pregunta": "Medida de la intensidad del calor en un objeto o ambiente.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tiempo"
+            },
+            {
+                "id": 2,
+                "texto": "cambio"
+            },
+            {
+                "id": 3,
+                "texto": "clima",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "estación"
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "pregunta": "Fuerza por unidad de área ejercida por el aire o la atmósfera.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "viento"
+            },
+            {
+                "id": 2,
+                "texto": "altura"
+            },
+            {
+                "id": 3,
+                "texto": "atmósfera"
+            },
+            {
+                "id": 4,
+                "texto": "presión",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "pregunta": "Microorganismo que puede causar enfermedades",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "virus",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "bacteria"
+            },
+            {
+                "id": 3,
+                "texto": "enfermedad"
+            },
+            {
+                "id": 4,
+                "texto": "epidemia"
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "pregunta": "Problema de salud que afecta a una persona o a un grupo de personas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "salud"
+            },
+            {
+                "id": 2,
+                "texto": "enfermedad",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "epidemia"
+            },
+            {
+                "id": 4,
+                "texto": "infección"
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "pregunta": "Sensación de alta temperatura que puede afectar la salud",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "verano"
+            },
+            {
+                "id": 2,
+                "texto": "calor",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "frío"
+            },
+            {
+                "id": 4,
+                "texto": "temperatura"
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "pregunta": "Insecto que puede transmitir enfermedades a través de su picadura",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "mosquito",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "abeja"
+            },
+            {
+                "id": 3,
+                "texto": "araña"
+            },
+            {
+                "id": 4,
+                "texto": "hormiga"
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "pregunta": "Propagación rápida de una enfermedad en una población determinada",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "pandemia"
+            },
+            {
+                "id": 2,
+                "texto": "brote"
+            },
+            {
+                "id": 3,
+                "texto": "enfermedad"
+            },
+            {
+                "id": 4,
+                "texto": "epidemia",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "pregunta": "Elemento vital para la vida, pero que puede ser portador de enfermedades si está contaminado",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "río"
+            },
+            {
+                "id": 2,
+                "texto": "agua",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "lluvia"
+            },
+            {
+                "id": 4,
+                "texto": "océano"
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "pregunta": "Mezcla de gases que respiramos y que puede estar contaminado y afectar la salud",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "viento"
+            },
+            {
+                "id": 2,
+                "texto": "aire",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "atmósfera"
+            },
+            {
+                "id": 4,
+                "texto": "oxígeno"
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "pregunta": "Estado de bienestar físico, mental y social",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "salud",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "bienestar"
+            },
+            {
+                "id": 3,
+                "texto": "ejercicio"
+            },
+            {
+                "id": 4,
+                "texto": "enfermedad"
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "pregunta": "Presencia de sustancias perjudiciales en el ambiente que pueden afectar la salud",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tóxico"
+            },
+            {
+                "id": 2,
+                "texto": "contaminación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "polución"
+            },
+            {
+                "id": 4,
+                "texto": "suciedad"
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "pregunta": "Acciones que se llevan a cabo para evitar la aparición o propagación de enfermedades.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "seguridad"
+            },
+            {
+                "id": 2,
+                "texto": "cuidado"
+            },
+            {
+                "id": 3,
+                "texto": "prevención",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "protección"
+            }
+        ]
+    },
+    {
+        "id": 241,
+        "pregunta": "Niebla contaminada con dióxido de azufre y partículas, que puede causar problemas respiratorios.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "smog",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "humo"
+            },
+            {
+                "id": 3,
+                "texto": "neblina"
+            },
+            {
+                "id": 4,
+                "texto": "polución"
+            }
+        ]
+    },
+    {
+        "id": 242,
+        "pregunta": "Precipitación con pH ácido debido a la presencia de gases contaminantes en la atmósfera.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ácido"
+            },
+            {
+                "id": 2,
+                "texto": "contaminación"
+            },
+            {
+                "id": 3,
+                "texto": "lluvia"
+            },
+            {
+                "id": 4,
+                "texto": "lluvia ácida",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 243,
+        "pregunta": "Gas inodoro y mortal que se produce por la combustión incompleta de combustibles fósiles.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tóxico"
+            },
+            {
+                "id": 2,
+                "texto": "gas"
+            },
+            {
+                "id": 3,
+                "texto": "humo"
+            },
+            {
+                "id": 4,
+                "texto": "monóxido de carbono",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 244,
+        "pregunta": "Gas que se forma por la reacción de la luz solar con otros contaminantes atmosféricos. Puede causar problemas respiratorios.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ozono troposférico",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "aire"
+            },
+            {
+                "id": 3,
+                "texto": "capa de ozono"
+            },
+            {
+                "id": 4,
+                "texto": "ozono estratosférico"
+            }
+        ]
+    },
+    {
+        "id": 245,
+        "pregunta": "Gas irritante que se produce por la quema de combustibles fósiles. Puede causar problemas respiratorios y lluvia ácida.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tóxico"
+            },
+            {
+                "id": 2,
+                "texto": "contaminación"
+            },
+            {
+                "id": 3,
+                "texto": "dióxido de azufre",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "gas"
+            }
+        ]
+    },
+    {
+        "id": 246,
+        "pregunta": "Pequeñas partículas en suspensión sólidas o líquidas en el aire, como el hollín y el polvo, que pueden causar problemas respiratorios.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "polvo"
+            },
+            {
+                "id": 2,
+                "texto": "aire"
+            },
+            {
+                "id": 3,
+                "texto": "contaminación"
+            },
+            {
+                "id": 4,
+                "texto": "partículas en el aire",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 247,
+        "pregunta": "Gas irritante que se produce por la quema de combustibles fósiles. Puede causar problemas respiratorios y lluvia ácida.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tóxico"
+            },
+            {
+                "id": 2,
+                "texto": "contaminación"
+            },
+            {
+                "id": 3,
+                "texto": "dióxido de nitrógeno",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "gas"
+            }
+        ]
+    },
+    {
+        "id": 248,
+        "pregunta": "Compuestos orgánicos que se producen por la combustión incompleta de combustibles fósiles. Pueden contribuir al smog.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "petróleo"
+            },
+            {
+                "id": 2,
+                "texto": "combustible"
+            },
+            {
+                "id": 3,
+                "texto": "gas"
+            },
+            {
+                "id": 4,
+                "texto": "hidrocarburos",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 249,
+        "pregunta": "Metal tóxico que se encuentra en algunos combustibles fósiles y puede causar daños cerebrales y nerviosos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "veneno"
+            },
+            {
+                "id": 2,
+                "texto": "mercurio",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "metal"
+            },
+            {
+                "id": 4,
+                "texto": "tóxico"
+            }
+        ]
+    },
+    {
+        "id": 250,
+        "pregunta": "Metal tóxico que se encuentra en algunos combustibles fósiles y puede causar problemas de desarrollo en los niños.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tóxico"
+            },
+            {
+                "id": 2,
+                "texto": "contaminación"
+            },
+            {
+                "id": 3,
+                "texto": "metal"
+            },
+            {
+                "id": 4,
+                "texto": "plomo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 251,
+        "pregunta": "Dispositivo que convierte la energía solar en energía eléctrica utilizable.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "panel",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "célula"
+            },
+            {
+                "id": 3,
+                "texto": "energía solar"
+            },
+            {
+                "id": 4,
+                "texto": "fotovoltaico"
+            }
+        ]
+    },
+    {
+        "id": 252,
+        "pregunta": "Dispositivo que almacena energía eléctrica generada por paneles solares.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "energía solar"
+            },
+            {
+                "id": 2,
+                "texto": "almacenamiento"
+            },
+            {
+                "id": 3,
+                "texto": "batería",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "electricidad"
+            }
+        ]
+    },
+    {
+        "id": 253,
+        "pregunta": "Aparato que convierte la corriente continua generada por paneles solares en corriente alterna.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "transformador"
+            },
+            {
+                "id": 2,
+                "texto": "corriente"
+            },
+            {
+                "id": 3,
+                "texto": "energía solar"
+            },
+            {
+                "id": 4,
+                "texto": "inversor",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 254,
+        "pregunta": "Capacidad de los paneles solares para convertir la luz solar en energía eléctrica.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "rendimiento"
+            },
+            {
+                "id": 2,
+                "texto": "eficiencia",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "energía solar"
+            },
+            {
+                "id": 4,
+                "texto": "potencia"
+            }
+        ]
+    },
+    {
+        "id": 255,
+        "pregunta": "Energía transmitida por la luz solar.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "radiación solar",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "calor"
+            },
+            {
+                "id": 3,
+                "texto": "energía solar"
+            },
+            {
+                "id": 4,
+                "texto": "luz solar"
+            }
+        ]
+    },
+    {
+        "id": 256,
+        "pregunta": "Inclinación de los paneles solares para optimizar la captación de la luz solar.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ángulo",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "energía solar"
+            },
+            {
+                "id": 3,
+                "texto": "inclinación"
+            },
+            {
+                "id": 4,
+                "texto": "posición"
+            }
+        ]
+    },
+    {
+        "id": 257,
+        "pregunta": "Cantidad de energía eléctrica generada por los paneles solares.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "voltaje"
+            },
+            {
+                "id": 2,
+                "texto": "corriente"
+            },
+            {
+                "id": 3,
+                "texto": "energía solar"
+            },
+            {
+                "id": 4,
+                "texto": "potencia",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 258,
+        "pregunta": "Ubicación común para la instalación de paneles solares en hogares.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "techo",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "casa"
+            },
+            {
+                "id": 3,
+                "texto": "construcción"
+            },
+            {
+                "id": 4,
+                "texto": "energía solar"
+            }
+        ]
+    },
+    {
+        "id": 259,
+        "pregunta": "Energía producida sin emisiones de gases contaminantes.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "energía verde"
+            },
+            {
+                "id": 2,
+                "texto": "energía limpia",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "energía renovable"
+            },
+            {
+                "id": 4,
+                "texto": "energía sostenible"
+            }
+        ]
+    },
+    {
+        "id": 260,
+        "pregunta": "Fuente de energía que se puede regenerar naturalmente y no se agota con su uso.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "energía solar"
+            },
+            {
+                "id": 2,
+                "texto": "energía eólica"
+            },
+            {
+                "id": 3,
+                "texto": "energía limpia"
+            },
+            {
+                "id": 4,
+                "texto": "energía renovable",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 261,
+        "pregunta": "Agua congelada que se derrite por el aumento de la temperatura global, provocando el aumento del mar",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nieve"
+            },
+            {
+                "id": 2,
+                "texto": "frío"
+            },
+            {
+                "id": 3,
+                "texto": "glaciar"
+            },
+            {
+                "id": 4,
+                "texto": "hielo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 262,
+        "pregunta": "Estrella principal de nuestro sistema solar, cuya radiación es una de las principales causas del CG",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sol",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "calentamiento"
+            },
+            {
+                "id": 3,
+                "texto": "estrella"
+            },
+            {
+                "id": 4,
+                "texto": "luz"
+            }
+        ]
+    },
+    {
+        "id": 263,
+        "pregunta": "Cuerpo de agua salada que cubre la mayor parte de la superficie terrestre, afectado por el CG",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "playa"
+            },
+            {
+                "id": 2,
+                "texto": "agua"
+            },
+            {
+                "id": 3,
+                "texto": "mar"
+            },
+            {
+                "id": 4,
+                "texto": "océano",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 264,
+        "pregunta": "Mezcla de gases que rodea la Tierra, afectado por el CG y responsable del clima",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "viento"
+            },
+            {
+                "id": 2,
+                "texto": "aire",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "atmósfera"
+            },
+            {
+                "id": 4,
+                "texto": "oxígeno"
+            }
+        ]
+    },
+    {
+        "id": 265,
+        "pregunta": "Planeta en el que vivimos y que está siendo afectado por el CG, especialmente en su superficie",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "termómetro"
+            },
+            {
+                "id": 2,
+                "texto": "calefactor"
+            },
+            {
+                "id": 3,
+                "texto": "climatizador"
+            },
+            {
+                "id": 4,
+                "texto": "temperatura",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 266,
+        "pregunta": "Movimiento del aire que puede ser afectado por el CG, alterando el clima y las condiciones locales",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tierra",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "desierto"
+            },
+            {
+                "id": 3,
+                "texto": "suelo"
+            },
+            {
+                "id": 4,
+                "texto": "terreno"
+            }
+        ]
+    },
+    {
+        "id": 267,
+        "pregunta": "Medida de la intensidad del calor, afectada por el CG y que está aumentando en todo el mundo",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "viento",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "brisa"
+            },
+            {
+                "id": 3,
+                "texto": "huracán"
+            },
+            {
+                "id": 4,
+                "texto": "ráfaga"
+            }
+        ]
+    },
+    {
+        "id": 268,
+        "pregunta": "Patrón meteorológico a largo plazo, alterado por el CG y que está generando cambios globales",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tiempo"
+            },
+            {
+                "id": 2,
+                "texto": "ambiente"
+            },
+            {
+                "id": 3,
+                "texto": "atmósfera"
+            },
+            {
+                "id": 4,
+                "texto": "clima",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 269,
+        "pregunta": "Energía que se transmite por ondas electromagnéticas, producida por el Sol y afectada por el CG",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "rayos X"
+            },
+            {
+                "id": 2,
+                "texto": "gamma"
+            },
+            {
+                "id": 3,
+                "texto": "luz ultravioleta"
+            },
+            {
+                "id": 4,
+                "texto": "radiación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 270,
+        "pregunta": "Tipo de radiación invisible al ojo humano, que es absorbida por los gases de efecto invernadero",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ultravioleta"
+            },
+            {
+                "id": 2,
+                "texto": "infrarrojo",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "microondas"
+            },
+            {
+                "id": 4,
+                "texto": "onda corta"
+            }
+        ]
+    },
+    {
+        "id": 271,
+        "pregunta": "Movimiento humano forzado debido a cambios en el clima y medio",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "traslado"
+            },
+            {
+                "id": 2,
+                "texto": "desplazamiento",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "emigración"
+            },
+            {
+                "id": 4,
+                "texto": "mudanza"
+            }
+        ]
+    },
+    {
+        "id": 272,
+        "pregunta": "Incremento del nivel del mar y cambios en los patrones de lluvia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "inundación"
+            },
+            {
+                "id": 2,
+                "texto": "aumentoagua",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "creciente"
+            },
+            {
+                "id": 4,
+                "texto": "diluvio"
+            }
+        ]
+    },
+    {
+        "id": 273,
+        "pregunta": "Desaparición de especies debido a cambios en el clima",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "extinción",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "aniquilación"
+            },
+            {
+                "id": 3,
+                "texto": "desaparición"
+            },
+            {
+                "id": 4,
+                "texto": "exterminio"
+            }
+        ]
+    },
+    {
+        "id": 274,
+        "pregunta": "Degradación del suelo en zonas secas debido a la actividad humana y el cambio climático. Esto causa pérdida de recursos naturales, biodiversidad, pobreza y migración.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sequía"
+            },
+            {
+                "id": 2,
+                "texto": "aridez"
+            },
+            {
+                "id": 3,
+                "texto": "desertificación",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "erosión"
+            }
+        ]
+    },
+    {
+        "id": 275,
+        "pregunta": "Reducción de recursos naturales debido al cambio climático",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reducción"
+            },
+            {
+                "id": 2,
+                "texto": "desaparición"
+            },
+            {
+                "id": 3,
+                "texto": "extravío"
+            },
+            {
+                "id": 4,
+                "texto": "pérdida",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 276,
+        "pregunta": "Aumento de la frecuencia y la intensidad de fenómenos climáticos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tormenta"
+            },
+            {
+                "id": 2,
+                "texto": "cataclismo"
+            },
+            {
+                "id": 3,
+                "texto": "ciclón"
+            },
+            {
+                "id": 4,
+                "texto": "eventosextremos",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 277,
+        "pregunta": "Aumento de la acidez del océano debido al CO2",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "salinidad"
+            },
+            {
+                "id": 2,
+                "texto": "acidificación"
+            },
+            {
+                "id": 3,
+                "texto": "contaminación"
+            },
+            {
+                "id": 4,
+                "texto": "oceanoacido",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 278,
+        "pregunta": "Escasez de alimentos debido a cambios en el clima y la tierra",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sequía"
+            },
+            {
+                "id": 2,
+                "texto": "crisisalimentos",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "escasez"
+            },
+            {
+                "id": 4,
+                "texto": "hambruna"
+            }
+        ]
+    },
+    {
+        "id": 279,
+        "pregunta": "Aumento de incendios forestales debido a clima más cálido y seco",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "quemadura"
+            },
+            {
+                "id": 2,
+                "texto": "fuego"
+            },
+            {
+                "id": 3,
+                "texto": "incendio",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "llamas"
+            }
+        ]
+    },
+    {
+        "id": 280,
+        "pregunta": "Movimiento humano forzado debido a cambios en el clima y medio",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "traslado"
+            },
+            {
+                "id": 2,
+                "texto": "emigración"
+            },
+            {
+                "id": 3,
+                "texto": "migración",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "movilización"
+            }
+        ]
+    },
+    {
+        "id": 281,
+        "pregunta": "Gas de efecto invernadero producido por la agricultura y la industria",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "propano"
+            },
+            {
+                "id": 2,
+                "texto": "butano"
+            },
+            {
+                "id": 3,
+                "texto": "gas natural"
+            },
+            {
+                "id": 4,
+                "texto": "metano",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 282,
+        "pregunta": "Gas de efecto invernadero producido por la quema de combustibles fósiles",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "monóxido de carbono"
+            },
+            {
+                "id": 2,
+                "texto": "co2",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "dióxido de carbono"
+            },
+            {
+                "id": 4,
+                "texto": "metano"
+            }
+        ]
+    },
+    {
+        "id": 283,
+        "pregunta": "Gas que absorbe radiación UV en la estratosfera, pero es un contaminante en la tropósfera",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ozono",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "capa de ozono"
+            },
+            {
+                "id": 3,
+                "texto": "gas nitroso"
+            },
+            {
+                "id": 4,
+                "texto": "oxígeno"
+            }
+        ]
+    },
+    {
+        "id": 284,
+        "pregunta": "Gas de efecto invernadero producido por la agricultura y la industria",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "óxido nitroso"
+            },
+            {
+                "id": 2,
+                "texto": "nitrógeno"
+            },
+            {
+                "id": 3,
+                "texto": "oxidonitroso",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "óxido de nitrógeno"
+            }
+        ]
+    },
+    {
+        "id": 285,
+        "pregunta": "Gas de efecto invernadero más abundante, pero no producido por la actividad humana",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vapordeagua",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "condensación"
+            },
+            {
+                "id": 3,
+                "texto": "humedad"
+            },
+            {
+                "id": 4,
+                "texto": "niebla"
+            }
+        ]
+    },
+    {
+        "id": 286,
+        "pregunta": "Capa de la atmósfera más cercana a la Tierra, donde ocurre el clima",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tropósfera",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "estratosfera"
+            },
+            {
+                "id": 3,
+                "texto": "ionosfera"
+            },
+            {
+                "id": 4,
+                "texto": "mesosfera"
+            }
+        ]
+    },
+    {
+        "id": 287,
+        "pregunta": "Elemento que forma la base de los combustibles fósiles y el dióxido de carbono",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "grafito"
+            },
+            {
+                "id": 2,
+                "texto": "carbonilla"
+            },
+            {
+                "id": 3,
+                "texto": "carbono",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "diamante"
+            }
+        ]
+    },
+    {
+        "id": 288,
+        "pregunta": "Sustancia que se expande libremente en el aire.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vapor"
+            },
+            {
+                "id": 2,
+                "texto": "aire"
+            },
+            {
+                "id": 3,
+                "texto": "gas",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "líquido"
+            }
+        ]
+    },
+    {
+        "id": 289,
+        "pregunta": "Mezcla de gases que rodea la Tierra.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "oxígeno"
+            },
+            {
+                "id": 2,
+                "texto": "aire",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "dióxido de carbono"
+            },
+            {
+                "id": 4,
+                "texto": "nitrógeno"
+            }
+        ]
+    },
+    {
+        "id": 290,
+        "pregunta": "Partículas que se liberan al quemar materia orgánica.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "niebla"
+            },
+            {
+                "id": 2,
+                "texto": "bruma"
+            },
+            {
+                "id": 3,
+                "texto": "humo",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "neblina"
+            }
+        ]
+    }
+]

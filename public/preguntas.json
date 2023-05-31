@@ -1,0 +1,347 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cuál es la capital de Francia?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Londres"
+            },
+            {
+                "id": 2,
+                "texto": "París",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Madrid"
+            },
+            {
+                "id": 4,
+                "texto": "Roma"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "pregunta": "¿En qué año empezó la Primera Guerra Mundial?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "1914",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "1918"
+            },
+            {
+                "id": 3,
+                "texto": "1922"
+            },
+            {
+                "id": 4,
+                "texto": "1912"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Amazonas",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Nilo"
+            },
+            {
+                "id": 3,
+                "texto": "Yangtze"
+            },
+            {
+                "id": 4,
+                "texto": "Misisipi"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Quién es considerado el padre del psicoanálisis?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Carl Jung"
+            },
+            {
+                "id": 2,
+                "texto": "Sigmund Freud",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Erik Erikson"
+            },
+            {
+                "id": 4,
+                "texto": "Abraham Maslow"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Qué artista pintó la obra 'La noche estrellada'?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Pablo Picasso"
+            },
+            {
+                "id": 2,
+                "texto": "Vincent Van Gogh",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Leonardo da Vinci"
+            },
+            {
+                "id": 4,
+                "texto": "Michelangelo"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "pregunta": "¿En qué país se encuentra la ciudad de Petra?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Egipto"
+            },
+            {
+                "id": 2,
+                "texto": "Irak"
+            },
+            {
+                "id": 3,
+                "texto": "Jordania",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Siria"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Qué país tiene la forma de una bota?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "España"
+            },
+            {
+                "id": 2,
+                "texto": "Italia",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Francia"
+            },
+            {
+                "id": 4,
+                "texto": "Portugal"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Quién escribió la novela '1984'?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "George Orwell",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Aldous Huxley"
+            },
+            {
+                "id": 3,
+                "texto": "Ray Bradbury"
+            },
+            {
+                "id": 4,
+                "texto": "J. D. Salinger"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Quién es el autor de 'El Principito'?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Gabriel García Márquez"
+            },
+            {
+                "id": 2,
+                "texto": "Antoine de Saint-Exupéry",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Jorge Luis Borges"
+            },
+            {
+                "id": 4,
+                "texto": "Mario Vargas Llosa"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Quién es el autor de la famosa obra 'Don Quijote de la Mancha'?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Miguel de Cervantes",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Federico García Lorca"
+            },
+            {
+                "id": 3,
+                "texto": "Pablo Neruda"
+            },
+            {
+                "id": 4,
+                "texto": "Gabriel García Márquez"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Melbourne"
+            },
+            {
+                "id": 2,
+                "texto": "Sidney"
+            },
+            {
+                "id": 3,
+                "texto": "Canberra",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Adelaida"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Qué gas es necesario para que se produzca la combustión?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Nitrógeno"
+            },
+            {
+                "id": 2,
+                "texto": "Oxígeno",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Hidrógeno"
+            },
+            {
+                "id": 4,
+                "texto": "Helio"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Cuál es el animal más grande del mundo?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Elefante"
+            },
+            {
+                "id": 2,
+                "texto": "Ballena azul",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Jirafa"
+            },
+            {
+                "id": 4,
+                "texto": "Hipopótamo"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Estados Unidos"
+            },
+            {
+                "id": 2,
+                "texto": "China"
+            },
+            {
+                "id": 3,
+                "texto": "Rusia",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Brasil"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Cuál es el quinto planeta del sistema solar?",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Mercurio"
+            },
+            {
+                "id": 2,
+                "texto": "Venus"
+            },
+            {
+                "id": 3,
+                "texto": "Marte"
+            },
+            {
+                "id": 4,
+                "texto": "Júpiter",
+                "correcta": true
+            }
+        ]
+    }
+]

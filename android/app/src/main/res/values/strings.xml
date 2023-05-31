@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">explorando</string>
+    <string name="title_activity_main">explorando</string>
+    <string name="package_name">com.explorando.app</string>
+    <string name="custom_url_scheme">com.explorando.app</string>
+</resources>

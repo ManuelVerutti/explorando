@@ -1,0 +1,75 @@
+.screen {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .person {
+    position: absolute;
+    bottom: -200px;
+    width: 175px;
+    height: 200px;
+    transition: all 0.5s ease-out;
+    
+  }
+  
+  .person-1 {
+    left: 10%;
+  }
+  
+  .person-2 {
+    right: 10%;
+    transform: scaleX(-1);
+
+  }
+  
+  .slide-up {
+    bottom: 0;
+  }
+  
+  .dialogue {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 30%;
+    font-size: 14px;
+    text-align: justify;
+  }
+  
+  .dialogueClick {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 30%;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  .dialogue p {
+    margin: 0;
+  }
+
+  .dialogueClick p {
+    margin: 0;
+  }
+  

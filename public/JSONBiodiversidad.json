@@ -1,0 +1,4809 @@
+[
+    {
+        "id": 1,
+        "pregunta": "Variabilidad de la vida en todas sus formas (especies, ecosistemas y variación genética dentro de las especies). ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "especie"
+            },
+            {
+                "id": 2,
+                "texto": "biodiversidad",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "casiendemica"
+            },
+            {
+                "id": 4,
+                "texto": "endemico"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "pregunta": "Especie o nivel taxonómico superior cuyo rango de distribución natural está restringida a una zona geográfica determinada",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "especie"
+            },
+            {
+                "id": 2,
+                "texto": "amenazada"
+            },
+            {
+                "id": 3,
+                "texto": "casiendemica"
+            },
+            {
+                "id": 4,
+                "texto": "endemico",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "pregunta": "Un grupo de organismos (población) que pueden entrecruzarse entre sí y producir descendencia fértil, no pudiendo hacer lo mismo con otros organismos (aislamiento). ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "poblacion"
+            },
+            {
+                "id": 2,
+                "texto": "especie",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "genero"
+            },
+            {
+                "id": 4,
+                "texto": "habitat"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "pregunta": "Especie que tiene probabilidad de estar en peligro de extinción en un futuro previsible, ya sea en la totalidad o parte de su rango de distribución",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "poblacion"
+            },
+            {
+                "id": 2,
+                "texto": "amenazada",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "biodiversidad"
+            },
+            {
+                "id": 4,
+                "texto": "hotspots"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "pregunta": "Área del planeta Tierra con una concentración inusual de especies, muchas de las cuales son endémicas al áreas y se encuentran bajo amenaza ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "kba"
+            },
+            {
+                "id": 2,
+                "texto": "aica"
+            },
+            {
+                "id": 3,
+                "texto": "ecotono"
+            },
+            {
+                "id": 4,
+                "texto": "hotspot",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "pregunta": "Especie con un rango de distribución en dos o más países, en donde la mitad o más de su distribución se encuentra en un país pero posee extensiones menores hacia uno o más países vecinos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "kba"
+            },
+            {
+                "id": 2,
+                "texto": "aica"
+            },
+            {
+                "id": 3,
+                "texto": "casiendemica",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "habitat"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "pregunta": "Áreas Clave para la Conservación de Biodiversidad, de gran valor global para la conservación y mantener la salud general del planeta, albergando ecosistemas de importancia mundial o poblaciones de animales, y plantas. La Serranía el Pinche es una KBA",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vuelonocturno"
+            },
+            {
+                "id": 2,
+                "texto": "kba",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "nectarívoro"
+            },
+            {
+                "id": 4,
+                "texto": "rióguapi"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "pregunta": "Las Áreas de Importancia para la Conservación de las Aves (AICA) son sitios que conservan especies de aves identificadas como prioritarias para la conservación. La Serranía El Pinche es un AICA.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "trochillidae"
+            },
+            {
+                "id": 2,
+                "texto": "aica",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "estrellafluvial"
+            },
+            {
+                "id": 4,
+                "texto": "montañas"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "pregunta": "Son las condiciones biofísicas y geográficas donde un organismo o una población vive, se reproduce y perpetua su existencia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "plaguicidas"
+            },
+            {
+                "id": 2,
+                "texto": "endemico"
+            },
+            {
+                "id": 3,
+                "texto": "habitat",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "peligrocritico"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "pregunta": "Un grupo de individuos de la misma especie que ocupa un área definida y generalmente, está aislada en alguna medida de otros grupos similares.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "prevencion"
+            },
+            {
+                "id": 2,
+                "texto": "areaprotegida"
+            },
+            {
+                "id": 3,
+                "texto": "investigacion"
+            },
+            {
+                "id": 4,
+                "texto": "poblacion",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "pregunta": "Categoría taxonómica que agrupa a las especies relacionadas entre sí por medio de la evolución",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "turismo"
+            },
+            {
+                "id": 2,
+                "texto": "genero",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "poderambiental"
+            },
+            {
+                "id": 4,
+                "texto": "recreacion"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "pregunta": "Nombre científico que hace relación a alguna característica de la especie (lugar, caracteres morfológicos, nombres de científicos).Compuesto por género y epítetio específico (Eriocnemis (género) isabellae (epítetio específico))",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "incentivos"
+            },
+            {
+                "id": 2,
+                "texto": "acuerdos"
+            },
+            {
+                "id": 3,
+                "texto": "educacion"
+            },
+            {
+                "id": 4,
+                "texto": "epiespecifico",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "pregunta": "Componentes bióticos (seres vivos) y abióticos (no vivos) que ocupan un sitio determinado que establecen relaciones biológicas, físicas y químicas entre ellos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nectarívoro"
+            },
+            {
+                "id": 2,
+                "texto": "cuatrodédos"
+            },
+            {
+                "id": 3,
+                "texto": "ecosistema",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "gran corazón"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "pregunta": "Conjunto de ecosistemas que hacen parte de una zona biogeográfica, definido a partir de la vegetación y animales que los componen y sus relaciones con el suelo y el clima",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "zamarros"
+            },
+            {
+                "id": 2,
+                "texto": "auriculares"
+            },
+            {
+                "id": 3,
+                "texto": "bioma",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "cabezales"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "pregunta": "Denominación con la que se conoce a una especie que no hace relación a su nombre científico",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vigilancia"
+            },
+            {
+                "id": 2,
+                "texto": "manejo"
+            },
+            {
+                "id": 3,
+                "texto": "nombrecomun",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "sinap"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "pregunta": "Nombre que los científicos otorgan a cada especie siguiendo la nomenclatura binomial de Carlos Linneo. Compuesto de género y epiteto específico. Solo se escribe en mayúsculas la primer letra del género. Todo el nombre se escribe en cursiva.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "zumbido"
+            },
+            {
+                "id": 2,
+                "texto": "nomcientifico",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "plandemanejo"
+            },
+            {
+                "id": 4,
+                "texto": "riotimbiqui"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "pregunta": "Cada una de las subdivisiones de la clasificación biológica, desde la especie, que se toma como unidad, hasta el filo o tipo de organización.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "taxon",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "coprófago"
+            },
+            {
+                "id": 3,
+                "texto": "hervívoro"
+            },
+            {
+                "id": 4,
+                "texto": "metabolismoalto"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "pregunta": "Indice de biodiversidad que se basa en el número de especies que habitan en un área determinada. ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sobrecultivo"
+            },
+            {
+                "id": 2,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 3,
+                "texto": "extinto"
+            },
+            {
+                "id": 4,
+                "texto": "riquezaprecisa",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "pregunta": "Flia Trochillidae (colibri) proviene del griego érion:con botas de lana y knēmis:polaina, así, los nombres de especies asociadas se denominan \"Zamarro\", como Zamarrito del Pinche(Eriocnemis isabellae) o Zamarrito de Munchique (Eriocnemis mirabilis)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "violaceae"
+            },
+            {
+                "id": 2,
+                "texto": "begoniaceae"
+            },
+            {
+                "id": 3,
+                "texto": "eriocnemis",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "lauraceae"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "pregunta": "Epíteto de especie Eriocnemis isabellae,en honor a \"Isabella\", nombre de hija de uno de los científicos que reportaron especie como nueva: Alexander Cortes.Especie fue reportada en 2008 por científicos de la Fundación Ecohabitats como nueva especie",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sabiaceae"
+            },
+            {
+                "id": 2,
+                "texto": "asteraceae"
+            },
+            {
+                "id": 3,
+                "texto": "cornaceae"
+            },
+            {
+                "id": 4,
+                "texto": "isabellae",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "pregunta": "Categoría de la lista roja de IUCN que hace referencia a un taxón que está enfrentando un riesgo de extinción extremadamente alto en vida silvestre. El Zamarrito del Pinche (Eriocnemis isabellae) se encuentra En Peligro Crítico.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tinamiformes"
+            },
+            {
+                "id": 2,
+                "texto": "colombiformes"
+            },
+            {
+                "id": 3,
+                "texto": "cuculiformes"
+            },
+            {
+                "id": 4,
+                "texto": "peligrocritico",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "pregunta": "Nivel taxonómico cuyo rango de distribución natural está restringida a una zona geográfica determinada.El Zamarrito del Pinche es endémico de los páramos y bosques altoandinos de Serranía El Pinche, no se encuentra en ningún otro lugar del planeta.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "poaceae"
+            },
+            {
+                "id": 2,
+                "texto": "araceae"
+            },
+            {
+                "id": 3,
+                "texto": "cleomaceae"
+            },
+            {
+                "id": 4,
+                "texto": "endemico",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "pregunta": "Ubicado en nacientes del río San Juan de Micay en Serranía El Pinche, en límites entre departamento del Cauca (Argelia y Balboa) y Nariño (Leyva).Es el habitat del Zamarrito del Pinche (Eriocnemis isabellae), desde 2023 con acuerdo de conservación.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "pelecaniformes"
+            },
+            {
+                "id": 2,
+                "texto": "ansériformes"
+            },
+            {
+                "id": 3,
+                "texto": "falconiformes"
+            },
+            {
+                "id": 4,
+                "texto": "paramomicay",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "pregunta": "Ubicado en la Cordillera Occidental en límites entre los municipios de Argelia y Balboa (Cauca), donde se desprende Serranía El Pinche.Es el habitat del Zamarrito del Pinche (Eriocnemis isabellae), desde 2023 con acuerdos de conservación.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "strigiformes"
+            },
+            {
+                "id": 2,
+                "texto": "apodíformes"
+            },
+            {
+                "id": 3,
+                "texto": "cerrocalifornia",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "piciformes"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "pregunta": "Ubicado en Serranía del Pinche en límites entre los municipios de Argelia y Guapi (Cauca). A 2023 con acuerdos de conservación en las veredas El Naranjal y Santa Clara (Argelia-Cauca). Es el habitat del Zamarrito del Pinche (Eriocnemis isabellae).",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "trogoniformes"
+            },
+            {
+                "id": 2,
+                "texto": "columbiformes"
+            },
+            {
+                "id": 3,
+                "texto": "coraciformes"
+            },
+            {
+                "id": 4,
+                "texto": "paramolasoledad",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "pregunta": "Selvas ubicadas por encima de los 1000 msnm",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "selvaaltoandina",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "bosquenuboso"
+            },
+            {
+                "id": 3,
+                "texto": "galliformes"
+            },
+            {
+                "id": 4,
+                "texto": "ríoguaitara"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "pregunta": "Animal que se alimenta del néctar de las flores, como aves, insectos o murciélagos. El Zamarrito del Pinche (Eriocnemis isabellae) y el Zamarrito de Munchique (Eriocnemis mirabilis) son unos de ellos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vueloreversa"
+            },
+            {
+                "id": 2,
+                "texto": "carroñero"
+            },
+            {
+                "id": 3,
+                "texto": "frugívoro"
+            },
+            {
+                "id": 4,
+                "texto": "nectarívoro",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "pregunta": "Nombre de la familia de aves que agrupa los colibries. Proviene del latin trochilus: ave pequeña.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vuelosuspendido"
+            },
+            {
+                "id": 2,
+                "texto": "micelio"
+            },
+            {
+                "id": 3,
+                "texto": "necrófago"
+            },
+            {
+                "id": 4,
+                "texto": "trochillidae",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "pregunta": " Vive en zonas húmedas de la Cordillera Occidental de los Andes",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "urbanización"
+            },
+            {
+                "id": 2,
+                "texto": "bosquenuboso",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "contaminación"
+            },
+            {
+                "id": 4,
+                "texto": "deforestacion"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "pregunta": "Mide entre 9 y 10 cm de longitud.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vulnerable"
+            },
+            {
+                "id": 2,
+                "texto": "datodeficiente"
+            },
+            {
+                "id": 3,
+                "texto": "extinsilvestre"
+            },
+            {
+                "id": 4,
+                "texto": "pequeño",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "pregunta": "Coloración de las plumas de las aves (color rojizo o amarronado) ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "rufo",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "cazafurtiva"
+            },
+            {
+                "id": 3,
+                "texto": "especieclave"
+            },
+            {
+                "id": 4,
+                "texto": "migratorio"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "pregunta": "Ave de tamaño pequeño que se alimenta de néctar y es capaz de suspenderse en el aire mediante el movimiento de sus alas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "menor"
+            },
+            {
+                "id": 2,
+                "texto": "cazaypesca"
+            },
+            {
+                "id": 3,
+                "texto": "colibri",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "invasora"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "pregunta": "Los zamarros son un par de abundante plumón blanco en los muslos del colibrí, presente en ambos sexos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "zamarros",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "cordioccidental"
+            },
+            {
+                "id": 3,
+                "texto": "librosrojos"
+            },
+            {
+                "id": 4,
+                "texto": "rioguapi"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "pregunta": "Animal que se alimenta de insectos, como aves e insectos. El Zamarrito del Pinche (Eriocnemis isabellae) y el Zamarrito de Munchique (Eriocnemis mirabilis) son unos de ellos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "quemas"
+            },
+            {
+                "id": 2,
+                "texto": "fungicidas"
+            },
+            {
+                "id": 3,
+                "texto": "insectívoro",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "plasticos"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "pregunta": "Espacio geográfico claramente definido, reconocido, dedicado y gestionado legalmente o por otros medios eficaces, con el fin de lograr la conservación a largo plazo de la naturaleza y los servicios de los ecosistemas y valores culturales asociados.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sobrecultivo"
+            },
+            {
+                "id": 2,
+                "texto": "areaprotegida",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 4,
+                "texto": "mineria"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "pregunta": "Registro Único Nacional de Áreas Protegidas del Sistema Nacional de Áreas Protegidas, herramienta creada por el Decreto 2372 de 2010 para que las autoridades ambientales de Colombia inscriban y registren las áreas protegidas de su jurisdicción",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sobrecultivo"
+            },
+            {
+                "id": 2,
+                "texto": "acidificación"
+            },
+            {
+                "id": 3,
+                "texto": "fragmentación"
+            },
+            {
+                "id": 4,
+                "texto": "runap",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "pregunta": "Acción de recuperar o mejorar un ecosistema o área natural degradada o alterada por actividades humanas, mediante la reintroducción de especies nativas y la recuperación del suelo y la vegetación.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "urbanización"
+            },
+            {
+                "id": 2,
+                "texto": "cazafurtiva"
+            },
+            {
+                "id": 3,
+                "texto": "restauración",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "sobrecultivo"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "pregunta": "Asociación campesina del municipio de Argelia (Cauca) denominada Asociación Agroambiental Santa Clara Serranía El Pinche que promueve la conservación de Serranía El Pinche y el desarrollo sostenible de sus habitantes",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "urbanización"
+            },
+            {
+                "id": 2,
+                "texto": "agroambiental",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 4,
+                "texto": "sobrecultivo"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "pregunta": "Cualquier autoridad de la República que tenga competencia en asuntos ambientales (p.e.Corporaciones Autónomas Regionales, Ministerio de Ambiente).En manejo de Reserva Forestal Protectora Regional Serranía El Pinche, la autoridad ambiental es la CRC",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "poderambiental",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "acidificación"
+            },
+            {
+                "id": 3,
+                "texto": "contaminación"
+            },
+            {
+                "id": 4,
+                "texto": "fragmentación"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "pregunta": "Organización sin ánimo de lucro, su misión es fortalecer la gobernanza comunitaria e institucional para la conservación de la biodiversidad, desarrollo sostenible y adaptación a variabilidad climática.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "urbanización"
+            },
+            {
+                "id": 2,
+                "texto": "ecohábitats",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "fragmentación"
+            },
+            {
+                "id": 4,
+                "texto": "sobrecultivo"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "pregunta": "Conjunto de áreas protegidas, actores sociales y estrategias e instrumentos de gestión que las articulan. Incluye todas las áreas protegidas de gobernanza pública, privada o comunitaria, y del ámbito de gestión nacional, regional o local.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "librosrojos"
+            },
+            {
+                "id": 2,
+                "texto": "SINAP",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "especieclave"
+            },
+            {
+                "id": 4,
+                "texto": "invasora"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "pregunta": "Con árboles frondosos de altitudes hasta de 30 metros, ubicada desde 1000-1200 msnm hasta 2600 -2700 msnm.En la Serranía El Pinche, se encuentran áreas importantes en las veredas Santa Clara, Lomitas, La Guadua, Pinche, Las Vegas (Argelia-Cauca).",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "selvaltoandina"
+            },
+            {
+                "id": 2,
+                "texto": "cerronapi"
+            },
+            {
+                "id": 3,
+                "texto": "cordillera"
+            },
+            {
+                "id": 4,
+                "texto": "selvaandina",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "pregunta": "Vegetación tipo matorral, con predominio de frailejones, paja o chusque, además de bromelias y musgos. Localizado generalmente en las cimas de las cordilleras después de los 2900 msnm. Son exclusivos de Colombia, Ecuador, Venezuela y norte de Perú.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "robledales"
+            },
+            {
+                "id": 2,
+                "texto": "humedales"
+            },
+            {
+                "id": 3,
+                "texto": "lagunas"
+            },
+            {
+                "id": 4,
+                "texto": "páramo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "pregunta": "Planificación de un área protegida que orienta acciones para conservar ecosistemas, especies y servicios ambientales bajo articulación con diferentes actores sociales e institucionales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "quemas"
+            },
+            {
+                "id": 2,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 3,
+                "texto": "mineria"
+            },
+            {
+                "id": 4,
+                "texto": "plan de manejo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "pregunta": "Uno de los 32 departamentos de Colombia, ubicado en la región suroccidental del país y conocido por su diversidad geográfica y cultural.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "timbiqui"
+            },
+            {
+                "id": 2,
+                "texto": "cauca",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "guapi"
+            },
+            {
+                "id": 4,
+                "texto": "riotimbiqui"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "pregunta": "Elevaciones naturales de la tierra con una altitud significativa y una cima más o menos puntiaguda.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "serranianieves"
+            },
+            {
+                "id": 2,
+                "texto": "cerropinche"
+            },
+            {
+                "id": 3,
+                "texto": "cordillera"
+            },
+            {
+                "id": 4,
+                "texto": "montañas",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "pregunta": "Un municipio del departamento de Cauca en Colombia, ubicado en la región andina del país.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "guapi"
+            },
+            {
+                "id": 2,
+                "texto": "argelia",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "cerronapi"
+            },
+            {
+                "id": 4,
+                "texto": "elpinche"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "pregunta": "Ubicado entre los municipios de Argelia, Balboa, Guapi, Timbiquí, El Tambo y López de Micay en el departamento del Cauca, Colombia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "migratorio"
+            },
+            {
+                "id": 2,
+                "texto": "datodeficiente"
+            },
+            {
+                "id": 3,
+                "texto": "educación",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "extinsilvestre"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "pregunta": "Proceso de facilitar el refinamiento de habilidades o capacidades propias del individuo, mediante el aprendizaje o la construcción de conocimientos, así como también de las virtudes, creencias, hábitos, u otras características del ser (Wikipedia)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vulnerable"
+            },
+            {
+                "id": 2,
+                "texto": "datodeficiente"
+            },
+            {
+                "id": 3,
+                "texto": "extinsilvestre"
+            },
+            {
+                "id": 4,
+                "texto": "investigación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "pregunta": "Trabajo creativo y sistemático realizado para aumentar os conocimientos​ Implica la recopilación, organización y análisis de información para aumentar la comprensión de un tema o problema (Wikipedia).",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "prevención",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "cazafurtiva"
+            },
+            {
+                "id": 3,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 4,
+                "texto": "mineria"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "pregunta": "Anticiparse, adelantarse, actuar para evitar que ocurra un hecho. En el caso de las áreas protegidas, se busca prevenir amenazas (p.e. incendios, deforestación, caza, pesca).",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "urbanización"
+            },
+            {
+                "id": 2,
+                "texto": "acuerdos",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 4,
+                "texto": "sobrecultivo"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "pregunta": "Decisión tomada entre dos o más personas, asociaciones o entidades, resultado de un proceso de negociación y deliberación sobre asuntos concretos, determinando una serie de normas o acciones a respetar y ejecutar por las partes para beneficio mutuo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sobrecultivo"
+            },
+            {
+                "id": 2,
+                "texto": "cazafurtiva"
+            },
+            {
+                "id": 3,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 4,
+                "texto": "incentivos",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "pregunta": "Estimular algo o alguien para que mejore. En el caso de la conservación, los incentivos buscan motivar las personas para que contribuyan a proteger los ecosistemas o especies.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "urbanización"
+            },
+            {
+                "id": 2,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 3,
+                "texto": "sobrecultivo"
+            },
+            {
+                "id": 4,
+                "texto": "turismo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "pregunta": "Actividades que realizan las personas en lugares fuera de su entorno habitual por diferentes motivos. En las áreas protegidas se realiza turismo científico, de descanso, de esparcimiento, de aventura, formativo, entre otros.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "urbanización"
+            },
+            {
+                "id": 2,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 3,
+                "texto": "recreación",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "sobrecultivo"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "pregunta": "Actividades que realizan las personas o grupos en la búsqueda de esparcimiento físico y mental, las cuales generan placer, diversión, entretenimiento, entre otros. Las áreas protegidas se convierten así, en escenarios propicios para la recreación.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sobrecultivo"
+            },
+            {
+                "id": 2,
+                "texto": "cazafurtiva"
+            },
+            {
+                "id": 3,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 4,
+                "texto": "protección",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "pregunta": "Impedir que una persona o cosa reciba daño o que llegue hasta ella algo que lo produzca. En las áreas protegidas, se protege los ecosistemas y las especies para que éstas puedan subsistir a largo plazo y prestar sus servicios ecosistémicos asociados.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "monitoreo",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "acidificación"
+            },
+            {
+                "id": 3,
+                "texto": "contaminación"
+            },
+            {
+                "id": 4,
+                "texto": "fragmentación"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "pregunta": "Proceso sistemático y periódico que permite determinar el comportamiento de una variable.En áreas protegidas, se realiza monitoreo a los componentes bióticos o abióticos como indicadores del estado de conservación y efectividad del manejo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "urbanización"
+            },
+            {
+                "id": 2,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 3,
+                "texto": "planificación",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "sobrecultivo"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "pregunta": "Proceso metódico para alcanzar un objetivo determinado. En áreas protegidas la planificación busca la conservación a largo plazo y tiene como instrumento al plan de manejo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "urbanización"
+            },
+            {
+                "id": 2,
+                "texto": "conservación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 4,
+                "texto": "sobrecultivo"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "pregunta": "La protección y mantenimiento de los recursos naturales y culturales en una zona protegida",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "zonificación",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 3,
+                "texto": "sobrecultivo"
+            },
+            {
+                "id": 4,
+                "texto": "urbanización"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "pregunta": "La división de un área protegida en zonas con diferentes grados de protección y uso",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "urbanización"
+            },
+            {
+                "id": 2,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 3,
+                "texto": "manejo",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "sobrecultivo"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "pregunta": "Conjunto de prácticas y técnicas utilizadas para gestionar y conservar los recursos naturales de un área protegida.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vigilancia",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "cazafurtiva"
+            },
+            {
+                "id": 3,
+                "texto": "deforestacion"
+            },
+            {
+                "id": 4,
+                "texto": "sobrecultivo"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "pregunta": "ctividad de supervisión y monitoreo constante para detectar, prevenir o disuadir situaciones no deseadas o peligrosas.En áreas protegidas la vigilancia se refleja en los recorridos que realizan en diferentes sectores del área para verificar amenazas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "pico"
+            },
+            {
+                "id": 2,
+                "texto": "alas"
+            },
+            {
+                "id": 3,
+                "texto": "cabeza"
+            },
+            {
+                "id": 4,
+                "texto": "colibrí",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "pregunta": "Ave de tamaño pequeño que se alimenta de néctar y es capaz de suspenderse en el aire mediante el movimiento de sus alas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vulnerable"
+            },
+            {
+                "id": 2,
+                "texto": "endémico",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "invasora"
+            },
+            {
+                "id": 4,
+                "texto": "migratorio"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "pregunta": "Especie o nivel taxonómico superior cuyo rango de distribución natural está restringida a una zona geográfica determinada.El Zamarrito de Munchique (Eriocnemis mirabilis) es endémico del Cauca (PNN Munchique (El Tambo) y Serranía El Pinche (Argelia))",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vulnerable"
+            },
+            {
+                "id": 2,
+                "texto": "extinsilvestre"
+            },
+            {
+                "id": 3,
+                "texto": "menor"
+            },
+            {
+                "id": 4,
+                "texto": "peligro crítico",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "pregunta": "Categoría de la lista roja de IUCN que hace referencia a un taxón que está enfrentando un riesgo de extinción extremadamente alto en vida silvestre. El Zamarrito de Munchique(Eriocnemis mirabilis) se encuentra En Peligro Crítico.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "guapi"
+            },
+            {
+                "id": 2,
+                "texto": "cerronapi"
+            },
+            {
+                "id": 3,
+                "texto": "cordioccidental"
+            },
+            {
+                "id": 4,
+                "texto": "el naranjal",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "pregunta": "Vereda del municipio de Argelia(Cauca) donde se encuentra La Serranía de Las Nieves, uno de los lugares donde habita el Zamarrito de Munchique.Tiene acuerdo de conservación veredal y hace parte de la Reserva Forestal protectora Serranía El Pinche",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "las pilas",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "cerronapi"
+            },
+            {
+                "id": 3,
+                "texto": "cordioccidental"
+            },
+            {
+                "id": 4,
+                "texto": "guapi"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "pregunta": "Vereda del municipio de Argelia (Cauca) donde se encuentra Serranía Las Nieves, uno de los lugares donde habita el Zamarrito de Munchique.Tiene acuerdo de conservación veredal y hace parte de la Reserva Forestal Protectora Serranía El Pinche",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "serranía nieves",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "cerronapi"
+            },
+            {
+                "id": 3,
+                "texto": "cordioccidental"
+            },
+            {
+                "id": 4,
+                "texto": "guapi"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "pregunta": "Serranía que se desprende de la Serranía del Pinche y es el único sitio reportado en Argelia (Cauca) donde habita el Zamarrito de Munchique (Eriocnemis mirabilis)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "guapi"
+            },
+            {
+                "id": 2,
+                "texto": "PNN Munchique",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "cerronapi"
+            },
+            {
+                "id": 4,
+                "texto": "cordioccidental"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "pregunta": "Área protegida de la Cordillera Occidental en categoría de Parque Nacional Natural donde habita el Zamarrito de Munchique. Se ubica en el municipio de El Tambo (Cauca), conserva selvas inferiores (500 msnm) hasta bosques altoandinos (3000 msnm).",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "eriocnemis",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "ansériformes"
+            },
+            {
+                "id": 3,
+                "texto": "apodiformes"
+            },
+            {
+                "id": 4,
+                "texto": "columbiformes"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "pregunta": "Género de la familia Trochillidae (colibri) que proviene del griego érion: con botas de lana y  knēmis: polaina, por ello, los nombres comunes de las especies asociadas se denominan \"Zamarro\", como el Zamarrito del Pinche o el Zamarrito de Munchique.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sabiaceae"
+            },
+            {
+                "id": 2,
+                "texto": "cleomaceae"
+            },
+            {
+                "id": 3,
+                "texto": "cornaceae"
+            },
+            {
+                "id": 4,
+                "texto": "mirabilis",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "pregunta": "Epítetio específico del Zamarrito de Munchique (Eriocnemis mirabilis). Del latin mirari: admirar, asombrarse, sorprenderse; y bilis: capacidad, aptitud",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nectarívoro",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "carroñero"
+            },
+            {
+                "id": 3,
+                "texto": "frugívoro"
+            },
+            {
+                "id": 4,
+                "texto": "granívoro"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "pregunta": "Animal que se alimenta del néctar de las flores, como aves, insectos o murciélagos. El Zamarrito del Pinche (Eriocnemis isabellae) y el Zamarrito de Munchique (Eriocnemis mirabilis) son unos de ellos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "guapi"
+            },
+            {
+                "id": 2,
+                "texto": "El Playón",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "cerronapi"
+            },
+            {
+                "id": 4,
+                "texto": "cordi"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "pregunta": "Única localidad del Parque Nacional Natural Munchique (El Tambo-Cauca) donde se ha reportado el Zamarrito de Munchique (Eriocnemis mirabilis).",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "eriocnemia"
+            },
+            {
+                "id": 3,
+                "texto": "mirabilis"
+            },
+            {
+                "id": 4,
+                "texto": "zamarrita"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "pregunta": "Los zamarros son un par de abundante plumón blanco en los muslos del colibrí, presente en ambos sexos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "mirabilos"
+            },
+            {
+                "id": 3,
+                "texto": "munchiquense"
+            },
+            {
+                "id": 4,
+                "texto": "zamarro"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "pregunta": "Nombre de la familia de aves que agrupa los colibries. Proviene del latin trochilus: ave pequeña.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "arcoiris"
+            },
+            {
+                "id": 3,
+                "texto": "mira"
+            },
+            {
+                "id": 4,
+                "texto": "trochi"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "pregunta": "Género de la familia Trochillidae (colibri) que proviene del griego érion: con botas de lana y knēmis: polaina, por ello, los nombres comunes de las especies asociadas se denominan \"Zamarro\", como el Zamarrito del Pincheo el Zamarrito de Munchique.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "emerita"
+            },
+            {
+                "id": 3,
+                "texto": "hermosura"
+            },
+            {
+                "id": 4,
+                "texto": "minero"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "pregunta": "Uno de los tantos nombres que recibe el zamarrito de Munchique, este en especial lo recibe por el color de su frente; verde esmeralda.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "amatista"
+            },
+            {
+                "id": 3,
+                "texto": "esmeralda"
+            },
+            {
+                "id": 4,
+                "texto": "rubí"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "pregunta": "Animal que se alimenta de insectos, como aves e insectos. El Zamarrito del Pinche (Eriocnemis isabellae) y el Zamarrito de Munchique (Eriocnemis mirabilis) son unos de ellos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "frugívoro"
+            },
+            {
+                "id": 3,
+                "texto": "granívoro"
+            },
+            {
+                "id": 4,
+                "texto": "omnívoro"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "pregunta": "Presente en regiones montañosas de los Andes tropicales de Sudamérica, entre los 1000 y los 3000 metros sobre el nivel del mar.En Serranía El Pinche, se encuentra áreas en las veredas Santa Clara, Lomitas, La Guadua, Pinche, Las Vegas (Argelia-Cauca)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "pincha"
+            },
+            {
+                "id": 3,
+                "texto": "pinchaalta"
+            },
+            {
+                "id": 4,
+                "texto": "serraníapincha"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "pregunta": " ubicados desde los 2900 - 3800 msnm que se caracterizan como un estrato de árboles y arbustos entre 3 y 8 m de alto",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "andina"
+            },
+            {
+                "id": 3,
+                "texto": "selvar"
+            },
+            {
+                "id": 4,
+                "texto": "selvaria"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "pregunta": "Vegetación tipo matorral, con predominio de frailejones, paja o chusque, además de bromelias y musgos. Localizado generalmente en las cimas de las cordilleras después de los 2900 msnm. Son exclusivos de Colombia, Ecuador, Venezuela y norte de Perú.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "desiertos"
+            },
+            {
+                "id": 3,
+                "texto": "nevados"
+            },
+            {
+                "id": 4,
+                "texto": "pampas"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "pregunta": "Depósito natural de agua de poca profundidad. Son hábitats muy importantes para peces, microorganismos y aves",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "arrecifes"
+            },
+            {
+                "id": 3,
+                "texto": "mares"
+            },
+            {
+                "id": 4,
+                "texto": "playas"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "pregunta": "Extensiones de pantanos y turberas, o superficies cubiertas de aguas, régimen natural o artificial, permanentes o temporales, estancadas o corrientes, dulces, saladas, incluidas extensiones de agua marina cuya profundidad en marea baja no exceda 6m",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "desagües"
+            },
+            {
+                "id": 3,
+                "texto": "estanques"
+            },
+            {
+                "id": 4,
+                "texto": "pantanos"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "pregunta": "sitio donde se encuentran bosques dominados por el árbol de roble (Quercus humboldtii). En la Serranía El Pinche (El Naranjal) los cientificos reportaron en los 1990´s grandes robledales, únicos del suroccidente colombiano.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "cedros"
+            },
+            {
+                "id": 3,
+                "texto": "eucaliptos"
+            },
+            {
+                "id": 4,
+                "texto": "pinos"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "pregunta": "Uno de los ríos tributarios del Océano Pacífico,nace en vereda Nuevo Horizonte (Argelia-Cauca).Los ríos tributarios conforman todos los existentes en el municipio de Argelia, el flanco occidental del municipio El Tambo y  municipio de López de Micay",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "ciénaga"
+            },
+            {
+                "id": 3,
+                "texto": "riocondor"
+            },
+            {
+                "id": 4,
+                "texto": "riogrande"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "pregunta": "Uno de los ríos tributarios del Océano Pacífico, recorre aproximadamente 45 kilómetros de territorio ecuatoriano,pasa entre las cordilleras andinas Central y Occidental hasta desembocar en el río Patía.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "rioclaro"
+            },
+            {
+                "id": 3,
+                "texto": "riohondo"
+            },
+            {
+                "id": 4,
+                "texto": "ríorica"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "pregunta": "Uno de los tributarios directos del Océano Pacífico, conformado por las subcuencas de los ríos Guapi y río Güaji.En Serranía El Pinche nacen los ríos Anapanchí y San Francisco, tributarios del río Guapi donde viven comunidades afrocolombianas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "riobravo"
+            },
+            {
+                "id": 3,
+                "texto": "riofuerte"
+            },
+            {
+                "id": 4,
+                "texto": "riogrande"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "pregunta": "Una cadena montañosa larga y estrecha que se extiende a lo largo de una región, con picos altos y escarpados y una gran cantidad de valles y cañones.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "andes"
+            },
+            {
+                "id": 3,
+                "texto": "montañas"
+            },
+            {
+                "id": 4,
+                "texto": "volcanes"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "pregunta": "Un ecosistema terrestre con una alta densidad de árboles y vegetación arbórea, que proporciona refugio y alimento a una gran cantidad de fauna.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "bosquetropical"
+            },
+            {
+                "id": 3,
+                "texto": "manglar"
+            },
+            {
+                "id": 4,
+                "texto": "tundra"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "pregunta": "Ecosistema caracterizado por hierbas y arbustos dispersos con pocos árboles, que se encuentra en regiones tropicales y subtropicales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "guayas"
+            },
+            {
+                "id": 3,
+                "texto": "rionegro"
+            },
+            {
+                "id": 4,
+                "texto": "risaralda"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "pregunta": "ubicado en el Departamento del Cauca, Colombia, que nace en la Serranía del Pinche, entre los municipios de Argelia y Timbiquí, y desemboca en el Océano Pacífico.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "cometa"
+            },
+            {
+                "id": 3,
+                "texto": "constelación"
+            },
+            {
+                "id": 4,
+                "texto": "galaxia"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "pregunta": "Zona montañosa que se produce nacimiento de varios ríos.Serranía El Pinche al desprenderse de la Cordillera Occidental conforma una estrella fluvial donde nacen ríos como San Juan del Micay y principales tributarios de ríos Guapi, Timbiquí y Patía.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "cordillera"
+            },
+            {
+                "id": 3,
+                "texto": "occidente"
+            },
+            {
+                "id": 4,
+                "texto": "suroccidente"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "pregunta": "Cordillera que se extiende desde el nudo de los Pastos (Nariño) hasta el nudo de Paramillo en Antioquia y Córdoba.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "guape"
+            },
+            {
+                "id": 3,
+                "texto": "guepe"
+            },
+            {
+                "id": 4,
+                "texto": "waipi"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "pregunta": "Municipio del departamento del Cauca ubicado en la región pacífica. La Serrania El Pinche constituye el límite divisorio de los municipios de Guapi, Timbiquí y Argelia (Cauca)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "quiuqui"
+            },
+            {
+                "id": 3,
+                "texto": "tiqqui"
+            },
+            {
+                "id": 4,
+                "texto": "tiqui"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "pregunta": "Municipio del departamento del Cauca ubicado en la región pacífica. La Serrania El Pinche constituye el límite divisorio de los municipios de Guapi, Timbiquí y Argelia (Cauca)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "alegría"
+            },
+            {
+                "id": 3,
+                "texto": "alejandría"
+            },
+            {
+                "id": 4,
+                "texto": "alergia"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "pregunta": "Municipio del departamento del Cauca ubicado en la región pacífica. La Serrania El Pinche constituye el límite divisorio de los municipios de Guapi, Timbiquí y Argelia (Cauca)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": NaN,
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "animal"
+            },
+            {
+                "id": 3,
+                "texto": "vegetal"
+            },
+            {
+                "id": 4,
+                "texto": "vidasilvestre"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "pregunta": "Seres vivos (animales, plantas, hongos) no domesticados que habitan un ecosistema natural sin haber sido introducidos allí por el ser humano",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Sierra Selvática"
+            },
+            {
+                "id": 2,
+                "texto": "Cerro del Diablo"
+            },
+            {
+                "id": 3,
+                "texto": "Cima del Pino"
+            },
+            {
+                "id": 4,
+                "texto": "Serranía El Pinche",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "pregunta": "Es el más grande y profundo de la Tierra.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Océano Ártico"
+            },
+            {
+                "id": 2,
+                "texto": "Atlántico Norte"
+            },
+            {
+                "id": 3,
+                "texto": "Mar Caribe"
+            },
+            {
+                "id": 4,
+                "texto": "Oceanopacífico",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "pregunta": "Está situado en el departamento del Cauca, Región Pacífica, cerca de la aldea San Francisco y del Corregimiento de Santa Clara (Argelia-Cauca)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Montaña del Fuego"
+            },
+            {
+                "id": 2,
+                "texto": "Cerro de la Cruz"
+            },
+            {
+                "id": 3,
+                "texto": "Cerronapi",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Cima del Valle"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "pregunta": "Está situado en el departamento del Cauca, Región Pacífica, cerca de la Vereda Pambila y El Crucero (Plateado-Cauca)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Pico de la Luna"
+            },
+            {
+                "id": 2,
+                "texto": "Cerro Pinche",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Cima del Trueno"
+            },
+            {
+                "id": 4,
+                "texto": "Montaña Plateada"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "pregunta": "Situado en el dpto del Cauca, Región Pacífica, clasifica como paramo, esta cerca de las comunidades campesinas de las veredas Mesón Alto, Zarzal, La Laguna y La Esperanza (Argelia-Cauca) y veredas La Floresta, San Antonio y Altamira (Balboa-Cauca)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Pico de la Montaña"
+            },
+            {
+                "id": 2,
+                "texto": "Cerro California",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Cerro de la Cumbre"
+            },
+            {
+                "id": 4,
+                "texto": "Montaña del Sur"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "pregunta": "Ubicada entre municipios de Argelia, Balboa, Guapi, Timbiquí, El Tambo y López de Micay. Territorio de gran biodiversidad alberga varios ecosistemas únicos y estratégicos, incluyendo páramos, bosques nativos, bosques de niebla, andinos y altoandinos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Sierra Nevada"
+            },
+            {
+                "id": 2,
+                "texto": "Cumbre de Hielo"
+            },
+            {
+                "id": 3,
+                "texto": "Montaña Blanca"
+            },
+            {
+                "id": 4,
+                "texto": "Serranía Nieves",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "pregunta": "Está situado en el departamento del Cauca, Región Pacífica,tiene una altitud de 1.826 metros, en las veredas El Diviso y El Naranjal (Argelia -Cauca).",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Pico de Plata"
+            },
+            {
+                "id": 2,
+                "texto": "Cerro Plateado",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Cima del Diamante"
+            },
+            {
+                "id": 4,
+                "texto": "Montaña de Oro"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "pregunta": "Área protegida en la que se busca preservar la biodiversidad y los recursos naturales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Zona Salvaje"
+            },
+            {
+                "id": 2,
+                "texto": "Protección Natural"
+            },
+            {
+                "id": 3,
+                "texto": "Refugio Animal"
+            },
+            {
+                "id": 4,
+                "texto": "Reserva",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "pregunta": "Zona montañosa con elevaciones abruptas y pronunciadas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Sierra del Este"
+            },
+            {
+                "id": 2,
+                "texto": "Cerro de la Selva"
+            },
+            {
+                "id": 3,
+                "texto": "Montaña del Bosque"
+            },
+            {
+                "id": 4,
+                "texto": "Serranía",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "pregunta": "La Serranía El Pinche es un lugar salvaje y hermoso, donde la naturaleza aún se encuentra relativamente intacta. Es hogar de una amplia variedad de animales y plantas nativas.Como El Zamarrito del Pinche y el Zamarrito de Munchique",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Silvestre"
+            },
+            {
+                "id": 2,
+                "texto": "Feroz"
+            },
+            {
+                "id": 3,
+                "texto": "Indomable"
+            },
+            {
+                "id": 4,
+                "texto": "Salvaje",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "pregunta": "Estructura formada por el craneo, ojos, lengua bífida, musculos que controlan la lengua y pico",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Pata"
+            },
+            {
+                "id": 2,
+                "texto": "Cabeza",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Cola"
+            },
+            {
+                "id": 4,
+                "texto": "Cuello"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "pregunta": "Casi siempre es un color diferente al del cuerpo,el cuello de los machos es frecuentemente rojo brillante, azul o verde esmeralda.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Pico"
+            },
+            {
+                "id": 2,
+                "texto": "Alas"
+            },
+            {
+                "id": 3,
+                "texto": "Cola"
+            },
+            {
+                "id": 4,
+                "texto": "Cuello",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "pregunta": "El peso del cerebro del colibrí es 4.2% de su peso corporal total, mucho más grande que otras aves.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Páncreas"
+            },
+            {
+                "id": 2,
+                "texto": "Cerebro",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Corazón"
+            },
+            {
+                "id": 4,
+                "texto": "Hígado"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "pregunta": "Párpados externos (superior e inferior) para bloquear la luz. Tienen un par adicional  llamados membrana nictitante. Estos son claros y permiten que el colibrí vea mientras bloquea el viento cuando vuela.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Párpados",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Garras"
+            },
+            {
+                "id": 3,
+                "texto": "Pico"
+            },
+            {
+                "id": 4,
+                "texto": "Plumaje"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "pregunta": "Una excelente visión y pueden ver la luz ultravioleta, lo que hace que su mundo sea aún más colorido que el nuestro.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Visión",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Olfato"
+            },
+            {
+                "id": 3,
+                "texto": "Oído"
+            },
+            {
+                "id": 4,
+                "texto": "Tacto"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "pregunta": "Es el parche de color brillante en la garganta del colibrí macho.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Pico"
+            },
+            {
+                "id": 2,
+                "texto": "Boca"
+            },
+            {
+                "id": 3,
+                "texto": "Gorgera",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Mandíbula"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "pregunta": "Es la parte del sistema digestivo que conecta la garganta del ave con el cultivo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Riñones"
+            },
+            {
+                "id": 2,
+                "texto": "Esófago",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Hígado"
+            },
+            {
+                "id": 4,
+                "texto": "Páncreas"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "pregunta": "Parte de la cabeza por donde esta se une con las vértebras del cuello.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Occipucio",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Columna Vertebral"
+            },
+            {
+                "id": 3,
+                "texto": "Huesos del Cráneo"
+            },
+            {
+                "id": 4,
+                "texto": "Mandíbula"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "pregunta": "Excelente audición. Sus orejas no tienen lóbulos de oreja, sino agujeros con una cubierta ligera de plumas. Pueden escuchar pequeños cambios en el tono mejor que los humanos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Visión"
+            },
+            {
+                "id": 2,
+                "texto": "Auriculares",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Olfato"
+            },
+            {
+                "id": 4,
+                "texto": "Oídos"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "pregunta": "Son livianos para garantizar su maniobrabilidad. Los huesos de sus patas y alas son huecos y la mayoría de sus otros huesos son porosos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Órganos"
+            },
+            {
+                "id": 2,
+                "texto": "Articulaciones"
+            },
+            {
+                "id": 3,
+                "texto": "Huesos",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Músculos"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "pregunta": "La lengua de un colibrí es capaz de doblar néctar a una velocidad de hasta 18 veces por segundo. El pájaro puede extender su lengua hasta donde la cuenta es larga. lengua bifurcada(divivida en dos partes) ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Pico"
+            },
+            {
+                "id": 2,
+                "texto": "Dientes"
+            },
+            {
+                "id": 3,
+                "texto": "Lengua",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Mandíbula"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "pregunta": "largo y cónico, deben ser capaces de alimentarse con este diseño de tubo largo, debido al tipo de dieta que tienen (polen, néctar, savia de los árboles e insectos). ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Plumaje"
+            },
+            {
+                "id": 2,
+                "texto": "Garras"
+            },
+            {
+                "id": 3,
+                "texto": "Ojos"
+            },
+            {
+                "id": 4,
+                "texto": "Pico",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "pregunta": "Su función es excretar el exceso de agua. Sus riñones no son efectivos para concentrar la orina.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Riñones",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Corazón"
+            },
+            {
+                "id": 3,
+                "texto": "Hígado"
+            },
+            {
+                "id": 4,
+                "texto": "Páncreas"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "pregunta": "Son únicas en el mundo de las aves y Las alas baten de 15 a 80 latidos / segundo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Plumas"
+            },
+            {
+                "id": 2,
+                "texto": "Alas",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Patas"
+            },
+            {
+                "id": 4,
+                "texto": "Pico"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "pregunta": "Los colibríes tienen diez plumas de cola (llamadas retrices), cinco en cada lado. Estos están numerados de adentro hacia afuera como R1 a R5. ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "uréteres"
+            },
+            {
+                "id": 2,
+                "texto": "cola",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "infracaudales"
+            },
+            {
+                "id": 4,
+                "texto": "piernas"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "pregunta": "Hueso  donde se unen los músculos pectorales grandes (músculos de vuelo).",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "uréteres"
+            },
+            {
+                "id": 2,
+                "texto": "cloaca"
+            },
+            {
+                "id": 3,
+                "texto": "esternón",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "supracaudales"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "pregunta": "Tubos delgados que conectan los riñones con la cloaca. Transportan el agua que los riñones eliminan del sistema.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "uréteres",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "cloaca"
+            },
+            {
+                "id": 3,
+                "texto": "infracaudales"
+            },
+            {
+                "id": 4,
+                "texto": "piernas"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "pregunta": "Son las plumas pequeñas que cubren por encima la base de las plumas rectrices o timoneras de la cola ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "uréteres"
+            },
+            {
+                "id": 2,
+                "texto": "infracaudales"
+            },
+            {
+                "id": 3,
+                "texto": "piernas"
+            },
+            {
+                "id": 4,
+                "texto": "supracaudales",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "pregunta": "Son las plumas pequeñas que cubren por debajo la base de las plumas rectrices o timoneras de la cola",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "uréteres"
+            },
+            {
+                "id": 2,
+                "texto": "infracaudales",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "piernas"
+            },
+            {
+                "id": 4,
+                "texto": "supracaudales"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "pregunta": " Es la única abertura que tiene un ave para fines intestinales, urinarios y reproductivos. Mezcla de desechos líquidos y sólidos aquí y son expulsados, en realidad \"disparados\" del cuerpo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "uréteres"
+            },
+            {
+                "id": 2,
+                "texto": "cloaca",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "esternón"
+            },
+            {
+                "id": 4,
+                "texto": "piernas"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "pregunta": "No son musculosos para saltar o caminar Y  se usan solo para posarse.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "piernas",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "alas"
+            },
+            {
+                "id": 3,
+                "texto": "aletas"
+            },
+            {
+                "id": 4,
+                "texto": "ojos"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "pregunta": "Animales que se alimentan en forma parcial o exclusiva, de frutas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nectarívoro"
+            },
+            {
+                "id": 2,
+                "texto": "carnívoro"
+            },
+            {
+                "id": 3,
+                "texto": "frugívoro",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "herbívoro"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "pregunta": "Animales que se alimentan de animales muertos. ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nectarívoro"
+            },
+            {
+                "id": 2,
+                "texto": "carroñero",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "granívoro"
+            },
+            {
+                "id": 4,
+                "texto": "insectívoro"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "pregunta": "Aves de presa, generalmente de los órdenes Falconiformes y Estrigiformes.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "rapaz",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "coprófago"
+            },
+            {
+                "id": 3,
+                "texto": "herbívoro"
+            },
+            {
+                "id": 4,
+                "texto": "necrófago"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "pregunta": "Ser vivo que se alimenta de invertebrados, principalmente de insectos, pero también de arácnidos, caracoles y gusanos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "insectívoro",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "carroñero"
+            },
+            {
+                "id": 3,
+                "texto": "frugívoro"
+            },
+            {
+                "id": 4,
+                "texto": "granívoro"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "pregunta": "Animales que tienen como alimento principal o exclusivo las semillas de plantas (granos). ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nectarívoro"
+            },
+            {
+                "id": 2,
+                "texto": "carnívoro"
+            },
+            {
+                "id": 3,
+                "texto": "granívoro",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "herbívoro"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "pregunta": "Animal que se alimenta tanto de carne como de plantas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "omnívoro",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "coprófago"
+            },
+            {
+                "id": 3,
+                "texto": "insectívoro"
+            },
+            {
+                "id": 4,
+                "texto": "necrófago"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "pregunta": "Animal que se alimenta de heces fecales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nectarívoro"
+            },
+            {
+                "id": 2,
+                "texto": "coprófago",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "frugívoro"
+            },
+            {
+                "id": 4,
+                "texto": "herbívoro"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "pregunta": "Animal que se alimenta de animales muertos o en descomposición.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nectarívoro"
+            },
+            {
+                "id": 2,
+                "texto": "granívoro"
+            },
+            {
+                "id": 3,
+                "texto": "insectívoro"
+            },
+            {
+                "id": 4,
+                "texto": "necrófago",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "pregunta": "Animal que se alimenta principalmente de plantas y hierbas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "hervívoro",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "carnívoro"
+            },
+            {
+                "id": 3,
+                "texto": "frugívoro"
+            },
+            {
+                "id": 4,
+                "texto": "granívoro"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "pregunta": "Conjunto de filamentos que componen el cuerpo de los hongos, utilizado como alimento por algunas aves.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "troncos"
+            },
+            {
+                "id": 2,
+                "texto": "hojas"
+            },
+            {
+                "id": 3,
+                "texto": "micelio",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "raíces"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "pregunta": "Componente principal del néctar, que proporciona energía a los colibríes. El alto contenido de azúcar en el néctar es esencial para satisfacer las necesidades energéticas de los colibríes, ya que tienen un metabolismo muy rápido.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sal"
+            },
+            {
+                "id": 2,
+                "texto": "azucar",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "grasa"
+            },
+            {
+                "id": 4,
+                "texto": "proteína"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "pregunta": "Término que se utiliza para describir la dieta de los colibríes.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nectarina",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "fresa"
+            },
+            {
+                "id": 3,
+                "texto": "manzana"
+            },
+            {
+                "id": 4,
+                "texto": "melón"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "pregunta": "Animal que se alimenta del néctar de las flores, como aves, insectos o murciélagos. El Zamarrito del Pinche (Eriocnemis isabellae) y el Zamarrito de Munchique (Eriocnemis mirabilis) son unos de ellos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nectarívoro",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "frugívoro"
+            },
+            {
+                "id": 3,
+                "texto": "granívoro"
+            },
+            {
+                "id": 4,
+                "texto": "insectívoro"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "pregunta": "Forma de alimentación en que un herbívoro se alimenta de hojas, brotes tiernos o frutos de plantas de alto crecimiento, generalmente leñosas, como los arbustos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "ramoneo",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "excavación"
+            },
+            {
+                "id": 3,
+                "texto": "planeo"
+            },
+            {
+                "id": 4,
+                "texto": "planeo"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "pregunta": "Los colibríes son las únicas aves que pueden volar en reversa, manteniendo su cuerpo mucho más recto, porque la resistencia del aire es apenas ligeramente mayor que en el caso del vuelo hacia adelante.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vueloreversa",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "vueloinvierno"
+            },
+            {
+                "id": 3,
+                "texto": "vueloocturno"
+            },
+            {
+                "id": 4,
+                "texto": "vueloprimavera"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "pregunta": "Un ¿a parte diminuta de cerebro del colibrí  le permite permanecer suspendido en el aire para libar el néctar de las flores.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vuelosuspendido",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "vuelobatiente"
+            },
+            {
+                "id": 3,
+                "texto": "vuelocircular"
+            },
+            {
+                "id": 4,
+                "texto": "vuelorápido"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "pregunta": "Aves que se alimentan de néctar. El Zamarrito del Pinche (Eriocnemis isabellae) es uno de ellos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nectarívoro",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "carroñero"
+            },
+            {
+                "id": 3,
+                "texto": "granívoro"
+            },
+            {
+                "id": 4,
+                "texto": "insectívoro"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "pregunta": "Frecuencia cardiaca de 500 o 600 veces por min en reposo y más de 1000 si está excitado en disputas con otros colibríes. El colibrí es un pájaro de gran corazón, un 2.5 % de su peso total.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "granmente"
+            },
+            {
+                "id": 2,
+                "texto": "granalma"
+            },
+            {
+                "id": 3,
+                "texto": "grancorazon",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "granegoísmo"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "pregunta": "Las patas son cortas y débiles, por lo que únicamente las utilizan para posarse y no para caminar",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "patarosada"
+            },
+            {
+                "id": 2,
+                "texto": "patablanca"
+            },
+            {
+                "id": 3,
+                "texto": "patagrande"
+            },
+            {
+                "id": 4,
+                "texto": "patapequeña",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "pregunta": "Reducido tamaño de sus patas(4 dedos) por el poco desarrollo que presentan;no es raro que el orden al que pertenecen, Apodiformes,provenga del griego y signifique “sin pies”.Los colibríes no pueden caminar sobre el suelo, se posarse sobre las ramas. ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tresdedos"
+            },
+            {
+                "id": 2,
+                "texto": "cincodedos"
+            },
+            {
+                "id": 3,
+                "texto": "cuatrodedos",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "seisdedos"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "pregunta": "Los colibríes ven una variedad de colores combinados que involucran a los rayos UV a los que los humanos son ciegos, Gracias a esta visión pueden encontrar comida, pareja, volar sobre el terreno o escapar de los depredadores. ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "verluzuv",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "azulpúrpura"
+            },
+            {
+                "id": 3,
+                "texto": "rojibrillo"
+            },
+            {
+                "id": 4,
+                "texto": "verdiceleste"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "pregunta": "Disminución de actividad fisiológica en un animal que le permite sobrevivir en tiempos de carestía de alimentos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vigilia"
+            },
+            {
+                "id": 2,
+                "texto": "letargo"
+            },
+            {
+                "id": 3,
+                "texto": "somnolencia"
+            },
+            {
+                "id": 4,
+                "texto": "torpor",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "pregunta": "Variaciones en la fisionomía externa (color, forma, tamaño) entre machos y hembras de una misma especie. Característica presentada por el Zamarrito del Pinche (Eriocnemis isabellae) al igual que otros colibríes.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "poligamia"
+            },
+            {
+                "id": 2,
+                "texto": "dualidadsexual",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "hermafroditismo"
+            },
+            {
+                "id": 4,
+                "texto": "poliandria"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "pregunta": "Cambio evolutivo recíproco que sucede entre las especies que interactúan. En los colibríes se refleja en las formas de sus picos y las formas de las flores que polinizan",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "simbiosis"
+            },
+            {
+                "id": 2,
+                "texto": "coevolución",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "mutualismo"
+            },
+            {
+                "id": 4,
+                "texto": "parasitismo"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "pregunta": "Sustancia orgánica soluble en agua que aporta energía a los animales y plantas, formado por glucosa y fructosa .Los colibríes polinizan flores con néctar que contiene alta proporción de sacarosa",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sacarosa",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "azúcar"
+            },
+            {
+                "id": 3,
+                "texto": "jarabe"
+            },
+            {
+                "id": 4,
+                "texto": "miel"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "pregunta": "Es el sonido de su vuelo descendente, el cual se produce por las diferencias de presión del aire durante los batidos y la velocidad a la que se mueven sus alas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "zumbido",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "aleteo"
+            },
+            {
+                "id": 3,
+                "texto": "chirrido"
+            },
+            {
+                "id": 4,
+                "texto": "graznido"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "pregunta": "Los colibríes tienen la córnea agrandada que aumenta la cantidad de percepción de luz del ojo y pueden volar de noche",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vuelonocturno",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "diurno"
+            },
+            {
+                "id": 3,
+                "texto": "migratorio"
+            },
+            {
+                "id": 4,
+                "texto": "sedentario"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "pregunta": "Los colibríes tienen el metabolismo mas alto de todos los animales",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "metabolismoalto",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "hibernación"
+            },
+            {
+                "id": 3,
+                "texto": "invernación"
+            },
+            {
+                "id": 4,
+                "texto": "letargo"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "pregunta": "Genera pérdida de animales, pérdida de la vegetación y degradación del suelo. Ademas, erosión del suelo, contaminación del agua y deslizamientos de tierra.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tala"
+            },
+            {
+                "id": 2,
+                "texto": "inundaciones"
+            },
+            {
+                "id": 3,
+                "texto": "quemas",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "sequía"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "pregunta": "Provocan el desplazamiento de aves y mamíferos, lo cual puede alterar el equilibrio local y en última instancia la pérdida de vida silvestre.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "terremotos"
+            },
+            {
+                "id": 2,
+                "texto": "erosión"
+            },
+            {
+                "id": 3,
+                "texto": "huracanes"
+            },
+            {
+                "id": 4,
+                "texto": "incendios",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "pregunta": "Ocasiona pérdida del hábitat de millones de especies ,ya que el 70 % de animales y plantas habitan los bosques, y ayudan al cambio climático. Los suelos húmedos sin la protección de los árboles se secan rápidamente.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "urbanización"
+            },
+            {
+                "id": 2,
+                "texto": "deforestacion",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "desertificación"
+            },
+            {
+                "id": 4,
+                "texto": "sobrepastoreo"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "pregunta": "Actividad que se realiza en espacios prohibidos como las orillas de los ríos, lagunas, cabeceras de cuenca y las zonas de amortiguamiento de áreas naturales protegidas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "mineria",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "dragado"
+            },
+            {
+                "id": 3,
+                "texto": "explotación"
+            },
+            {
+                "id": 4,
+                "texto": "fracking"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "pregunta": "Contaminan el agua subterránea, ocasiona daño a los animales en el agua, también contamina el agua que otros animales pueden beber.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "pesticidas"
+            },
+            {
+                "id": 2,
+                "texto": "abonos"
+            },
+            {
+                "id": 3,
+                "texto": "fungicidas",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "herbicidas"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "pregunta": "su aplicación contamina agua, suelos y aire, daña a los animales, altera la inocuidad de los alimentos que consumimos y, en consecuencia, incrementa los riesgos para la salud humana",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "veneno"
+            },
+            {
+                "id": 2,
+                "texto": "insecticidas",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "repelente"
+            },
+            {
+                "id": 4,
+                "texto": "trampa"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "pregunta": "Generan gran efecto sobre el medioambiente y una ruptura del equilibrio medioambiental. Es decir, es la alteración del medioambiente provocado directa o indirectamente por un proyecto o actividad en un área determinada",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "residuos"
+            },
+            {
+                "id": 2,
+                "texto": "basura"
+            },
+            {
+                "id": 3,
+                "texto": "desechos"
+            },
+            {
+                "id": 4,
+                "texto": "plasticos",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "pregunta": "La presencia o introducción de sustancias nocivas en el medio ambiente que afectan negativamente a la salud y el bienestar de las especies que habitan en el área afectada. La contaminación del aire, agua y suelo es una amenaza  al hábitat natural.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "radiación"
+            },
+            {
+                "id": 2,
+                "texto": "contaminación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "envenenamiento"
+            },
+            {
+                "id": 4,
+                "texto": "polución"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "pregunta": "La expansión de las áreas urbanas, a menudo a expensas de los hábitats naturales circundantes, como los bosques y los humedales. La urbanización puede alterar significativamente los ecosistemas y amenazar la supervivencia de muchas especies.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "urbanización",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "asfalto"
+            },
+            {
+                "id": 3,
+                "texto": "construcción"
+            },
+            {
+                "id": 4,
+                "texto": "edificación"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "pregunta": "División de un hábitat natural en áreas más pequeñas y aisladas, lo que puede hacer que sea difícil para las especies migrar y dispersarse. La fragmentación del hábitat puede ser causada por actividades humanas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "separación"
+            },
+            {
+                "id": 2,
+                "texto": "aislamiento"
+            },
+            {
+                "id": 3,
+                "texto": "desconexión"
+            },
+            {
+                "id": 4,
+                "texto": "fragmentación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "pregunta": "Proceso por el cual los cuerpos de agua se vuelven más ácidos debido a la contaminación, lo que afecta negativamente la fauna y flora acuáticas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "salinización"
+            },
+            {
+                "id": 2,
+                "texto": "acidificación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "alcalinización"
+            },
+            {
+                "id": 4,
+                "texto": "eutrofización"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "pregunta": "Actividad ilegal de caza de animales en peligro de extinción, lo que puede afectar gravemente a la biodiversidad y la estabilidad de los ecosistemas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "talailegal"
+            },
+            {
+                "id": 2,
+                "texto": "cazafurtiva",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "contrabando"
+            },
+            {
+                "id": 4,
+                "texto": "pescailegal"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "pregunta": "Cultivo excesivo en un área determinada, lo que puede causar la degradación del suelo y la pérdida de la biodiversidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sobreexplotación"
+            },
+            {
+                "id": 2,
+                "texto": "erosión"
+            },
+            {
+                "id": 3,
+                "texto": "monocultivo"
+            },
+            {
+                "id": 4,
+                "texto": "sobrecultivo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "pregunta": "Altera la cadena alimentaria que se forma dentro de él y hace que todo el ecosistema altere su equilibrio y, por tanto, funcione deficientemente. ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "pesca"
+            },
+            {
+                "id": 2,
+                "texto": "captura"
+            },
+            {
+                "id": 3,
+                "texto": "caza"
+            },
+            {
+                "id": 4,
+                "texto": "cazaypesca",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "pregunta": "Una especie se extingue cuando su último ejemplar muere. Por lo tanto, la extinción se convierte en una certeza cuando no hay ningún integrante capaz de reproducirse y dar lugar a una nueva generación.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "perdido"
+            },
+            {
+                "id": 2,
+                "texto": "desaparecido"
+            },
+            {
+                "id": 3,
+                "texto": "extinto",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "inexistente"
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "pregunta": "Especie que enfrenta un riesgo extremadamente alto de extinción en estado silvestre.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "preocupante"
+            },
+            {
+                "id": 2,
+                "texto": "alarmante"
+            },
+            {
+                "id": 3,
+                "texto": "critico",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "grave"
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "pregunta": "Cuando los únicos miembros vivos de la especie están mantenidos en cautiverio (en colecciones botánicas en caso de las plantas) o como especies naturalizadas excluidas de su estirpe histórica y completamente fuera de su distribución original.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "reducido"
+            },
+            {
+                "id": 2,
+                "texto": "escaso"
+            },
+            {
+                "id": 3,
+                "texto": "extinsilvestre",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "raro"
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "pregunta": "Especies que al ser evaluada por la UICN, no satisface los criterios de las categorías vulnerable, en peligro o en peligro crítico de la Lista Roja, aunque está cercano a cumplirlos o se espera que así lo haga en un futuro próximo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vulnerable"
+            },
+            {
+                "id": 2,
+                "texto": "amenazable"
+            },
+            {
+                "id": 3,
+                "texto": "casiamenazado",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "sensible"
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "pregunta": "Cuando no hay información adecuada de una especie para hacer una evaluación, directa o indirecta, de su riesgo de extinción basándose en la distribución y/o condición de la población.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "pocosdatos"
+            },
+            {
+                "id": 2,
+                "texto": "datodeficiente",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "escasoconocimiento"
+            },
+            {
+                "id": 4,
+                "texto": "informaciónlimitada"
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "pregunta": "Especies que en la actualidad no se encuentran necesariamente en peligro de extinción, pero podrían llegar a esa situación de seguir actuando los factores causales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "vulnerable",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "débil"
+            },
+            {
+                "id": 3,
+                "texto": "expuesto"
+            },
+            {
+                "id": 4,
+                "texto": "frágil"
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "pregunta": "Espece que no cumple ninguno de los criterios que definen las categorías de En Peligro Crítico, En Peligro, Vulnerable o Casi Amenazado.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "subordinado"
+            },
+            {
+                "id": 2,
+                "texto": "menor",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "pequeño"
+            },
+            {
+                "id": 4,
+                "texto": "secundario"
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "pregunta": "La Unión Internacional para la Conservación de la Naturaleza es una organización internacional dedicada a la conservación de los recursos naturales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "uicn",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "biodiversidad"
+            },
+            {
+                "id": 3,
+                "texto": "conservación"
+            },
+            {
+                "id": 4,
+                "texto": "especies"
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "pregunta": "Una especie que realiza largos desplazamientos periódicos en busca de alimento o para reproducirse, lo que la hace vulnerable a las amenazas a lo largo de su ruta migratoria.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "viajero"
+            },
+            {
+                "id": 2,
+                "texto": "desplazado"
+            },
+            {
+                "id": 3,
+                "texto": "migratorio",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "nómada"
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "pregunta": "Una especie que desempeña un papel vital en el mantenimiento del ecosistema y cuya desaparición tendría consecuencias graves para otras especies.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "especieimportante"
+            },
+            {
+                "id": 2,
+                "texto": "especiecentral"
+            },
+            {
+                "id": 3,
+                "texto": "especieclave",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "especiefundamental"
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "pregunta": "Una especie que se encuentra en riesgo de extinción, con una población que está disminuyendo y que enfrenta amenazas significativas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "enriesgo"
+            },
+            {
+                "id": 2,
+                "texto": "amenazada",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "enpeligro"
+            },
+            {
+                "id": 4,
+                "texto": "enpeligrodeextinción"
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "pregunta": "Especies que no son nativas del área y que pueden desplazar o competir con las especies nativas, disminuyendo su población y diversidad.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "invasora",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "exótica"
+            },
+            {
+                "id": 3,
+                "texto": "foránea"
+            },
+            {
+                "id": 4,
+                "texto": "introducida"
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "pregunta": "Una especie que solo se encuentra en una determinada área geográfica, lo que la hace especialmente vulnerable a las amenazas locales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "nativo"
+            },
+            {
+                "id": 2,
+                "texto": "autóctono"
+            },
+            {
+                "id": 3,
+                "texto": "endemico",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "local"
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "pregunta": "Documentos que presentan una lista de las especies amenazadas de una región o país o a nivel global, es un resumen de la información sobre las amenazas y el estado de conservación de dichas especies.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "listaroja"
+            },
+            {
+                "id": 2,
+                "texto": "librosrojos",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "listadeespecies"
+            },
+            {
+                "id": 4,
+                "texto": "listadereservas"
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "pregunta": "Familia de plantas con flores dicotiledóneas que contiene casi 250 géneros y alrededor de 2500 especies",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "solanaceae"
+            },
+            {
+                "id": 2,
+                "texto": "acanthaceae",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "convolvulaceae"
+            },
+            {
+                "id": 4,
+                "texto": "lamiaceae"
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "pregunta": "Familia de plantas con flores que incluye alrededor de 2500 especies. Esta familia es empleada como alimento, forraje para animales, medicina, plantas ornamentales y flores cortadas.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "commelinaceae"
+            },
+            {
+                "id": 2,
+                "texto": "aizoaceae"
+            },
+            {
+                "id": 3,
+                "texto": "araceae",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "araliaceae"
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "pregunta": "Familia de plantas tropicales con flores que se adaptan a una amplia gama de sitios y climas. Las plantas de la familia Bromeliaceae son mejor conocidas como \"bromelias\" en su nombre común. ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "orchidaceae"
+            },
+            {
+                "id": 2,
+                "texto": "asparagaceae"
+            },
+            {
+                "id": 3,
+                "texto": "bromeliaceae",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "cactaceae"
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "pregunta": "Familia de plantas con flores incluye alrededor de 1500 especies y cientos de híbridos.Las plantas varían en tamaño desde unas pocas pulgadas hasta más de 12 pulgadas de altura, y las flores, los colores del follaje y los tamaños son muy diversos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "portulacaceae"
+            },
+            {
+                "id": 2,
+                "texto": "begoniaceae",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "cucurbitaceae"
+            },
+            {
+                "id": 4,
+                "texto": "gesneriaceae"
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "pregunta": "Familia de plantas con flores que incluye más de 23,600 especies de plantas herbáceas, arbustos y árboles distribuidos en todo el mundo.Importante económicamente, ya que proporciona alimentos básicos, plantas de jardín y medicinas herbales.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "poaceae"
+            },
+            {
+                "id": 2,
+                "texto": "asteraceae",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "brassicaceae"
+            },
+            {
+                "id": 4,
+                "texto": "fabaceae"
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "pregunta": "Familia de plantas que incluye árboles o arbustos con hojas simples, generalmente dentadas y/o lobuladas, dispuestas alternativamente a lo largo del tallo. Importante en la producción de madera y alimentos, como las bellotas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "salicaceae"
+            },
+            {
+                "id": 2,
+                "texto": "betulaceae"
+            },
+            {
+                "id": 3,
+                "texto": "fagaceae",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "juglandaceae"
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "pregunta": "Familia que incluye hierbas, enredaderas, arbustos o árboles, con hojas dispuestas alternativamente a lo largo del tallo. Algunos géneros de la familia Rosaceae incluyen Rosas, Fresas, Frambuesas, Manzanas, Peras, Duraznos, Cerezas y Albaricoques.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "rosaceae",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "anacardiaceae"
+            },
+            {
+                "id": 3,
+                "texto": "ericaceae"
+            },
+            {
+                "id": 4,
+                "texto": "oleaceae"
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "pregunta": "Familia de plantas con flores que incluye alrededor de 1000 especies en unos 25 géneros.Incluyen violetas, pensamientos y flores de pensamiento. Las flores de la familia Violaceae tienen una forma distintiva y ligeramente irregular",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "violaceae",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "apocynaceae"
+            },
+            {
+                "id": 3,
+                "texto": "euphorbiaceae"
+            },
+            {
+                "id": 4,
+                "texto": "liliaceae"
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "pregunta": " Familia de plantas con flores que incluye alrededor de 66 especies en tres géneros. Son pequeñas y tienen los estambres opuestos a los pétalos o sépalos, y los frutos son carnosos, aplanados y curvados",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "sapindaceae"
+            },
+            {
+                "id": 2,
+                "texto": "euphorbiaceae"
+            },
+            {
+                "id": 3,
+                "texto": "malvaceae"
+            },
+            {
+                "id": 4,
+                "texto": "sabiaceae",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "pregunta": "familia de plantas que incluye árboles y arbustos con hojas opuestas y sin estípulas. Las flores de la familia Cornaceae son pequeñas y generalmente se agrupan en inflorescencias. Los frutos son drupas y contienen una sola semilla. ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "oleaceae"
+            },
+            {
+                "id": 2,
+                "texto": "adoxaceae"
+            },
+            {
+                "id": 3,
+                "texto": "caprifoliaceae"
+            },
+            {
+                "id": 4,
+                "texto": "cornaceae",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "pregunta": "Plantas con flores incluye alrededor de 880 géneros y 26,000 especies distribuidas en el mundo. Las orquídeas son hierbas perennes y presentan flores inusualmente simétricas bilateralmente, con masas de polen.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "orchidiaceae",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "amaryllidaceae"
+            },
+            {
+                "id": 3,
+                "texto": "iridaceae"
+            },
+            {
+                "id": 4,
+                "texto": "liliaceae"
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "pregunta": "Familia de plantas que incluye principalmente árboles o arbustos con hojas aromáticas que tienen hojas enteras o lobuladas (pero no dentadas) dispuestas alternativamente a lo largo del tallo. ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "rutaceae"
+            },
+            {
+                "id": 2,
+                "texto": "lauraceae",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "melastomataceae"
+            },
+            {
+                "id": 4,
+                "texto": "myrtaceae"
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "pregunta": "Familia de plantas que incluye alrededor de 300 especies en 10 géneros. Son hierbas anuales o perennes con hojas alternas y flores con cuatro pétalos y seis estambres. Los frutos son cápsulas que se abren en tres partes. ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "verbenaceae"
+            },
+            {
+                "id": 2,
+                "texto": "bignoniaceae"
+            },
+            {
+                "id": 3,
+                "texto": "cleomaceae",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "geraniaceae"
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "pregunta": "Plantas que incluye alrededor de 12,000 especies de hierbas perennes o anuales, conocidas como gramíneas o pastos. Las plantas de la familia Poaceae son importantes en la producción de alimentos, forraje, combustible y materiales de construcción.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "polygonaceae"
+            },
+            {
+                "id": 2,
+                "texto": "asclepiadaceae"
+            },
+            {
+                "id": 3,
+                "texto": "asteraceae"
+            },
+            {
+                "id": 4,
+                "texto": "poaceae",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "pregunta": "Aves acuáticas comprende alrededor de 180 especies en tres familias: Anhimidae (kamichis), Anseranatidae ( ganso de magpie) y Anatidae, la familia más grande, que incluye más de 170 especies de aves acuáticas, entre ellas los patos, gansos y cisnes.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "passeriformes"
+            },
+            {
+                "id": 2,
+                "texto": "anseriformes",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "caprimulgiformes"
+            },
+            {
+                "id": 4,
+                "texto": "charadriiformes"
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "pregunta": "Diferentes entre sí en apariencia general y forma de vida. Los vencejos y los vencejos arbóreos son aves de vuelo rápido que se alimentan de insectos, mientras que los colibríes son aves pequeñas y coloridas que se alimentan principalmente de néctar.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "struthioniformes"
+            },
+            {
+                "id": 2,
+                "texto": "apodiformes",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "casuariiformes"
+            },
+            {
+                "id": 4,
+                "texto": "phoenicopteriformes"
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "pregunta": "Incluye palomas, palomas, dodoes y solitarios. Se encuentran en todo el mundo, excepto en las regiones subpolares y algunas islas oceánicas. Tienen una amplia gama de colores, desde grises y marrones hasta llamativos naranjas, verdes o púrpuras",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "suliformes"
+            },
+            {
+                "id": 2,
+                "texto": "columbiformes",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "procellariiformes"
+            },
+            {
+                "id": 4,
+                "texto": "sphenisciformes"
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "pregunta": "Contiene alrededor de 140 especies de cucos, correcaminos, coucals, couas, malkohas, güiras y anís.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "strigiformes"
+            },
+            {
+                "id": 2,
+                "texto": "caprimulgiformes"
+            },
+            {
+                "id": 3,
+                "texto": "cuculiformes",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "falconiformes"
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "pregunta": "Incluye águilas, halcones, milanos, halcones y Nuevo Mundo Buitres. Tienen la vista y el oído bien desarrollados y matan con sus picos, no con sus garras. Muchas especies de Falconiformes están en peligro de extinción.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "piciformes"
+            },
+            {
+                "id": 2,
+                "texto": "accipitriformes"
+            },
+            {
+                "id": 3,
+                "texto": "falconiformes",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "passeriformes"
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "pregunta": "Incluye más de 270 especies vivas, como pavos, pollos, codornices, perdiz, faisán, pavo real, gallina de Guinea y urogallo.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "strigiformes"
+            },
+            {
+                "id": 2,
+                "texto": "galliformes",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "gruiformes"
+            },
+            {
+                "id": 4,
+                "texto": "passeriformes"
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "pregunta": " Aves acuáticas que comparten la característica común de las membranas entre los cuatro dedos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "procellariiformes"
+            },
+            {
+                "id": 2,
+                "texto": "anseriformes"
+            },
+            {
+                "id": 3,
+                "texto": "pelecaniformes",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "podicipediformes"
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "pregunta": "Incluye pájaros carpinteros, cuellos torcidos, jacamars, barbudos, guías de miel y tucanes.El orden se caracteriza por pies zygodactyl, con dos dedos apuntando hacia adelante y dos hacia atrás, lo que les ayuda a aferrarse a los árboles.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "piciformes",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "caprimulgiformes"
+            },
+            {
+                "id": 3,
+                "texto": "coraciiformes"
+            },
+            {
+                "id": 4,
+                "texto": "passeriformes"
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "pregunta": "Incluye alrededor de 35 especies de trogones, que son comunes a las regiones cálidas.Los trogones tienen un vientre rojo brillante a amarillo en contraste con un pecho oscuro y partes superiores",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "trogoniformes",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "coraciiformes"
+            },
+            {
+                "id": 3,
+                "texto": "passeriformes"
+            },
+            {
+                "id": 4,
+                "texto": "piciformes"
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "pregunta": "Incluye búhos, garras bien desarrolladas, plumaje suave y vuelo notoriamente silencioso.Tienen pies rapactoriales, y todas las especies tienen un disco facial característico, que es circular entre los búhos rígidos y en forma de corazón en los búhos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "strigiformes",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "apodiformes"
+            },
+            {
+                "id": 3,
+                "texto": "caprimulgiformes"
+            },
+            {
+                "id": 4,
+                "texto": "passeriformes"
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "pregunta": "Aves más antiguos y están relacionados con las rátidas. Generalmente viven en el suelo y se encuentran en una variedad de hábitats.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "tinamiformes",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "accipitriformes"
+            },
+            {
+                "id": 3,
+                "texto": "galliformes"
+            },
+            {
+                "id": 4,
+                "texto": "procellariiformes"
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "pregunta": "Pájaros coloridos incluyendo martín pescador, el abejarucos, el rodillos, y Los Todies. Tienen sindactilia, con Tres delanteros-puntiagudos de los pies (y dedos de los pies 3 & 4 fusionados en su base), en muchos reyespescadores uno de Faltan estos.",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "suliformes"
+            },
+            {
+                "id": 2,
+                "texto": "caprimulgiformes"
+            },
+            {
+                "id": 3,
+                "texto": "coraciformes",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "passeriformes"
+            }
+        ]
+    }
+]
