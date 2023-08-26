@@ -1,75 +1,102 @@
 .screen {
-    position: relative;
-    height: 100vh;
-    overflow: hidden;
-  }
-  
-  .background-image {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  
-  .person {
-    position: absolute;
-    bottom: -200px;
-    width: 175px;
-    height: 200px;
-    transition: all 0.5s ease-out;
-    
-  }
-  
-  .person-1 {
-    left: 10%;
-  }
-  
-  .person-2 {
-    right: 10%;
-    transform: scaleX(-1);
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
 
-  }
-  
-  .slide-up {
-    bottom: 0;
-  }
-  
-  .dialogue {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: white;
-    padding: 20px;
-    border-radius: 10px;
-    cursor: pointer;
-    width: 30%;
-    font-size: 14px;
-    text-align: justify;
-  }
-  
-  .dialogueClick {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: white;
-    padding: 20px;
-    border-radius: 10px;
-    cursor: pointer;
-    width: 30%;
-    font-size: 24px;
-    font-weight: bold;
-    text-align: center;
+@keyframes fadeIn {
+  0% {
+    opacity: 0%;
   }
 
-  .dialogue p {
-    margin: 0;
+  100% {
+    opacity: 100%;
   }
+}
 
-  .dialogueClick p {
-    margin: 0;
-  }
-  
+.background-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  animation: fadeIn 1.2s forwards;
+}
+
+.person {
+  position: absolute;
+  bottom: -200px;
+  width: 175px;
+  height: 200px;
+  transition: all 0.5s ease-out;
+
+}
+
+.person-1 {
+  left: 10%;
+}
+
+.person-2 {
+  right: 10%;
+  transform: scaleX(-1);
+
+}
+
+.slide-up {
+  bottom: 0;
+}
+
+.dialogue {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0.85);
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 40%;
+  font-size: 0.7em;
+  text-align: justify;
+  animation: fadeIn 1.2s forwards;
+
+}
+
+.dialogueClick {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 30%;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  animation: fadeIn 1.2s forwards;
+
+}
+
+.dialogue p {
+  height: auto;
+  font-size: 0.8rem;
+  margin: 0 auto;
+}
+
+.dialogue p p {
+  position: absolute;
+  bottom: 0px;
+  right: 14px;
+  width: 2rem !important;
+  font-size: 1.7rem !important;
+  font-weight: 900;
+  color: green;
+  font-family: cursive;
+}
+
+.dialogueClick p {
+  margin: 0;
+}

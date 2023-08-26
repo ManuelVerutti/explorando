@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './Inicio.css';
 import soundFile from '../Sounds/pop.mpeg';
+import LazyImage from '../Componentes/LazyImage';
 
 function Inicio() {
 
@@ -52,10 +53,10 @@ function Inicio() {
     }
 
     const navigate = useNavigate();
-
+//
     return (
         <div>
-                        <img className="backgroundImage" src="/Medios/Cinematicas/main.jpeg" />
+        <LazyImage className="backgroundImage" src="/Medios/Cinematicas/main.jpeg" />
 
         <div className='fondoInicio'>
 
@@ -72,7 +73,7 @@ function Inicio() {
                             storedData.map((user, i) => (
                                 <div onClick={(event) => handleUserClick(event, user)} className='div' key={i}>
                                     <p>{user.nombre}</p>
-                                    <button className="button" onClick={() => { eraseUser(i) }} >borrar</button>
+                                    <img src='/Medios/caneca.webp' className="trash" onClick={() => { eraseUser(i) }} ></img>
                                 </div>
                             ))
                         }

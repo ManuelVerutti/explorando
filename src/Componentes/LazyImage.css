@@ -1,0 +1,14 @@
+.LaziImage{
+    transition: opacity 1.2s ease-in !important;
+    animation: fadeIn 1.2s forwards;
+}
+
+    
+@keyframes fadeIn {
+    0%{
+        opacity: 0%;
+    }
+    100%{
+        opacity: 100%;
+    }
+}

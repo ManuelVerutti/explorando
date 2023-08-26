@@ -6,6 +6,7 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import soundFile from '../Sounds/pop.mpeg';
 import Animation from "../Componentes/Animation"
+import LazyImage from '../Componentes/LazyImage';
 
 
 
@@ -27,7 +28,7 @@ setEnCinematica(false);
 
     return (
         <div>
-            <img className="backgroundImage" src="/Medios/Cinematicas/main.jpeg" />
+            <LazyImage className="backgroundImage" src="/Medios/Cinematicas/main.jpeg" />
 
             {enCinematica ?
                 <Animation backgroundImage="/Medios/Cinematicas/main.jpeg" personImage1="/Medios/Cinematicas/explorador (1).png" personImage2="/Medios/Cinematicas/explorador (2).png" handleAnimationClick={handleAnimationClick} message="<b>¡Bienvenido!</b><br> En explorando deberás recorrer desde los 0 m.s.n.m en la <b>Isla Gorgona</b> hasta los 5364 m.s.n.m en el <b>Nevado del Huila</b> a medida que aciertas respuestas.<br> <b>¡Buena Suerte!</b>"></Animation>
@@ -60,7 +61,7 @@ setEnCinematica(false);
 
                     <div className='cuerpoTemas'>
                         <div className='headerTemas'>
-                            <img src="Medios\logo-colibri-03.webp" alt="" />
+                            <LazyImage src="Medios\logo-colibri-03.webp" alt="" />
                         </div>
                         <h3>Selecciona el tema</h3>
                         <div className='temas'>

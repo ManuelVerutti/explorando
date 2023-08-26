@@ -6,6 +6,7 @@ import * as XLSX from 'xlsx';
 import jsPDF from 'jspdf';
 import { Filesystem, Directory } from '@capacitor/filesystem';
 import { ToastContainer, toast } from "react-toastify";
+import LazyImage from '../Componentes/LazyImage';
 
 
 
@@ -139,7 +140,7 @@ const TablaPuntuacion = () => {
                   <ToastContainer />
 
       <Back destino="/temas" />
-      <img className="backgroundImage" src="/Medios/Victoria/fondo.PNG" />
+      <LazyImage className="backgroundImage" src="/Medios/Victoria/fondo.PNG" />
       <h2>Tabla de puntuaciones</h2>
       <table>
         <thead>

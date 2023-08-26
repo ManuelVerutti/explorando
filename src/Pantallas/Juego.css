@@ -6,6 +6,10 @@
   height: 100vh;
 }
 
+.App div{
+  height: auto;
+}
+
 .tiempo {
   border-radius: 50%;
   border-style: solid;
@@ -13,29 +17,32 @@
   height: 40px;
   font-size: larger;
   display: flex;
+  color: white;
   align-items: center;
   justify-content: center;
+  background-color: rgb(245, 137, 5);
 }
 
-.colibriImg{
+.colibriImg {
   height: 20vh;
   min-height: 50px;
 }
 
-.backgroundImage{
+.backgroundImage {
   position: fixed;
   z-index: -1;
   top: 0;
   left: 0;
   width: 100vw;
   height: 100vh;
-  filter: blur(4px);
+  filter: blur(8px);
+  animation: fadeIn 1.8s forwards;
+
 }
 
 .pregunta {
   display: flex;
   flex-direction: column;
-  margin-bottom: 1rem;
   text-align: center;
   align-items: center;
   height: 45vh;
@@ -48,6 +55,9 @@
   align-items: center;
   justify-content: space-around;
   width: 100vw;
+  height: auto;
+  
+  margin-bottom: 0.5rem;
 }
 
 .textoPreg {
@@ -97,7 +107,7 @@
 }
 
 .respuestas .buttonJ:hover {
-  background-color: #005ea5;
+  background-color: rgb(245, 137, 5);
 }
 
 .gameEndContainer {
@@ -107,27 +117,39 @@
   font-size: medium;
 }
 
-.gameEndContainer h1{
+.gameEndContainer h1 {
   margin: 10px;
 }
-.gameEndContainer h2{
+
+.gameEndContainer h2 {
   margin: 10px;
 }
 
 .buttonJ {
   font-size: 1.2rem;
   padding: 8px;
-  background-color: #0077c2;
+  background-color: rgb(245, 137, 5);
   color: #fff;
   border: none;
   border-radius: 0.5rem;
   cursor: pointer;
   margin-top: 2rem;
   margin: 5px;
+  animation: fadeIn 1.2s forwards;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 70%;
+  }
+
+  100% {
+    opacity: 100%;
+  }
 }
 
 .buttonJ:hover {
-  background-color: #005ea5;
+  background-color: rgb(245, 137, 5);
 }
 
 .piramide {
@@ -137,27 +159,29 @@
   height: 100vh;
   overflow-y: auto;
   align-items: center;
+  padding-bottom: 10px;
 }
 
 .escalon {
-  width: calc(90vw - 5.5vw*var(--index));
+  border-radius: 20px;
+  width: calc(60vw - 3.2vw*var(--index));
   display: flex;
   border-style: solid;
   min-height: 40px;
   text-align: center;
   align-items: center;
   justify-content: space-around;
-  margin: 5px;
-  border-radius: 10px;
+  margin: 4px;
   background-color: white;
   font-weight: bolder;
   box-shadow: 5px 5px 7px -5px black;
 }
 
+
 .escalonDone {
-  background-color: #0077c2;
+  background-color: rgb(245, 137, 5);
   color: white;
-  border-color: black;
+  border-color: white;
   transform: scale(1.05);
 }
 

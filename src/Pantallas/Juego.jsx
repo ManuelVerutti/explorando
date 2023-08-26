@@ -4,6 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import "./Juego.css";
 import soundFile from '../Sounds/pop.mpeg';
 import Animation from "../Componentes/Animation";
+import LazyImage from "../Componentes/LazyImage";
 
 
 //Pendiente - Hacer lectura del json
@@ -26,10 +27,11 @@ function Juego() {
     const [tiempoRestante, setTiempoRestante] = useState(30);
     const [finDelJuego, setFinDelJuego] = useState(false);
     const [victoria, setVictoria] = useState(false);
-    const [imgFondo, setImgFondo] = useState("/Medios/Cinematicas/fondo (1).jpeg");
+    const [imgFondo, setImgFondo] = useState("/Medios/Cinematicas/fondo (1).webp");
     const [imgPersona1, setImgPersona1] = useState("/Medios/Cinematicas/explorador (1).png");
     const [imgPersona2, setImgPersona2] = useState("/Medios/Cinematicas/explorador (2).png");
-    const [mensaje, setMensaje] = useState("<b> Vamos por tu primer nivel:</b><br> Los Ecosistemas Marinos");
+    const [mensaje, setMensaje] = useState("<b> Vamos por tu primer nivel:</b><br> ECOSISTEMAS MARINOS");
+    const [infoMessage, setInfoMessage] = useState([]);
 
 
     let extraPoints = 100;
@@ -58,6 +60,16 @@ function Juego() {
                 setPreguntas(preguntasAleatorias);
             })
             .catch(err => console.error(err));
+
+        fetch("info.json")
+            .then(res => res.json())
+            .then(data => {
+                console.log(data);
+                setInfoMessage(data.lugares);
+            })
+            .catch(err => console.error(err));
+
+        messageUpdate();
 
     }, []);
 
@@ -89,61 +101,72 @@ function Juego() {
     }, [enPregunta]);
 
     useEffect(() => {
-        setImgFondo(("/Medios/Cinematicas/fondo (" + (preguntaActual + 1) + ").png"))
+        setImgFondo(("/Medios/Cinematicas/fondo (" + (preguntaActual + 1) + ").webp"))
 
         console.log(preguntaActual);
-        switch (preguntaActual) {
-            case 0:
-                setMensaje("<b> Vamos por tu primer nivel:</b><br> Los Ecosistemas Marinos");
-                break;
-            case 1:
-                setMensaje("<b> Vamos por tu segundo nivel:</b><br> Los Arrecifes de Coral");
-                break;
-            case 2:
-                setMensaje("<b> Vamos por tu tercer nivel:</b><br> Los Pastos Marinos");
-                break;
-            case 3:
-                setMensaje("<b> Vamos por tu cuarto nivel:</b><br> Los Bosques Xerofíticos");
-                break;
-            case 4:
-                setMensaje("<b> Vamos por tu quinto nivel:</b><br> Las Sabanas");
-                break;
-            case 5:
-                setMensaje("<b> Vamos por tu sexto nivel:</b><br> Los Manglares");
-                break;
-            case 6:
-                setMensaje("<b> Vamos por tu septimo nivel:</b><br> Los Bosques de Galería");
-                break;
-            case 7:
-                setMensaje("<b> Vamos por tu octavo nivel:</b><br> Los Rios");
-                break;
-            case 8:
-                setMensaje("<b> Vamos por tu noveno nivel:</b><br> La Selva Inferior");
-                break;
-            case 9:
-                setMensaje("<b> Vamos por tu decimo nivel:</b><br> Los Bosques Andinos");
-                break;
-            case 10:
-                setMensaje("<b> Vamos por tu decimo primer nivel:</b><br> Los Humedales Altoandinos");
-                break;
-            case 11:
-                setMensaje("<b> Vamos por tu decimo segundo nivel:</b><br> Los Bosques Altoandinos");
-                break;
-            case 12:
-                setMensaje("<b> Vamos por tu decimo tercero nivel:</b><br> Los Paramos");
-                break;
-            case 13:
-                setMensaje("<b> Vamos por tu decimo cuarto nivel:</b><br> El Glaciar");
-                break;
-            case 14:
-                setMensaje("<b> Vamos por tu decimo quinto nivel:</b><br> Desierto");
-                break;
-            default:
-                setMensaje("");
-                break;
-        }
+        messageUpdate();
 
-    }, [cinematicOn, preguntaActual]);
+    }, [cinematicOn, preguntaActual, infoMessage]);
+
+    function messageUpdate() {
+
+        try {
+            switch (preguntaActual) {
+                case 0:
+                    console.log(infoMessage);
+                    setMensaje("<b> Vamos por tu primer nivel:</b><br>  " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 1:
+                    setMensaje("<b> Vamos por tu segundo nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 2:
+                    setMensaje("<b> Vamos por tu tercer nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 3:
+                    setMensaje("<b> Vamos por tu cuarto nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 4:
+                    setMensaje("<b> Vamos por tu quinto nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 5:
+                    setMensaje("<b> Vamos por tu sexto nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 6:
+                    setMensaje("<b> Vamos por tu septimo nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 7:
+                    setMensaje("<b> Vamos por tu octavo nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 8:
+                    setMensaje("<b> Vamos por tu noveno nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 9:
+                    setMensaje("<b> Vamos por tu decimo nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 10:
+                    setMensaje("<b> Vamos por tu decimo primer nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 11:
+                    setMensaje("<b> Vamos por tu decimo segundo nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 12:
+                    setMensaje("<b> Vamos por tu decimo tercero nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 13:
+                    setMensaje("<b> Vamos por tu decimo cuarto nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                case 14:
+                    setMensaje("<b> Vamos por tu decimo quinto nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    break;
+                default:
+                    setMensaje("");
+                    break;
+            }
+        } catch (error) {
+            
+        }
+        
+    }
 
     function randomQuestion(preguntas, cantidad) {
         // Creamos una copia de las preguntas originales para no modificar el array original
@@ -257,7 +280,10 @@ function Juego() {
                     personImage1={imgPersona1}
                     personImage2={imgPersona2}
                     handleAnimationClick={handleAnimationClick}
-                    message={mensaje}>
+                    message={mensaje}
+                    secondMessage={infoMessage}
+                    stage={preguntaActual}
+                >
 
                 </Animation>
 
@@ -272,10 +298,10 @@ function Juego() {
 
                                     {victoria ?
                                         <div className="gameEndContainer">
-                                            <img className="backgroundImage" src="/Medios/Victoria/fondo.PNG" />
+                                            <LazyImage className="backgroundImage" src="/Medios/Victoria/fondo.PNG" />
 
                                             <Back destino="/temas" />
-                                            <img className="colibriImg" src="Medios\logo-colibri-03.webp" alt="" />
+                                            <LazyImage className="colibriImg" src="Medios\logo-colibri-03.webp" alt="" />
 
                                             <h1>¡Felicidades Has Ganado!</h1>
                                             <h2>Tu puntaje final es de {puntos} puntos.</h2>
@@ -295,10 +321,10 @@ function Juego() {
                                         </div>
                                         :
                                         <div className="gameEndContainer">
-                                            <img className="backgroundImage" src="/Medios/Victoria/fondo.PNG" />
+                                            <LazyImage className="backgroundImage" src="/Medios/Victoria/fondo.PNG" />
 
                                             <Back destino="/temas" />
-                                            <img className="colibriImg" src="Medios\logo-colibri-03.webp" alt="" />
+                                            <LazyImage className="colibriImg" src="Medios\logo-colibri-03.webp" alt="" />
 
                                             <h1>¡Fin del juego!</h1>
                                             <h2>Tu puntaje final es de {puntos} puntos.</h2>
@@ -325,7 +351,7 @@ function Juego() {
                                 <>
                                     {enPregunta ? (
                                         <>
-                                            <img className="backgroundImage" src={imgFondo} />
+                                            <LazyImage className="backgroundImage" src={imgFondo} />
                                             <Back destino="/temas" />
                                             <div className="pregunta">
 
@@ -348,7 +374,7 @@ function Juego() {
                                         </>)
                                         : (
                                             <>
-                                                <img className="backgroundImage" src="/Medios/Victoria/fondo.PNG" />
+                                                <LazyImage id="bg1" className="backgroundImage" src="/Medios/Victoria/fondo.PNG" />
 
                                                 <div className="piramide">
                                                     <button className="btnSig" onClick={() => { playSound(); setEnPregunta(true); setCinematicOn(true); }}>Siguiente</button>

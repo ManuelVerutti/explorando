@@ -1,0 +1,159 @@
+{
+    "lugares": [
+      {
+        "nombre": "ECOSISTEMAS MARINOS",
+        "mensaje": [
+          "¿Sabías que Colombia es el único país de Suramérica privilegiado con acceso tanto al Pacífico como al Atlántico?",
+          "Alberga el 47% de su territorio en áreas marinas e insulares.",
+          "Los océanos son el refugio de especies como las ballenas jorobadas y son el pulmón del planeta al generar el 50% de nuestro oxígeno.",
+          "Regulan el clima, son sumideros de carbono, alimentan a millones de personas y contribuyen al ciclo del agua.",
+          "Solo en Cauca, se extienden por 381.859 ha.",
+          "¡Es nuestra labor protegerlos!"
+        ]
+      },
+      {
+        "nombre": "PRADERAS MARINAS",
+        "mensaje": [
+          "¿Sabías que las praderas marinas se originaron hace unos 100 millones de años?",
+          "En Colombia se distribuyen principalmente en los litorales del mar Caribe hasta 40 metros de profundidad y cubren aprox. 40.000 ha.",
+          "Ofrecen refugio y alimento para gran cantidad de invertebrados, peces, reptiles y mamíferos, son filtradores de agua, protegen las costas de la erosión y se estima que son responsables de aproximadamente 10-18% del almacenamiento total de carbono en los océanos."
+        ]
+      },
+      {
+        "nombre": "ARRECIFES DE CORAL",
+        "mensaje": [
+          "¿Sabías que con más de 50 millones de años de antigüedad, los arrecifes de coral ocupan menos del 0.1% del océano global y son el hogar del 25% de especies marinas?",
+          "En Colombia, cubren 2.860 km² en el mar Caribe y 15 km² en el Océano Pacífico.",
+          "Estos ecosistemas, además de ser cuna de peces y formadores de playas de arena blanca, atenúan el 70-90% de la energía de las olas.",
+          "En Cauca los puedes visitar en la isla Gorgona.",
+          "¡Ayúdanos a conservarlos, en Colombia ya hemos perdido el 19% de ellos!"
+        ]
+      },
+      {
+        "nombre": "MANGLARES",
+        "mensaje": [
+          "¿Sabías que los manglares ocupan alrededor de 152,000 km² en el mundo?",
+          "Cubren 380,634 ha en Colombia (76,9% en el Pacífico y 2,3% en el Caribe).",
+          "Sirven como filtros biológicos, atrapando sedimentos.",
+          "Atenúan el 90% del impacto de las olas y albergan al 30% de las especies de peces en aguas abiertas, retienen 5 veces más carbono que los bosques tropicales.",
+          "En Cauca, conócelos en Guapi, Timbiquí o López de Micay.",
+          "¡Protejámoslos! hemos perdido el 35% y a nivel global solo el 7% tiene protección."
+        ]
+      },
+      {
+        "nombre": "SELVA INFERIOR",
+        "mensaje": [
+          "¿Sabías que la selva inferior o basal alberga casi el 10% de la biodiversidad mundial?",
+          "En Colombia cubre aprox. 403.000 km² caracterizándose por temperaturas promedio de 24-27°C y precipitaciones anuales de 2.500 a 4.000 mm.",
+          "Hogar de más de 1.000 especies de aves, 400 especies de mamíferos y 2.200 especies de mariposas.",
+          "Distribuido principalmente en el Pacífico, Amazonía y Orinoquia.",
+          "En Cauca puedes conocerla en el flanco pacífico de la Cordillera Occidental.",
+          "¡Apoya su protección!"
+        ]
+      }
+      ,{
+        "nombre": "BOSQUE SECO",
+        "mensaje": [
+          "¿Sabías que en Colombia el bosque seco tropical cubría originalmente más de 40 millones de hectáreas, pero hoy solo quedan 8?",
+          "Este ecosistema, con su biodiversidad única y alto endemismo, alberga flora y fauna adaptada al estrés hídrico.",
+          "La vegetación ha desarrollado tácticas de supervivencia, como perder hojas en sequía, tener hojas pequeñas, cortezas lisas y espinas.",
+          "En el Cauca, puedes explorarlo en El Patía.",
+          "Es uno de los hábitats más amenazados en Colombia ¡Protégelos!."
+        ]
+      },
+      {
+        "nombre": "SABANAS",
+        "mensaje": [
+          "¿Sabías que las sabanas colombianas se extienden por  18 millones de hectáreas en los Llanos Orientales de El Meta, Casanare, Vichada y Arauca?",
+          "Experimentan épocas  definidas, llevando a ríos y lagunas a reducirse o desaparecer en sequía e inundándose en épocas de lluvia.",
+          "Con mas de 700 especies de aves, mamíferos como el jaguar y el chigüiro, 110 especies de anfibios y 95 de reptiles.",
+          "Su principal amenaza: deforestación para actividades ganaderas y petroleras.",
+          "¡Conócelos y apoya su cuidado!"
+        ]
+      },
+      {
+        "nombre": "BOSQUES INUNDABLES",
+        "mensaje": [
+          "Sabías que los bosques inundables, también llamados bosques de várzea se inundan en cada época lluviosa por la crecida de los principales ríos de la Amazonía y Orinoquía colombiana?",
+          "Albergan una biodiversidad única, al ser el hogar de aprox. 600 especies de aves, mamíferos como el manatí y el delfín rosado, gran cantidad de peces, reptiles como caimanes y anacondas.",
+          "Están amenazados por la deforestación, minería y represas.",
+          "¡Conócelos en el Parque Nacional Natural Amacayacu y protégelos!."
+        ]
+      },
+      {
+        "nombre": "BOSQUES RIPARIOS",
+        "mensaje": [
+          "¿Sabías que los bosques riparios, también llamados de ribera o de galería, se sitúan a lo largo de ríos y lagos en Colombia?",
+          "Estos bosques son esenciales, no solo por su biodiversidad, sino por actuar como corredores biológicos que facilitan la movilidad de especies.",
+          "Además, son escudos contra la erosión y purificadores naturales del agua.",
+          "Especies de aves y mariposas los eligen como su único hogar.",
+          "En Cauca, los ríos Cauca, Magdalena y Patía los acogen.",
+          "¿Tienes uno cerca? ¡Cuida de él!"
+        ]
+      },
+      {
+        "nombre": "SELVAS ANDINAS",
+        "mensaje": [
+          "¿Sabías que los árboles de las selvas andinas alcanzan hasta 30 metros?",
+          "Conocidos como bosques andinos, montanos o de niebla, son uno de los ecosistemas más biodiversos del mundo, fundamentales en la captura y regulación del agua.",
+          "Situados entre 2200 y 2800 msnm conectan tierras bajas y altas desde Colombia hasta Perú, sin embargo, su ubicación lo somete a una alta amenaza por deforestación y poblamiento humano.",
+          "¡En el Cauca, las Cordilleras Occidental y Central te invitan a descubrirlos!"
+        ]
+      },
+      {
+        "nombre": "HUMEDAL",
+        "mensaje": [
+          "¿Sabías que en Colombia, los humedales terrestres cubren 20,6 millones de hectáreas abarcando ciénagas, turberas y lagunas?",
+          "Ricos en biodiversidad, son refugio de aves acuáticas, peces y nutrias.",
+          "Son escudos naturales contra inundaciones además de purificadores de agua.",
+          "Sin embargo, el 60% de su extensión original ya se ha perdido y solo un 3% está protegido en el país.",
+          "En Cauca, el Parque Nacional Natural Puracé resguarda valiosos humedales.",
+          "Si vives cerca de alguno, ¡ayúdanos a conservarlo!"
+        ]
+      },
+      {
+        "nombre": "ECOSISTEMAS DULCEACUICOLAS",
+        "mensaje": [
+          "¿Sabías que Colombia cuenta con más de 1.200 cuerpos de agua dulce, incluyendo ríos, lagos y lagunas?",
+          "Nuestra red fluvial supera los 18.000 km de longitud, albergando más de 1400 especies de peces de agua dulce y flora como macrófitas, algas y pastos acuáticos.",
+          "Son vitales al regular el clima, alimentar acuíferos y purificar el agua.",
+          "En Cauca puedes conocer los ríos Magdalena, Cauca, Patía, San Juan del Micay, y Guapi, entre otros.",
+          "¡Si vives cerca o los visitas, protege nuestra riqueza!."
+        ]
+      },
+      {
+        "nombre": "SELVAS ALTOANDINAS",
+        "mensaje": [
+          "¿Sabías que la vegetación de las selvas altoandinas presenta hojas coriáceas que reflejan los rayos de la luz roja?",
+          "Ubicados entre 2800 msnm y 3200 msnm en las tres cordilleras colombianas, con temperaturas de 15°C  a 6°C .",
+          "Cruciales en la regulación hídrica aportando hasta el 48% del agua al interceptar la neblina.",
+          "Con alto endemismo de anfibios y plantas, enfrentan amenazas como la potrerización y extracción de leña.",
+          "Son tesoros en lugares como la Serranía El Pinche en Cauca.",
+          "¡Cuidémoslas!"
+        ]
+      },
+      {
+        "nombre": "PARAMOS",
+        "mensaje": [
+          "¿Sabias que Colombia alberga el 49% de los páramos en el mundo?",
+          "Vitales para el suministro de agua del 70% de la población del país, con suelos que retienen hasta 2 veces su peso seco en agua.",
+          "Localizados entre 3000 y 4800 msnm, con temperaturas entre  3°C y 5°C.",
+          "Con alto endemismo presenta especies típicas de flora como el frailejón y fauna como el cóndor andino y la danta de montaña.",
+          "En Cauca, la Serranía El Pinche y la Cordillera Central, te esperan.",
+          "¡Protejamos esta fuente de vida!"
+        ]
+      },
+      {
+        "nombre": "GLACIAR",
+        "mensaje": [
+          "¿Sabías que en Colombia hay 19 glaciares distribuidos en las tres cordilleras que al año 2020 cubrían menos de 37 km²?",
+          "Ubicados entre 4.500 y 5.700 m.s.n.m.son claves en la regulación y almacenamiento de agua.",
+          "Sin embargo, hemos perdido más del 50% de su extensión en las últimas décadas.",
+          "En Cauca puedes visitar el Nevado del Huila, el glaciar más alto del país.",
+          "Para preservarlos, es crucial combatir el calentamiento global.",
+          "¡Cuidemos nuestros glaciares!"
+        ]
+      }
+    ]
+  }
+  

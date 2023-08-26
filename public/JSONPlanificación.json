@@ -1,1668 +1,264 @@
 [
     {
         "id": 1,
-        "pregunta": "Fase de preparación o planificación de un proyecto, a menudo utilizado en el contexto de la silvicultura o la gestión de la tierra",
+        "pregunta": "Normas de superior jerarquía fijadas por las autoridades ambientales para garantizar la sostenibilidad ambiental de los procesos de ordenamiento territorial",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "gestión"
+                "texto": "Área protegida"
             },
             {
                 "id": 2,
-                "texto": "aprestamiento",
-                "correcta": true
+                "texto": "Comunidad humana"
             },
             {
                 "id": 3,
-                "texto": "concertacion"
+                "texto": "Decreto"
             },
             {
                 "id": 4,
-                "texto": "declaratoria"
+                "texto": "Determinante ambiental",
+                "correcta": true
             }
         ]
     },
     {
         "id": 2,
-        "pregunta": "Conjunto de diligencias conducentes al manejo integral del sistema ambiental. ",
+        "pregunta": "La protección y gestión responsable de los recursos naturales para asegurar a largo plazo su uso sostenible y la supervivencia de las especies y los ecosistemas",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "gestión",
-                "correcta": true
+                "texto": "Territorio"
             },
             {
                 "id": 2,
-                "texto": "aprestamiento"
+                "texto": "Biodiversidad"
             },
             {
                 "id": 3,
-                "texto": "consultaprevia"
+                "texto": "Conservación",
+                "correcta": true
             },
             {
                 "id": 4,
-                "texto": "estudiotecnico"
+                "texto": "Restauración"
             }
         ]
     },
     {
         "id": 3,
-        "pregunta": "En el contexto de la gestión de la tierra, puede referirse a la declaración de un área protegida, como un parque nacional o una reserva de vida silvestre.",
+        "pregunta": "La variedad de vida en la Tierra, que incluye a todas las especies de plantas, animales y microorganismos, así como los ecosistemas en los que viven",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "zonificacion"
+                "texto": "Riqueza"
             },
             {
                 "id": 2,
-                "texto": "acuerdomanejo"
-            },
-            {
-                "id": 3,
-                "texto": "declaratoria",
+                "texto": "Biodiversidad",
                 "correcta": true
             },
             {
+                "id": 3,
+                "texto": "Especie invasora"
+            },
+            {
                 "id": 4,
-                "texto": "registrorunap"
+                "texto": "Hábitat"
             }
         ]
     },
     {
         "id": 4,
-        "pregunta": "Toma de acuerdos entre diferentes partes interesadas, a menudo utilizado en el contexto de la planificación y gestión del uso de la tierra.",
+        "pregunta": "Un grupo de organismos (población) que pueden entrecruzarse entre sí y producir descendencia fértil, no pudiendo hacer lo mismo con otros organismos",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "institucional"
+                "texto": "Género"
             },
             {
                 "id": 2,
-                "texto": "concertacion",
-                "correcta": true
+                "texto": "Clase"
             },
             {
                 "id": 3,
-                "texto": "consultaprevia"
+                "texto": "Conservación"
             },
             {
                 "id": 4,
-                "texto": "delimitacion"
+                "texto": "Especies",
+                "correcta": true
             }
         ]
     },
     {
         "id": 5,
-        "pregunta": "Establecimiento de límites, a menudo utilizado en el contexto de la planificación y gestión del uso de la tierra.",
+        "pregunta": "Son las condiciones biofísicas y geográficas donde un organismo o una población vive, se reproduce y perpetua su existencia",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "gestión"
+                "texto": "Selvas andinas"
             },
             {
                 "id": 2,
-                "texto": "delimitacion",
-                "correcta": true
+                "texto": "Biodiversidad"
             },
             {
                 "id": 3,
-                "texto": "estudiotecnico"
+                "texto": "Hábitat",
+                "correcta": true
             },
             {
                 "id": 4,
-                "texto": "flora"
+                "texto": "Nido"
             }
         ]
     },
     {
         "id": 6,
-        "pregunta": "Estudio o análisis técnico, a menudo utilizado en el contexto de la planificación y gestión del uso de la tierra.",
+        "pregunta": "Especies de plantas o animales que no son nativas del área y que pueden desplazar o competir con las especies nativas, disminuyendo su población y diversidad",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "renacernegro"
+                "texto": "Especie rastrera"
             },
             {
                 "id": 2,
-                "texto": "aprestamiento"
+                "texto": "Especie endémica"
             },
             {
                 "id": 3,
-                "texto": "concertacion"
+                "texto": "Especie invasora",
+                "correcta": true
             },
             {
                 "id": 4,
-                "texto": "estudiotecnico",
-                "correcta": true
+                "texto": "Especie migratoria"
             }
         ]
     },
     {
         "id": 7,
-        "pregunta": "Proceso de consulta previa con las comunidades indígenas u otros grupos afectados antes de tomar decisiones que puedan afectar sus derechos o intereses, a menudo utilizado en el contexto de la planificación y gestión del uso de la tierra.",
+        "pregunta": "Grupo o conjunto de seres humanos que comparten diversos elementos en común como costumbres, idioma, valores, tareas, visión del mundo, edad, ubicación geográfica, estatus social, roles, entre otras características",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "zonificacion"
+                "texto": "Raizales"
             },
             {
                 "id": 2,
-                "texto": "acuerdomanejo"
-            },
-            {
-                "id": 3,
-                "texto": "consultaprevia",
+                "texto": "Comunidad humana",
                 "correcta": true
             },
             {
+                "id": 3,
+                "texto": "Personas"
+            },
+            {
                 "id": 4,
-                "texto": "cordillera"
+                "texto": "Pueblo indígena"
             }
         ]
     },
     {
         "id": 8,
-        "pregunta": "Acuerdo o plan de manejo, a menudo utilizado en el contexto de áreas protegidas o manejo de recursos naturales.",
+        "pregunta": "Ciencia interdisciplinaria que analiza, desarrolla y gestiona los procesos de ordenación y desarrollo de los espacios geográficos y territorios, tanto urbanos como rurales en pro de su sostenibilidad ambiental",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "gestión"
+                "texto": "Restauración"
             },
             {
                 "id": 2,
-                "texto": "acuerdomanejo",
-                "correcta": true
+                "texto": "Conservación"
             },
             {
                 "id": 3,
-                "texto": "cobertura"
+                "texto": "Deforestación"
             },
             {
                 "id": 4,
-                "texto": "flora"
+                "texto": "Planificación",
+                "correcta": true
             }
         ]
     },
     {
         "id": 9,
-        "pregunta": "Proceso de dividir un área en diferentes zonas o usos de la tierra, a menudo utilizado en el contexto de la planificación y gestión del uso de la tierra.",
+        "pregunta": "Espacio delimitado que se caracteriza por la apropiación, ejercicio del dominio y control que una sociedad desarrolla en él",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "zonificacion",
+                "texto": "Territorio",
                 "correcta": true
             },
             {
                 "id": 2,
-                "texto": "concertacion"
+                "texto": "Cuenca hidrográfica"
             },
             {
                 "id": 3,
-                "texto": "consultaprevia"
+                "texto": "Páramos"
             },
             {
                 "id": 4,
-                "texto": "territoriovida"
+                "texto": "Servicio ambiental"
             }
         ]
     },
     {
         "id": 10,
-        "pregunta": "Consulta con las partes interesadas institucionales, como agencias gubernamentales u organizaciones no gubernamentales, a menudo utilizado en el contexto de la planificación y gestión del uso de la tierra.",
+        "pregunta": "Recursos (bienes y servicios) o procesos de los ecosistemas naturales que benefician a los seres humanos (p.e. el mejoramiento de la calidad del agua; control de los ciclos hidrológicos, polinización)",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "registrorunap"
+                "texto": "Área protegida"
             },
             {
                 "id": 2,
-                "texto": "aprestamiento"
+                "texto": "Comunidad humana"
             },
             {
                 "id": 3,
-                "texto": "institucional",
-                "correcta": true
+                "texto": "Determinante ambiental"
             },
             {
                 "id": 4,
-                "texto": "montañoso"
+                "texto": "Servicio ambiental",
+                "correcta": true
             }
         ]
     },
     {
         "id": 11,
-        "pregunta": "Término que puede referirse al Registro Nacional de Áreas Naturales Protegidas en Perú, que es responsable de registrar y administrar las áreas protegidas en el país.",
+        "pregunta": "Acción de permitir la accesibilidad a información clara y concisa por parte de la ciudadanía y el gobierno",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "registrorunap",
+                "texto": "Transparencia",
                 "correcta": true
             },
             {
                 "id": 2,
-                "texto": "biodiversidad"
+                "texto": "Gestión ambiental"
             },
             {
                 "id": 3,
-                "texto": "conservación"
+                "texto": "Justicia"
             },
             {
                 "id": 4,
-                "texto": "hábitats"
+                "texto": "Sostenibilidad"
             }
         ]
     },
     {
         "id": 12,
-        "pregunta": "Consejo Comunitario de Alto Guapi, conformado por 10 Comunidades Negras (Caimito, Naranjo, Rosario, Chigüero, Hojarascal, San Vicente, Santa Clara, San Agustín, Las Juntas y Balsitas) una población de 2.026 personas.",
+        "pregunta": "Acción de involucrar a la ciudadanía en los procesos de toma de decisiones gubernamentales o comunitarias",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "usosuelo"
-            },
-            {
-                "id": 2,
-                "texto": "acuerdocar"
-            },
-            {
-                "id": 3,
-                "texto": "altoguapi",
-                "correcta": true
-            },
-            {
-                "id": 4,
-                "texto": "renacernegro"
-            }
-        ]
-    },
-    {
-        "id": 13,
-        "pregunta": "Comunidad afrodescendiente (Timbiqui-Cauca),la única manera de llegar es a través de los ríos o en lancha por el mar Pacífico.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "renacernegro",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "fauna"
-            },
-            {
-                "id": 3,
-                "texto": "hábitats"
-            },
-            {
-                "id": 4,
-                "texto": "mecánismos"
-            }
-        ]
-    },
-    {
-        "id": 14,
-        "pregunta": "Área protegida de la naturaleza que preserva la biodiversidad y el equilibrio ecológico.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "territoriovida"
-            },
-            {
-                "id": 2,
-                "texto": "acuerdoveredal"
-            },
-            {
-                "id": 3,
-                "texto": "reservanatural",
-                "correcta": true
-            },
-            {
-                "id": 4,
-                "texto": "resolucionmads"
-            }
-        ]
-    },
-    {
-        "id": 15,
-        "pregunta": "Serie de montañas conectadas entre sí por una línea continua de alturas elevadas.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "microclima"
-            },
-            {
-                "id": 2,
-                "texto": "cordillera",
-                "correcta": true
-            },
-            {
-                "id": 3,
-                "texto": "escalas"
-            },
-            {
-                "id": 4,
-                "texto": "especies"
-            }
-        ]
-    },
-    {
-        "id": 16,
-        "pregunta": "Clima localizado en una pequeña área que difiere del clima circundante debido a factores como la altitud, la vegetación y la topografía.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "usosuelo"
-            },
-            {
-                "id": 2,
-                "texto": "conservación"
-            },
-            {
-                "id": 3,
-                "texto": "fauna"
-            },
-            {
-                "id": 4,
-                "texto": "microclima",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 17,
-        "pregunta": "Conjunto de animales de una región, ecosistema o periodo geológico determinado. En Serrania El Pinche se registron 406 especies distribuidas en 19 ordenes y 49 familias.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "áreas protegidas"
-            },
-            {
-                "id": 2,
-                "texto": "fauna",
-                "correcta": true
-            },
-            {
-                "id": 3,
-                "texto": "hábitats"
-            },
-            {
-                "id": 4,
-                "texto": "renacernegro"
-            }
-        ]
-    },
-    {
-        "id": 18,
-        "pregunta": "Conjunto de plantas de una región, ecosistema o periodo geológico determinado.En Serrania El Pinche se registraron 353 especies distribuidas en 87 familias y 200 géneros",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "mecánismos"
-            },
-            {
-                "id": 2,
-                "texto": "conservación"
-            },
-            {
-                "id": 3,
-                "texto": "especies"
-            },
-            {
-                "id": 4,
-                "texto": "flora",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 19,
-        "pregunta": "Arbusto o árbol perenne perteneciente a la familia de las lauráceas, a la que da nombre.Presentes en Serrania El Pinche",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "usosuelo"
-            },
-            {
-                "id": 2,
-                "texto": "cordillera"
-            },
-            {
-                "id": 3,
-                "texto": "escalas"
-            },
-            {
-                "id": 4,
-                "texto": "laurel",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 20,
-        "pregunta": "Una cobertura natural es la reducción del riesgo por parte de las entidades que están expuestas a grandes oscilaciones de los tipos de cambio mediante la explotación de sus procedimientos operativos habituales",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "área protegida"
-            },
-            {
-                "id": 2,
-                "texto": "acuerdocar"
-            },
-            {
-                "id": 3,
-                "texto": "cobertura",
-                "correcta": true
-            },
-            {
-                "id": 4,
-                "texto": "resolucionmads"
-            }
-        ]
-    },
-    {
-        "id": 21,
-        "pregunta": "Serranía del Pinche conformada por varios cumbres altas con pequeños parches de páramo aislado y proporcionan un corredor entre las regiones biogeográficas del Pacífico y los Andes",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "territoriovida"
-            },
-            {
-                "id": 2,
-                "texto": "escalas"
-            },
-            {
-                "id": 3,
-                "texto": "montañoso",
-                "correcta": true
-            },
-            {
-                "id": 4,
-                "texto": "renacernegro"
-            }
-        ]
-    },
-    {
-        "id": 22,
-        "pregunta": "Territorios y áreas conservados por pueblos indígenas y comunidades locales alrededor del mundo, trabajo realizado con veredas que conforman en pinche (Argelia-Cauca).",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "usosuelo"
-            },
-            {
-                "id": 2,
-                "texto": "conservación"
-            },
-            {
-                "id": 3,
-                "texto": "fauna"
-            },
-            {
-                "id": 4,
-                "texto": "territoriovida",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 23,
-        "pregunta": "Contexto de los acuerdos de paz y negociaciones entre grupos armados y el gobierno(en este caso las juntas de acción comunal de las veredad) en Colombia.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "hábitats"
-            },
-            {
-                "id": 2,
-                "texto": "acuerdoveredal",
-                "correcta": true
-            },
-            {
-                "id": 3,
-                "texto": "conservación"
-            },
-            {
-                "id": 4,
-                "texto": "flora"
-            }
-        ]
-    },
-    {
-        "id": 24,
-        "pregunta": "Resoluciones emitidas por el Ministerio de Ambiente y Desarrollo Sostenible de Colombia. Este ministerio es la entidad encargada de formular, adoptar y coordinar las políticas, planes, programas y proyectos en materia ambiental en el país.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "área protegida"
-            },
-            {
-                "id": 2,
-                "texto": "conservación"
-            },
-            {
-                "id": 3,
-                "texto": "especies"
-            },
-            {
-                "id": 4,
-                "texto": "resolucionmads",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 25,
-        "pregunta": "Acuerdos en distintos contextos y países, por lo que necesito más información para poder responder adecuadamente a tu pregunta.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "acuerdocar",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "-"
-            },
-            {
-                "id": 3,
-                "texto": "-"
-            },
-            {
-                "id": 4,
-                "texto": "-"
-            }
-        ]
-    },
-    {
-        "id": 26,
-        "pregunta": "Forma en que se utiliza y se asigna el terreno en una determinada área geográfica. El uso del suelo puede ser de diferentes tipos, como por ejemplo: residencial, comercial, industrial, agrícola, forestal, recreativo, entre otros.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "usosuelo",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "Altitud del terreno"
-            },
-            {
-                "id": 3,
-                "texto": "Tipo de clima"
-            },
-            {
-                "id": 4,
-                "texto": "Tipo de suelo"
-            }
-        ]
-    },
-    {
-        "id": 27,
-        "pregunta": "Las diferentes dimensiones en las que se puede abordar la conservación de especies o ecosistemas, desde la local hasta la global.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "escalas",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "Métodos de pesca"
-            },
-            {
-                "id": 3,
-                "texto": "Técnicas de caza"
-            },
-            {
-                "id": 4,
-                "texto": "Técnicas de cultivo"
-            }
-        ]
-    },
-    {
-        "id": 28,
-        "pregunta": "Los procesos o herramientas que se utilizan para proteger o mantener la biodiversidad, como la creación de áreas protegidas o la restauración de hábitats.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "mecanismos",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "Métodos de cultivo"
-            },
-            {
-                "id": 3,
-                "texto": "Regulaciones de pesca"
-            },
-            {
-                "id": 4,
-                "texto": "Técnicas de caza"
-            }
-        ]
-    },
-    {
-        "id": 29,
-        "pregunta": "La protección y gestión responsable de los recursos naturales para asegurar su uso sostenible y la supervivencia de las especies y los ecosistemas.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "conservación",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "Contaminación"
-            },
-            {
-                "id": 3,
-                "texto": "Explotación"
-            },
-            {
-                "id": 4,
-                "texto": "Urbanización"
-            }
-        ]
-    },
-    {
-        "id": 30,
-        "pregunta": "La variedad de vida en la Tierra, que incluye a todas las especies de plantas, animales y microorganismos, así como los ecosistemas en los que viven.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "biodiversidad",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "Contaminación"
-            },
-            {
-                "id": 3,
-                "texto": "Explotación"
-            },
-            {
-                "id": 4,
-                "texto": "Urbanización"
-            }
-        ]
-    },
-    {
-        "id": 31,
-        "pregunta": "Conjunto de individuos que comparten características físicas y genéticas y pueden reproducirse entre sí. La protección de especies en peligro de extinción es un objetivo importante de la conservación.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "especies",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "Clima"
-            },
-            {
-                "id": 3,
-                "texto": "Ecosistemas"
-            },
-            {
-                "id": 4,
-                "texto": "Habitats"
-            }
-        ]
-    },
-    {
-        "id": 32,
-        "pregunta": "El entorno físico en el que vive una especie, que incluye factores como el clima, la geografía y la presencia de otros organismos. La restauración de hábitats degradados es una estrategia clave para la conservación.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "hábitats",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "Clima"
-            },
-            {
-                "id": 3,
-                "texto": "Ecosistemas"
-            },
-            {
-                "id": 4,
-                "texto": "Especies"
-            }
-        ]
-    },
-    {
-        "id": 33,
-        "pregunta": "Regiones geográficas gestionadas para la conservación de la biodiversidad, que pueden ser reservas naturales, parques nacionales, santuarios de fauna, entre otros.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "áreaprotegida",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "Zona urbana"
-            },
-            {
-                "id": 3,
-                "texto": "Área de explotación"
-            },
-            {
-                "id": 4,
-                "texto": "Área industrial"
-            }
-        ]
-    },
-    {
-        "id": 34,
-        "pregunta": "La rehabilitación de ecosistemas degradados o alterados, con el fin de recuperar su funcionalidad y biodiversidad original.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "restauración",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "Contaminación"
-            },
-            {
-                "id": 3,
-                "texto": "Explotación"
-            },
-            {
-                "id": 4,
-                "texto": "Urbanización"
-            }
-        ]
-    },
-    {
-        "id": 35,
-        "pregunta": "La enseñanza de conocimientos y valores relacionados con la conservación de la biodiversidad y el uso sostenible de los recursos naturales, con el fin de fomentar comportamientos responsables en la sociedad.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "eduambiental",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "Educación artística"
-            },
-            {
-                "id": 3,
-                "texto": "Educación física"
-            },
-            {
-                "id": 4,
-                "texto": "Educación vial"
-            }
-        ]
-    },
-    {
-        "id": 36,
-        "pregunta": "Organismos que se introducen en un ecosistema donde no son nativos y que pueden causar daños a la biodiversidad y la economía. La gestión de estas especies es un tema importante en la conservación.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "especienativa"
-            },
-            {
-                "id": 2,
-                "texto": "biodiversidad"
-            },
-            {
-                "id": 3,
-                "texto": "ecosistema"
-            },
-            {
-                "id": 4,
-                "texto": "especieinvasora",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 37,
-        "pregunta": "La evaluación continua de la biodiversidad y los ecosistemas, con el fin de identificar tendencias y cambios y tomar medidas de conservación necesarias.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "restauración"
-            },
-            {
-                "id": 2,
-                "texto": "conservación"
-            },
-            {
-                "id": 3,
-                "texto": "monitoreo",
-                "correcta": true
-            },
-            {
-                "id": 4,
-                "texto": "protección"
-            }
-        ]
-    },
-    {
-        "id": 38,
-        "pregunta": "Plan Ordenamiento y Manejo de Cuenca Hidrográfica del Río Micay,departamento del Cauca. Tiene como objetivo establecer una estrategia integral para la gestión sostenible de recursos naturales en la cuenca, en especial del río Micay.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "ríochamí"
-            },
-            {
-                "id": 2,
-                "texto": "pomcamicay",
-                "correcta": true
-            },
-            {
-                "id": 3,
-                "texto": "ríoamazonas"
-            },
-            {
-                "id": 4,
-                "texto": "ríocauca"
-            }
-        ]
-    },
-    {
-        "id": 39,
-        "pregunta": "Plan de Ordenamiento Territorial (POT) es un instrumento de planificación urbana y territorial utilizado por los municipios en Colombia para regular el uso y la ocupación del suelo dentro de su territorio.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "zrfpacifico"
-            },
-            {
-                "id": 2,
-                "texto": "ordenamiento"
-            },
-            {
-                "id": 3,
-                "texto": "pdet"
-            },
-            {
-                "id": 4,
-                "texto": "potmunicipio",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 40,
-        "pregunta": "Planes de Desarrollo con Enfoque Territorial (PDET) son una estrategia de desarrollo rural adoptada por el gobierno colombiano para abordar la situación de pobreza, violencia y exclusión social en las zonas rurales del país.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "potmunicipio"
-            },
-            {
-                "id": 2,
-                "texto": "autogestión"
-            },
-            {
-                "id": 3,
-                "texto": "financiación"
-            },
-            {
-                "id": 4,
-                "texto": "pdet",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 41,
-        "pregunta": "Zona de Reserva Forestal del Pacífico (ZRF Pacífico) es una reserva forestal ubicada en la costa pacífica de Colombia, que abarca parte de los departamentos de Nariño, Cauca, Valle del Cauca y Chocó.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "área protegida"
-            },
-            {
-                "id": 2,
-                "texto": "pomcamicay"
-            },
-            {
-                "id": 3,
-                "texto": "territorio"
-            },
-            {
-                "id": 4,
-                "texto": "zrfpacifico",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 42,
-        "pregunta": "Registro único de Ecosistemas y Áreas Ambientales",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "reaa",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "monitoreo"
-            },
-            {
-                "id": 3,
-                "texto": "pdet"
-            },
-            {
-                "id": 4,
-                "texto": "potmunicipio"
-            }
-        ]
-    },
-    {
-        "id": 43,
-        "pregunta": "Grupo o conjunto de seres humanos que comparten diversos elementos en común como ser costumbres, un idioma, valores, tareas, visión del mundo, edad, ubicación geográfica, estatus social, roles, entre otras cuestiones.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "financiación"
-            },
-            {
-                "id": 2,
-                "texto": "autogestión"
-            },
-            {
-                "id": 3,
-                "texto": "comunitario",
-                "correcta": true
-            },
-            {
-                "id": 4,
-                "texto": "especieinvasora"
-            }
-        ]
-    },
-    {
-        "id": 44,
-        "pregunta": "Proceso de toma de decisiones que tiene como objetivo definir una estrategia integral para el uso y ocupación del territorio.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "restauración"
-            },
-            {
-                "id": 2,
-                "texto": "conservación"
-            },
-            {
-                "id": 3,
-                "texto": "monitoreo"
-            },
-            {
-                "id": 4,
-                "texto": "planificación",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 45,
-        "pregunta": "Territorios Ambientales en Gestión Ambiental Territorial, que constituye un enfoque que recoge diversas experiencias sociales en los procesos de construcción y apropiación del territorio vinculando elementos de historia ambiental",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "área protegida"
-            },
-            {
-                "id": 2,
-                "texto": "biodiversidad"
-            },
-            {
-                "id": 3,
-                "texto": "ecosistema"
-            },
-            {
-                "id": 4,
-                "texto": "territorio",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 46,
-        "pregunta": "Conjunto de acciones y políticas orientadas a la organización y regulación del uso del suelo y el desarrollo territorial. ",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "zrfpacifico"
-            },
-            {
-                "id": 2,
-                "texto": "ordenamiento",
-                "correcta": true
-            },
-            {
-                "id": 3,
-                "texto": "pdet"
-            },
-            {
-                "id": 4,
-                "texto": "potmunicipio"
-            }
-        ]
-    },
-    {
-        "id": 47,
-        "pregunta": "Curso que, a lo largo del tiempo, sigue el comportamiento o el ser de una persona, de un grupo social o de una institución.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "trayectoria",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "asamblea"
-            },
-            {
-                "id": 3,
-                "texto": "financiación"
-            },
-            {
-                "id": 4,
-                "texto": "plantrabajo"
-            }
-        ]
-    },
-    {
-        "id": 48,
-        "pregunta": "La Financiación ambiental es un nálisis y promoción de buenas prácticas relacionadas al financiamiento del sector en América Latina y el Caribe. ",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "trayectoria"
-            },
-            {
-                "id": 2,
-                "texto": "asamblea"
-            },
-            {
-                "id": 3,
-                "texto": "financiación",
-                "correcta": true
-            },
-            {
-                "id": 4,
-                "texto": "plantrabajo"
-            }
-        ]
-    },
-    {
-        "id": 49,
-        "pregunta": "Reunión de personas con un propósito específico, generalmente para discutir y tomar decisiones sobre un tema o asunto en particular.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "trayectoria"
-            },
-            {
-                "id": 2,
-                "texto": "asamblea",
-                "correcta": true
-            },
-            {
-                "id": 3,
-                "texto": "bienestar"
-            },
-            {
-                "id": 4,
-                "texto": "financiación"
-            }
-        ]
-    },
-    {
-        "id": 50,
-        "pregunta": "Registro Único de Contribuyentes. Es un número de identificación tributaria utilizado en varios países de América Latina para identificar a las personas o empresas que están registradas como contribuyentes ante las autoridades fiscales.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "rut"
-            },
-            {
-                "id": 2,
-                "texto": "autonomia"
-            },
-            {
-                "id": 3,
-                "texto": "mininterior"
-            },
-            {
-                "id": 4,
-                "texto": "ruc",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 51,
-        "pregunta": "Registro Único Tributario. Es un número de identificación tributaria utilizado en Colombia para identificar a las personas o empresas que están registradas como contribuyentes ante las autoridades fiscales.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "rut",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "autonomia"
-            },
-            {
-                "id": 3,
-                "texto": "mininterior"
-            },
-            {
-                "id": 4,
-                "texto": "ruc"
-            }
-        ]
-    },
-    {
-        "id": 52,
-        "pregunta": "Ministerio del Interior, que es el departamento gubernamental responsable de asuntos internos y de gobierno en un país.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "redglobal"
-            },
-            {
-                "id": 2,
-                "texto": "determinacion"
-            },
-            {
-                "id": 3,
-                "texto": "gobercauca"
-            },
-            {
-                "id": 4,
-                "texto": "mininterior",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 53,
-        "pregunta": "sistema en el que los trabajadores o los miembros de una organización se organizan y administran por sí mismos, sin la intervención de un gerente o un empleador externo.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "ticca"
-            },
-            {
-                "id": 2,
-                "texto": "autogestion",
-                "correcta": true
-            },
-            {
-                "id": 3,
-                "texto": "gobernanza"
-            },
-            {
-                "id": 4,
-                "texto": "parcelación"
-            }
-        ]
-    },
-    {
-        "id": 54,
-        "pregunta": "Proceso de crecimiento y mejora en diferentes aspectos, como económicos, sociales, tecnológicos, culturales, etc.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "determinacion"
-            },
-            {
-                "id": 2,
-                "texto": "bienestar"
-            },
-            {
-                "id": 3,
-                "texto": "conservacion"
-            },
-            {
-                "id": 4,
-                "texto": "desarrollo",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 55,
-        "pregunta": "Documento que describe las tareas y actividades que se deben realizar para lograr un objetivo específico, junto con los plazos, recursos y responsabilidades asociados.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "trayectoria"
-            },
-            {
-                "id": 2,
-                "texto": "asamblea"
-            },
-            {
-                "id": 3,
-                "texto": "financiación"
-            },
-            {
-                "id": 4,
-                "texto": "plantrabajo",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 56,
-        "pregunta": "Entidad gubernamental encargada de administrar el departamento del Cauca en Colombia, y se encarga de planificar y ejecutar políticas y programas para mejorar las condiciones de vida de los ciudadanos de la región.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "ticca"
-            },
-            {
-                "id": 2,
-                "texto": "conservacion"
-            },
-            {
-                "id": 3,
-                "texto": "gobercauca",
-                "correcta": true
-            },
-            {
-                "id": 4,
-                "texto": "mapas"
-            }
-        ]
-    },
-    {
-        "id": 57,
-        "pregunta": "Decisión oficial o declaración emitida por una autoridad o entidad que tiene poder para hacerlo, que puede ser vinculante o no vinculante, y que se utiliza para resolver un problema o asunto en particular.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "resolucion",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "autonomia"
-            },
-            {
-                "id": 3,
-                "texto": "bienestar"
-            },
-            {
-                "id": 4,
-                "texto": "determinacion"
-            }
-        ]
-    },
-    {
-        "id": 58,
-        "pregunta": "Espacio físico que ocupa una comunidad o un grupo de personas, con sus recursos naturales y culturales, y que puede estar delimitado geográficamente.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "ticca"
-            },
-            {
-                "id": 2,
-                "texto": "parcelación"
-            },
-            {
-                "id": 3,
-                "texto": "redglobal"
-            },
-            {
-                "id": 4,
-                "texto": "territorio",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 59,
-        "pregunta": "Conjunto de procesos, instituciones y normas que se utilizan para tomar decisiones y gestionar los asuntos públicos de una sociedad, con el objetivo de lograr un desarrollo sostenible y equitativo.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "trayectoria"
-            },
-            {
-                "id": 2,
-                "texto": "financiación"
-            },
-            {
-                "id": 3,
-                "texto": "gobernanza",
-                "correcta": true
-            },
-            {
-                "id": 4,
-                "texto": "topografia"
-            }
-        ]
-    },
-    {
-        "id": 60,
-        "pregunta": " Grupo de personas que comparten intereses, valores, cultura y territorio, y que se relacionan entre sí en distintos ámbitos de la vida cotidiana.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "redglobal"
-            },
-            {
-                "id": 2,
-                "texto": "autonomía"
-            },
-            {
-                "id": 3,
-                "texto": "comunidad",
-                "correcta": true
-            },
-            {
-                "id": 4,
-                "texto": "conservación"
-            }
-        ]
-    },
-    {
-        "id": 61,
-        "pregunta": "Capacidad de una persona o una comunidad para tomar decisiones propias y actuar en consecuencia, sin estar subordinados a otras autoridades o poderes.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "parcelación"
-            },
-            {
-                "id": 2,
-                "texto": "autonomia",
-                "correcta": true
-            },
-            {
-                "id": 3,
-                "texto": "bienestar"
-            },
-            {
-                "id": 4,
-                "texto": "determinación"
-            }
-        ]
-    },
-    {
-        "id": 62,
-        "pregunta": "Interconexión de personas, organizaciones, instituciones y comunidades a nivel mundial, a través de distintas formas de comunicación y tecnología.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "ticca"
-            },
-            {
-                "id": 2,
-                "texto": "amenazas"
-            },
-            {
-                "id": 3,
-                "texto": "conservación"
-            },
-            {
-                "id": 4,
-                "texto": "redglobal",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 63,
-        "pregunta": "Conjunto de acciones orientadas a proteger y preservar el medio ambiente y los recursos naturales, con el objetivo de mantener su biodiversidad y equilibrio ecológico.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "sostenibilidad"
-            },
-            {
-                "id": 2,
-                "texto": "conservacion",
-                "correcta": true
-            },
-            {
-                "id": 3,
-                "texto": "implementación"
-            },
-            {
-                "id": 4,
-                "texto": "parcelación"
-            }
-        ]
-    },
-    {
-        "id": 64,
-        "pregunta": "Territorios y Áreas Conservadas por Comunidades Indígenas y Locales.Modelo de gestión de conservación de la biodiversidad y los recursos naturales",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "topografia"
-            },
-            {
-                "id": 2,
-                "texto": "bienestar"
-            },
-            {
-                "id": 3,
-                "texto": "catastro"
-            },
-            {
-                "id": 4,
-                "texto": "ticca",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 65,
-        "pregunta": "Estado de satisfacción y plenitud que experimenta una persona o una comunidad, a partir del acceso y disfrute de condiciones y recursos que les permiten vivir de manera digna y saludable.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "mapas"
-            },
-            {
-                "id": 2,
-                "texto": "autonomía"
-            },
-            {
-                "id": 3,
-                "texto": "bienestar",
-                "correcta": true
-            },
-            {
-                "id": 4,
-                "texto": "determinación"
-            }
-        ]
-    },
-    {
-        "id": 66,
-        "pregunta": "Derecho de los pueblos a decidir libremente sobre su forma de gobierno, su cultura, su territorio y sus recursos, sin interferencia externa.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "pluralismo"
-            },
-            {
-                "id": 2,
-                "texto": "coherencia"
-            },
-            {
-                "id": 3,
-                "texto": "determinacion",
-                "correcta": true
-            },
-            {
-                "id": 4,
-                "texto": "innovación"
-            }
-        ]
-    },
-    {
-        "id": 67,
-        "pregunta": "Sistema de información que recopila y registra datos sobre los territorios y áreas conservadas por comunidades indígenas y locales, con el fin de fortalecer su gestión y reconocimiento a nivel nacional e internacional.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "transparencia"
-            },
-            {
-                "id": 2,
-                "texto": "participación"
-            },
-            {
-                "id": 3,
-                "texto": "registroticca",
-                "correcta": true
-            },
-            {
-                "id": 4,
-                "texto": "titulaciones"
-            }
-        ]
-    },
-    {
-        "id": 68,
-        "pregunta": "División o partición de un pedazo de tierra en parcelas o secciones más pequeñas. Lo hacen en veredas del pinche Para conocer distribución de sus fincas   ",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "parcelación",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "amenazas"
-            },
-            {
-                "id": 3,
-                "texto": "ciudadana"
-            },
-            {
-                "id": 4,
-                "texto": "eficiencia"
-            }
-        ]
-    },
-    {
-        "id": 69,
-        "pregunta": "Solución de problemas ambientales con datos y aspectos como el paisaje, análisis acústico, delimitación de especies de flora y fauna ",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "topografia",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "bienestar"
-            },
-            {
-                "id": 3,
-                "texto": "conservación"
-            },
-            {
-                "id": 4,
-                "texto": "equidad"
-            }
-        ]
-    },
-    {
-        "id": 70,
-        "pregunta": "Situaciones/eventos que pongan en peligro la integridad de los ecosistemas, como contaminación, cambio climático, deforestación, sobreexplotación de recursos naturales, etc",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "ticca"
-            },
-            {
-                "id": 2,
-                "texto": "amenzas ",
-                "correcta": true
-            },
-            {
-                "id": 3,
-                "texto": "implementación"
-            },
-            {
-                "id": 4,
-                "texto": "sostenibilidad"
-            }
-        ]
-    },
-    {
-        "id": 71,
-        "pregunta": "Políticas, estrategias, programas o proyectos destinados a proteger, conservar o mejorar el medio ambiente. ",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "mapas"
-            },
-            {
-                "id": 2,
-                "texto": "coherencia"
-            },
-            {
-                "id": 3,
-                "texto": "determinación"
-            },
-            {
-                "id": 4,
-                "texto": "implementación",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 72,
-        "pregunta": "Representar la distribución geográfica de los ecosistemas, la biodiversidad, los patrones climáticos, la calidad del aire y del agua, entre otros aspectos. ",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "pluralismo"
-            },
-            {
-                "id": 2,
-                "texto": "innovación"
-            },
-            {
-                "id": 3,
-                "texto": "integridad"
-            },
-            {
-                "id": 4,
-                "texto": "mapas",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 73,
-        "pregunta": "Garantiza la seguridad sobre la propiedad y facilita la voluntad de los agricultores de realizar inversiones fijas, por lo tanto, incrementando la productividad agrícola. ",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "titulaciones",
-                "correcta": true
+                "texto": "Transparencia"
             },
             {
                 "id": 2,
@@ -1670,72 +266,142 @@
             },
             {
                 "id": 3,
-                "texto": "Sig"
+                "texto": "Participación",
+                "correcta": true
             },
             {
                 "id": 4,
-                "texto": "Titulaciones"
+                "texto": "Paz ambiental"
             }
         ]
     },
     {
-        "id": 74,
-        "pregunta": "Registra datos actualizados de la tierra, basado en predios formales e informales.",
+        "id": 13,
+        "pregunta": "Obligación de los gobernantes de justificar y explicar públicamente sus acciones y decisiones a la ciudadanía",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "catastro",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "Federalismo"
-            },
-            {
-                "id": 3,
-                "texto": "Programación"
-            },
-            {
-                "id": 4,
                 "texto": "Transparencia"
-            }
-        ]
-    },
-    {
-        "id": 75,
-        "pregunta": "Sistemas de Información Geográfica.Para análisis y gestión de recursos naturales, la planificación territorial, la evaluación de impactos ambientales, entre otros.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "sig",
-                "correcta": true
             },
             {
                 "id": 2,
-                "texto": "Ciudadana"
+                "texto": "Gobernanza"
             },
             {
                 "id": 3,
-                "texto": "Integridad"
+                "texto": "Rendición de cuentas",
+                "correcta": true
             },
             {
                 "id": 4,
-                "texto": "Responsabilidad"
+                "texto": "Sostenibilidad"
             }
         ]
     },
     {
-        "id": 76,
-        "pregunta": "Elaboración de planes y estrategias destinados a la gestión y protección del medio ambiente. ",
+        "id": 14,
+        "pregunta": "Reconocimiento y respeto a la diversidad de opiniones, culturas y valores en la toma de decisiones",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "programación",
+                "texto": "Pluralismo",
                 "correcta": true
             },
             {
                 "id": 2,
-                "texto": "Coherencia"
+                "texto": "Diversificación"
+            },
+            {
+                "id": 3,
+                "texto": "Equidad"
+            },
+            {
+                "id": 4,
+                "texto": "Gestión ambiental"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "pregunta": "Coordinación y consistencia en las políticas públicas, acciones gubernamentales u comunitarias",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Paz ambiental"
+            },
+            {
+                "id": 2,
+                "texto": "Coherencia",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Eficiencia"
+            },
+            {
+                "id": 4,
+                "texto": "Gestión ambiental"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "pregunta": "Introducción de nuevos métodos y herramientas para mejorar la eficiencia y eficacia de una organización",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Novedad"
+            },
+            {
+                "id": 2,
+                "texto": "Descubrimiento"
+            },
+            {
+                "id": 3,
+                "texto": "Gobernanza"
+            },
+            {
+                "id": 4,
+                "texto": "Innovación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "pregunta": "Compromiso de los gobernantes, líderes y lideresas de actuar con honestidad y transparencia en el desempeño de sus funciones",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Sostenibilidad"
+            },
+            {
+                "id": 2,
+                "texto": "Integridad",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Justicia climática"
+            },
+            {
+                "id": 4,
+                "texto": "Paz ambiental"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "pregunta": "Uso efectivo y eficiente de los recursos económicos en la prestación de servicios y la ejecución de políticas públicas o planes de trabajo comunitarios",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Rendición de cuentas"
+            },
+            {
+                "id": 2,
+                "texto": "Eficiencia",
+                "correcta": true
             },
             {
                 "id": 3,
@@ -1743,22 +409,45 @@
             },
             {
                 "id": 4,
-                "texto": "Necesidades"
+                "texto": "Pluralismo"
             }
         ]
     },
     {
-        "id": 77,
-        "pregunta": "Importante para gestión de recursos naturales y planificación territorial, ya que permite identificar las áreas de influencia de las actividades que se realizan en cada terreno.",
+        "id": 19,
+        "pregunta": "Trato justo e igualitario a todos los ciudadanos sin importar su origen, género, raza o religión",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "limitepredial",
+                "texto": "Participación"
+            },
+            {
+                "id": 2,
+                "texto": "Coherencia"
+            },
+            {
+                "id": 3,
+                "texto": "Equidad",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Gobernanza"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "pregunta": "Acción de tomar decisiones y acciones pensando en el impacto a largo plazo en el medio ambiente, la economía y la sociedad",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Sostenibilidad",
                 "correcta": true
             },
             {
                 "id": 2,
-                "texto": "Cuentas"
+                "texto": "Innovación"
             },
             {
                 "id": 3,
@@ -1771,13 +460,35 @@
         ]
     },
     {
-        "id": 78,
-        "pregunta": "Importante para la planificación y gestión sostenible de los recursos naturales.",
+        "id": 21,
+        "pregunta": "Conjunto de pautas y criterios que establecen un marco adecuado para las relaciones entre personas e instituciones, autorizando, prohibiendo y permitiendo acciones específicas en la interacción de estos",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "necesidades",
+                "texto": "Rendición de cuentas"
+            },
+            {
+                "id": 2,
+                "texto": "Gobernanza ambiental"
+            },
+            {
+                "id": 3,
+                "texto": "Justicia",
                 "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Pluralismo"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "pregunta": "Procesos de toma de decisiones de uso y acceso a los recursos naturales, de ejercicio de autoridad en el ámbito de los bienes públicos y de protección ambiental, donde interactúan el gobierno,  las empresas privadas y la sociedad civil",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Justicia ambiental"
             },
             {
                 "id": 2,
@@ -1785,30 +496,8 @@
             },
             {
                 "id": 3,
-                "texto": "Justicia"
-            },
-            {
-                "id": 4,
-                "texto": "Sig"
-            }
-        ]
-    },
-    {
-        "id": 79,
-        "pregunta": "Acción de permitir la accesibilidad a información clara y concisa por parte de la ciudadanía y el gobierno.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "transparencia",
+                "texto": "Gobernanza ambiental",
                 "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "Eficiencia"
-            },
-            {
-                "id": 3,
-                "texto": "Federalismo"
             },
             {
                 "id": 4,
@@ -1817,59 +506,1530 @@
         ]
     },
     {
-        "id": 80,
-        "pregunta": "Acción de involucrar a la ciudadanía en los procesos de toma de decisiones gubernamentales.",
+        "id": 23,
+        "pregunta": "Interacciones entre estructuras, procesos y tradiciones que determinan cómo se ejerce el poder y las responsabilidades, cómo se toman las decisiones  tanto en el gobierno como en organizaciones comunitarias",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "participación",
+                "texto": "Poder"
+            },
+            {
+                "id": 2,
+                "texto": "Eficiencia"
+            },
+            {
+                "id": 3,
+                "texto": "Gobernanza",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Justicia climática"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "pregunta": "Conjunto de actividades administrativas dirigidas a la implementación de políticas ambientales que busca promover medidas de protección, conservación y uso sustentable del medio ambiente",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Rendición de cuentas"
+            },
+            {
+                "id": 2,
+                "texto": "Gestión ambiental",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Justicia climática"
+            },
+            {
+                "id": 4,
+                "texto": "Normatividad ambiental"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "pregunta": "Integración de la gestión de los recursos naturales en la prevención, resolución y recuperación de conflictos para apoyar la paz y la sostenibilidad ambiental",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Transparencia"
+            },
+            {
+                "id": 2,
+                "texto": "Integridad"
+            },
+            {
+                "id": 3,
+                "texto": "Paz ambiental",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Paz ecosistémica"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "pregunta": "Término que reconoce la crisis climática como un problema ético, político, social, ambiental y económico que genera y acentúa las desigualdades entre territorios y personas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Problema climático"
+            },
+            {
+                "id": 2,
+                "texto": "Coherencia"
+            },
+            {
+                "id": 3,
+                "texto": "Deterioro climático"
+            },
+            {
+                "id": 4,
+                "texto": "Justicia climática",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "pregunta": "Área protegida cuya extensión permite su autorregulación ecológica y cuyos ecosistemas no han sido alterados  por la explotación u ocupación humana",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Vía parque"
+            },
+            {
+                "id": 2,
+                "texto": "Parque Nacional Natural",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Reserva Natural de la Sociedad Civil"
+            },
+            {
+                "id": 4,
+                "texto": "Santuario de fauna y flora"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "pregunta": "Área protegida en la que los ecosistemas mantienen su composición y función, aunque su estructura haya sido modificada. Destinada al uso sostenible, preservación, restauración y disfrute permitiendo la ocupación humana en ella",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Zona de Reserva Forestal "
+            },
+            {
+                "id": 2,
+                "texto": "Categoría de manejo"
+            },
+            {
+                "id": 3,
+                "texto": "Distrito de manejo integrado",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Santuario de fauna"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "pregunta": "Faja de terreno con carretera, que posee bellezas panorámicas singulares o valores naturales o culturales, conservada como área protegida para fines de educación y esparcimiento",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Áreas de importancia para la conservación de las aves (AICAS)"
+            },
+            {
+                "id": 2,
+                "texto": "Reserva de biósfera"
+            },
+            {
+                "id": 3,
+                "texto": "Vía en recuperación"
+            },
+            {
+                "id": 4,
+                "texto": "Vía parque",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "pregunta": "Categoría de área protegida dedicada a preservar especies o comunidades de animales silvestres, para conservar recursos genéticos de la fauna nacional ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Zoológico"
+            },
+            {
+                "id": 2,
+                "texto": "Reserva Forestal Protectora"
+            },
+            {
+                "id": 3,
+                "texto": "Reserva de biósfera"
+            },
+            {
+                "id": 4,
+                "texto": "Santuario de fauna",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "pregunta": "Categoría de área protegida dedicada a preservar especies o comunidades vegetales para conservar recursos genéticos de la flora nacional",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Área Clave de Biodiversidad (KBA)"
+            },
+            {
+                "id": 2,
+                "texto": "Herbario"
+            },
+            {
+                "id": 3,
+                "texto": "Jardín botánico"
+            },
+            {
+                "id": 4,
+                "texto": "Santuario de flora",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "pregunta": "Area protegida cuyos ecosistemas mantienen su función, aunque su estructura y composición haya sido modificada. Destinada al establecimiento, mantenimiento y uso sostenible de las coberturas vegetales naturales",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Vía parque"
+            },
+            {
+                "id": 2,
+                "texto": "Distrito de manejo integrado"
+            },
+            {
+                "id": 3,
+                "texto": "Objetivo de conservación"
+            },
+            {
+                "id": 4,
+                "texto": "Reserva Forestal Protectora",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "pregunta": "Zonas creadas mediante la Ley 2/1959 para el desarrollo de la economía forestal y protección de los suelos, las aguas y la vida silvestre",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Área protegida"
+            },
+            {
+                "id": 2,
+                "texto": "Reserva Forestal Protectora Nacional"
+            },
+            {
+                "id": 3,
+                "texto": "Zona de Reserva Forestal Pacífico",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Área forestal"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "pregunta": "Categoría de área protegida que, por poseer condiciones especiales de flora o gea es un escenario natural raro ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Área Natural Única",
                 "correcta": true
             },
             {
                 "id": 2,
-                "texto": "Programación"
+                "texto": "Otras Medidas Efectivas de Conservación (OMEC)"
             },
             {
                 "id": 3,
-                "texto": "Sig"
+                "texto": "Parque Nacional Natural"
             },
             {
                 "id": 4,
-                "texto": "Sostenibilidad"
+                "texto": "Reserva de biósfera"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "pregunta": "Denominación que se asigna a las áreas protegidas según sus características específicas, con el fin de lograr objetivos de conservación bajo unas mismas directrices de manejo, restricciones y usos permitidos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Área Clave de Biodiversidad (KBA)"
+            },
+            {
+                "id": 2,
+                "texto": "Categoría de manejo",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Distrito de manejo integrado"
+            },
+            {
+                "id": 4,
+                "texto": "Parque Nacional Natural"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "pregunta": "Zonas de ecosistemas terrestres, costeros o marinos o su combinación, reconocidas a nivel internacional en el Programa sobre el Hombre y la Biosfera (MAB) de la UNESCO para la conservación y desarrollo humano sostenible",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Áreas de importancia para la conservación de las aves (AICAS)"
+            },
+            {
+                "id": 2,
+                "texto": "Reserva de biósfera",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Santuario de fauna"
+            },
+            {
+                "id": 4,
+                "texto": "Área Clave de Biodiversidad (KBA)"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "pregunta": "Área protegida donde parte o todo el predio se destina para su uso sostenible, preservación o restauración con vocación de largo plazo",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Reserva natural predial"
+            },
+            {
+                "id": 2,
+                "texto": "Otras Medidas Efectivas de Conservación (OMEC)"
+            },
+            {
+                "id": 3,
+                "texto": "Plan predial"
+            },
+            {
+                "id": 4,
+                "texto": "Reserva Natural de la Sociedad Civil",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "pregunta": "Distinción internacional del Programa de BirdLife International para la identificación, documentación y conservación de sitios críticos para las aves del mundo. No necesariamente es un área protegida",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Áreas de importancia para la conservación de las aves (AICAS)",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Otras Medidas Efectivas de Conservación (OMEC)"
+            },
+            {
+                "id": 3,
+                "texto": "Reserva de Biósfera"
+            },
+            {
+                "id": 4,
+                "texto": "Zona de Reserva Forestal Pacífico"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "pregunta": "Área que contribuye significativamente a la persistencia global de la biodiversidad y la salud del planeta ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Áreas de importancia para la conservación de las aves (AICAS)"
+            },
+            {
+                "id": 2,
+                "texto": "Otras Medidas Efectivas de Conservación (OMEC)"
+            },
+            {
+                "id": 3,
+                "texto": "Santuario de fauna"
+            },
+            {
+                "id": 4,
+                "texto": "Área Clave de Biodiversidad (KBA)",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "pregunta": "Área reconocida por la UICN gobernada y gestionada efectivamente para lograr resultados positivos y sostenidos a largo plazo para la conservación in situ de la biodiversidad y otros valores relevantes",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Área de conservación"
+            },
+            {
+                "id": 2,
+                "texto": "Otras Medidas Efectivas de Conservación (OMEC)",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Reserva de Biósfera"
+            },
+            {
+                "id": 4,
+                "texto": "Área Clave de Biodiversidad (KBA)"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "pregunta": "Son los propósitos nacionales de conservación de la naturaleza, especialmente la diversidad biológica, que se pueden alcanzar mediante diversas estrategias ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Plan de conservación"
+            },
+            {
+                "id": 2,
+                "texto": "Objetivo de conservación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Objetivo de manejo"
+            },
+            {
+                "id": 4,
+                "texto": "Objetivo estratégico"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "pregunta": "Espacio geográfico claramente definido, reconocido, dedicado y gestionado legalmente o por otros medios eficaces, con el fin de lograr la conservación a largo plazo de la naturaleza, los servicios de los ecosistemas y valores culturales asociados",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Área protegida",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Categoría de manejo"
+            },
+            {
+                "id": 3,
+                "texto": "Área de gestión"
+            },
+            {
+                "id": 4,
+                "texto": "Área estratégica"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "pregunta": "Actividades que permiten sustentar la declaración de un área protegida o su ampliación definiendo: categoría y límites, tenencia de la tierra, objetivos de conservación, amenazas, proyectos mineros o de hidrocarburos entre otros",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Delimitación"
+            },
+            {
+                "id": 2,
+                "texto": "Acuerdo de manejo"
+            },
+            {
+                "id": 3,
+                "texto": "Aprestamiento",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Concertación"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "pregunta": "Actividades para identificar un área protegida o su ampliación, incluyendo el acercamiento con comunidades locales, compilación de información biofísica, socioeconómica y cultural",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Preparación",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Censo poblacional"
+            },
+            {
+                "id": 3,
+                "texto": "Delimitación"
+            },
+            {
+                "id": 4,
+                "texto": "Expediciones"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "pregunta": "Actividades para establecer un área protegida o su ampliación como: documento justificatorio, concepto técnico de un instituto de investigación, suscripción de acto administrativo, publicación y registro en el RUNAP",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Estudio técnico"
+            },
+            {
+                "id": 2,
+                "texto": "Consulta oficial"
+            },
+            {
+                "id": 3,
+                "texto": "Declaratoria",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Delimitación"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "pregunta": "Acuerdo social o institucional a ser realizado con los actores estratégicos para cada uno de los temas que puedan afectarlos en las diferentes fases de la declaración o ampliación de áreas protegidas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Resolución MADS"
+            },
+            {
+                "id": 2,
+                "texto": "Concertación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Delimitación"
+            },
+            {
+                "id": 4,
+                "texto": "Preparación"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "pregunta": "Actividades que permiten definir en terreno y en la cartografía los límites de un área protegida o su ampliación",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Generación cartográfica"
+            },
+            {
+                "id": 2,
+                "texto": "Censo poblacional"
+            },
+            {
+                "id": 3,
+                "texto": "Concertación"
+            },
+            {
+                "id": 4,
+                "texto": "Delimitación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "pregunta": "Documento justificatorio que sustenta los aspectos biofísicos, institucionales, sociales y culturales de la declaración o ampliación de un área protegida",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Estudio técnico",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Aprestamiento"
+            },
+            {
+                "id": 3,
+                "texto": "Consulta oficial"
+            },
+            {
+                "id": 4,
+                "texto": "Declaratoria"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "pregunta": "Derecho de las comunidades étnicas a participar y tener acceso a la información sobre proyectos, obras o actividades que se pretenden realizar en su territorio siempre y cuando éstos los afecten directamente",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Resolución MADS"
+            },
+            {
+                "id": 2,
+                "texto": "Acuerdo de manejo"
+            },
+            {
+                "id": 3,
+                "texto": "Aprestamiento"
+            },
+            {
+                "id": 4,
+                "texto": "Consulta previa",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "pregunta": "Decisiones tomadas en conjunto sustentadas en  actas de asamblea o mandatos propios que realizan las comunidades locales para garantizar un adecuado manejo de un área protegida o su ampliación",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Generación cartográfica"
+            },
+            {
+                "id": 2,
+                "texto": "Acta de reunión"
+            },
+            {
+                "id": 3,
+                "texto": "Acuerdo de confidencialidad"
+            },
+            {
+                "id": 4,
+                "texto": "Acuerdo de manejo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "pregunta": "Zonas en las que se divide un área protegida de acuerdo a sus objetivos de manejo. Entre ellas: de conservación, de restauración ecológica, de uso múltiple, entre otras",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Zonificación",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Delimitación"
+            },
+            {
+                "id": 3,
+                "texto": "División territorial"
+            },
+            {
+                "id": 4,
+                "texto": "Regionalización"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "pregunta": "Consulta mediante oficio de la autoridad ambiental a otras organizaciones del gobierno que determina si hay conflictos de uso con la iniciativa de declaración o ampliación de un área protegida (p.e. Catastro Minero, Agencia Nacional de Tierras)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Delimitación"
+            },
+            {
+                "id": 2,
+                "texto": "Consulta oficial",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Consulta previa"
+            },
+            {
+                "id": 4,
+                "texto": "Declaratoria"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "pregunta": "Salidas de campo que se realizan a territorios de interés científico para levantar información biofísica que aporte a la declaratoria o ampliación de un área protegida",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Preparación"
+            },
+            {
+                "id": 2,
+                "texto": "Excursión"
+            },
+            {
+                "id": 3,
+                "texto": "Expediciones",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Inventario"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "pregunta": "Levantamiento de información socioeconómica (p.e. población, educación, vivienda) realizado durante la fase de aprestamiento en la declaración o ampliación de un área protegida como insumo para el documento justificatorio",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Estudio técnico"
+            },
+            {
+                "id": 2,
+                "texto": "Censo poblacional",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Consulta previa"
+            },
+            {
+                "id": 4,
+                "texto": "Diagnóstico"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "pregunta": "Espacialización de aspectos biofísicos o socioeconómicos que sirven de sustento al documento justificatorio de declaración o ampliación de un área protegida",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Sistemas de información geográfico"
+            },
+            {
+                "id": 2,
+                "texto": "Concertación"
+            },
+            {
+                "id": 3,
+                "texto": "Estadística poblacional"
+            },
+            {
+                "id": 4,
+                "texto": "Generación cartográfica",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "pregunta": "Acuerdo del Consejo Directivo de una Corporación Autónoma Regional que sustenta legalmente la creación o ampliación de un área protegida regional ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Resolución"
+            },
+            {
+                "id": 2,
+                "texto": "Acuerdo CAR",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Consulta previa"
+            },
+            {
+                "id": 4,
+                "texto": "Ley"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "pregunta": "Resolución emitida por el Ministerio de Ambiente y Desarrollo Sostenible que sustenta legalmente la creación o ampliación de un área protegida nacional ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Resolución MADS",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Acuerdo CAR"
+            },
+            {
+                "id": 3,
+                "texto": "Ley"
+            },
+            {
+                "id": 4,
+                "texto": "Mandato"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "pregunta": "Enseñanza de conocimientos y valores relacionados con la conservación de la biodiversidad y el uso sostenible de los recursos naturales para fomentar comportamientos responsables en la sociedad",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Orientación"
+            },
+            {
+                "id": 2,
+                "texto": "Adoctrinamiento"
+            },
+            {
+                "id": 3,
+                "texto": "Didáctica"
+            },
+            {
+                "id": 4,
+                "texto": "Educación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "pregunta": "Recopilación, organización y análisis de información para aumentar el conocimiento de un tema o problema",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Investigación",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Conservación"
+            },
+            {
+                "id": 3,
+                "texto": "Expediciones"
+            },
+            {
+                "id": 4,
+                "texto": "Inventarios"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "pregunta": "Anticiparse, adelantarse, actuar para evitar que ocurra un hecho. En las áreas protegidas esta acción se enfatiza en las amenazas (p.e. incendios, deforestación, caza, pesca)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Recreación"
+            },
+            {
+                "id": 2,
+                "texto": "Planificación"
+            },
+            {
+                "id": 3,
+                "texto": "Prevención",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Protección"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "pregunta": "Decisión tomada entre dos o más personas, resultado de un proceso de negociación y deliberación, determinando normas o acciones a respetar y ejecutar por las partes para beneficio mutuo",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Resoluciones"
+            },
+            {
+                "id": 2,
+                "texto": "Acuerdos",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Desacuerdos"
+            },
+            {
+                "id": 4,
+                "texto": "Justicia"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "pregunta": "Estimular algo o alguien para que mejore. En el caso de la conservación, se busca motivar las personas para que contribuyan a proteger los ecosistemas o especies",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Protección"
+            },
+            {
+                "id": 2,
+                "texto": "Emprendimiento"
+            },
+            {
+                "id": 3,
+                "texto": "Incentivos",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Negociación"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "pregunta": "Actividades que realizan las personas en lugares fuera de su entorno habitual por diferentes motivos. En las áreas protegidas puede ser científico, de descanso, de esparcimiento, de aventura, formativo",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Turismo",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Delimitación"
+            },
+            {
+                "id": 3,
+                "texto": "Relajación"
+            },
+            {
+                "id": 4,
+                "texto": "Senderismo"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "pregunta": "Actividades que realizan las personas o grupos en la búsqueda de esparcimiento físico y mental, las cuales generan placer, diversión, entretenimiento, entre otros",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Sanación"
+            },
+            {
+                "id": 2,
+                "texto": "Incentivos"
+            },
+            {
+                "id": 3,
+                "texto": "Planificación"
+            },
+            {
+                "id": 4,
+                "texto": "Recreación",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "pregunta": "Impedir que una persona o cosa reciba daño o que llegue hasta ella algo que lo produzca. Es una de las principales acciones en un área protegida",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Turismo"
+            },
+            {
+                "id": 2,
+                "texto": "Investigación"
+            },
+            {
+                "id": 3,
+                "texto": "Protección",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Restauración"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "pregunta": "Proceso sistemático y periódico que permite determinar el comportamiento de una variable que indica el estado de conservación o efecividad del manejo en un área protegida",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Recreación"
+            },
+            {
+                "id": 2,
+                "texto": "Expedición"
+            },
+            {
+                "id": 3,
+                "texto": "Inventario"
+            },
+            {
+                "id": 4,
+                "texto": "Monitoreo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "pregunta": "Conjunto de prácticas y técnicas utilizadas para gestionar y conservar los recursos naturales de un área protegida",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Monitoreo"
+            },
+            {
+                "id": 2,
+                "texto": "Conservación"
+            },
+            {
+                "id": 3,
+                "texto": "Delimitación"
+            },
+            {
+                "id": 4,
+                "texto": "Manejo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "pregunta": "Actividad de supervisión y monitoreo constante para detectar, prevenir o disuadir situaciones no deseadas o peligrosas que atenten contra las especies o ecosistemas de un área protegida",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Vigilancia",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Incentivos"
+            },
+            {
+                "id": 3,
+                "texto": "Monitoreo"
+            },
+            {
+                "id": 4,
+                "texto": "Protección"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "pregunta": "Aumento de la extensión de un área protegida previamente declarada",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Zonificación"
+            },
+            {
+                "id": 2,
+                "texto": "Adición"
+            },
+            {
+                "id": 3,
+                "texto": "Ampliación",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Planificación"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "pregunta": "Castigo aplicado a quien infringe una norma o un acuerdo (p.e. multas, trabajo comunitario)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Vigilancia"
+            },
+            {
+                "id": 2,
+                "texto": "Aislamiento"
+            },
+            {
+                "id": 3,
+                "texto": "Manejo"
+            },
+            {
+                "id": 4,
+                "texto": "Sanción",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "pregunta": "Determinar los límites de un área protegida mediante el uso de señales visibles (p.e. mojones)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Zonificación"
+            },
+            {
+                "id": 2,
+                "texto": "Delimitación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Educación"
+            },
+            {
+                "id": 4,
+                "texto": "Investigación"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "pregunta": "Actividad deportiva o turística que consiste en recorrer a pie rutas o caminos por el campo o la montaña",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Senderismo",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Bicimontañismo"
+            },
+            {
+                "id": 3,
+                "texto": "Exploración científica"
+            },
+            {
+                "id": 4,
+                "texto": "Investigación"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "pregunta": "La rehabilitación de ecosistemas degradados o alterados, con el fin de recuperar su funcionalidad y biodiversidad original",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Restauración",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Delimitación"
+            },
+            {
+                "id": 3,
+                "texto": "Monitoreo"
+            },
+            {
+                "id": 4,
+                "texto": "Preservación"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "pregunta": "Acuerdos sustentados en actas de asamblea de las juntas de acción comunal de comunidades campesinas en donde se definen actividades para garantizar un adecuado manejo de su territorio",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Planes de Desarrollo con Enfoque Territorial (PDET)"
+            },
+            {
+                "id": 2,
+                "texto": "Acuerdo municipal"
+            },
+            {
+                "id": 3,
+                "texto": "Acuerdo veredal",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Plan de Ordenación Forestal (POF)"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "pregunta": "Nombre de la regulación de usos realizada por el concejo municipal de acuerdo a lo establecido en el Plan de Ordenamiento Territorial (p.e. zona de protección, de expansión urbana, residencial) ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Uso del suelo",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Plan de desarrollo"
+            },
+            {
+                "id": 3,
+                "texto": "Uso de ordenamiento"
+            },
+            {
+                "id": 4,
+                "texto": "Uso del recurso hídrico"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "pregunta": "Instrumento de planeación que busca el uso sostenible del recurso hídrico a nivel de cuenca según las dinámicas de ocupación del territorio",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Plan nacional forestal"
+            },
+            {
+                "id": 2,
+                "texto": "Estudio nacional del agua"
+            },
+            {
+                "id": 3,
+                "texto": "Gestión integral del recurso hídrico"
+            },
+            {
+                "id": 4,
+                "texto": "Plan de ordenamiento y manejo de cuencas hidrográficas",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "pregunta": "Instrumento de planificación urbana y territorial utilizado por los municipios en Colombia para regular el uso y la ocupación del suelo dentro de su territorio",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Plan de prevención y gestión de desastres "
+            },
+            {
+                "id": 2,
+                "texto": "Plan de Ordenamiento Territorial (POT)",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Plan de desarrollo territorial"
+            },
+            {
+                "id": 4,
+                "texto": "Plan de gestión CAR"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "pregunta": "Instrumento de planificación para implementar los planes sectoriales y programas en el marco de la Reforma Rural Integral (RRI) y el Acuerdo Final de Paz",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Planes de Desarrollo con Enfoque Territorial (PDET)",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Plan de Ordenamiento Territorial (POT)"
+            },
+            {
+                "id": 3,
+                "texto": "Plan de desarrollo territorial"
+            },
+            {
+                "id": 4,
+                "texto": "Plan de prevención y gestión de desastres "
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "pregunta": "Categoría que agrupa un sistema de páramos de la Serranía El Pinche (Cauca) con características de relieve y vegetación similares ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Plan de Ordenamiento Territorial (POT)"
+            },
+            {
+                "id": 2,
+                "texto": "Complejo de Páramos Guanacas-Puracé-Coconucos"
+            },
+            {
+                "id": 3,
+                "texto": "Complejo de páramos Cerro Plateado",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Plan Ordenamiento y Manejo de la Cuenca Hidrográfica del Río Micay"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "pregunta": "Acuerdo de las comunidades indígenas aprobado mediante asamblea que determina las regulaciones y orientaciones en el desarrollo socioambiental, económico, cultural y político del territorio",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Resolución MADS"
+            },
+            {
+                "id": 2,
+                "texto": "Acuerdo veredal"
+            },
+            {
+                "id": 3,
+                "texto": "Consulta previa"
+            },
+            {
+                "id": 4,
+                "texto": "Mandato propio",
+                "correcta": true
             }
         ]
     },
     {
         "id": 81,
-        "pregunta": "Obligación de los gobernantes de justificar y explicar sus acciones y decisiones a la ciudadanía.",
+        "pregunta": "Instrumento de gestión pública empleado para propulsar el desarrollo social de un territorio determinado (municipio, departamento o país), el cual establece las estrategias, metas y mecanismos financieros para lograrlo",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "cuentas",
-                "correcta": true
+                "texto": "Uso del suelo"
             },
             {
                 "id": 2,
-                "texto": "Justicia"
+                "texto": "Plan Ordenamiento y Manejo de Cuencas Hidrográficas "
             },
             {
                 "id": 3,
-                "texto": "Participación"
+                "texto": "Plan de Ordenación Forestal (POF)"
             },
             {
                 "id": 4,
-                "texto": "Transparencia"
+                "texto": "Plan de desarrollo",
+                "correcta": true
             }
         ]
     },
     {
         "id": 82,
-        "pregunta": "Reconocimiento y respeto a la diversidad de opiniones, culturas y valores en la toma de decisiones.",
+        "pregunta": "Instrumento de planificación de las Corporaciones Autónomas Regionales con vigencia de mínimo 10 años, que orienta su gestión . Cuenta con un diagnóstico, visión, líneas estratégicas e instrumentos de evaluación",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "pluralismo",
+                "texto": "Planes de Desarrollo con Enfoque Territorial (PDET)"
+            },
+            {
+                "id": 2,
+                "texto": "Acuerdo CAR"
+            },
+            {
+                "id": 3,
+                "texto": "Plan de desarrollo CAR"
+            },
+            {
+                "id": 4,
+                "texto": "Plan de gestión CAR",
                 "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "pregunta": "Estudio elaborado por las Corporaciones Autónomas Regionales para asegurar que el uso de un área forestal productora sea planificado y garantice el manejo y el aprovechamiento sostenible del recurso",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Zona de Reserva Forestal Pacífico"
+            },
+            {
+                "id": 2,
+                "texto": "Plan Nacional de Desarrollo"
+            },
+            {
+                "id": 3,
+                "texto": "Plan de Ordenación Forestal (POF)",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Planes de Desarrollo con Enfoque Territorial (PDET)"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "pregunta": "Instrumento de planificación de ecosistemas estratégicos que determina la zonificación ambiental y el régimen de usos aplicable a los páramos delimitados en el país ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Plan de reconversión"
+            },
+            {
+                "id": 2,
+                "texto": "Plan de Desarrollo"
+            },
+            {
+                "id": 3,
+                "texto": "Plan de Manejo",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Plan de Protección"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "pregunta": "Áreas con restricciones de urbanización por sus características geográficas, paisajísticas o ambientales, por ser zonas de amenazas y riesgo no mitigable para la  localización de asentamientos humanos definidas en los planes de ordenamiento territorial",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Suelos urbanos"
+            },
+            {
+                "id": 2,
+                "texto": "Suelo de protección",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Suelos de expansión urbana"
+            },
+            {
+                "id": 4,
+                "texto": "Suelos rurales"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "pregunta": "Acciones político-administrativas y de planeación física emprendidas por el municipio para orientar el desarrollo de su territorio y regular el uso, ocupación y transformación del espacio físico",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Titulación de tierras"
+            },
+            {
+                "id": 2,
+                "texto": "Ordenamiento",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Preservación"
+            },
+            {
+                "id": 4,
+                "texto": "Reglamentación"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "pregunta": "Documento registrado en la oficina de registro e instrumentos públicos que sirve para certificar ante las autoridades que una persona es la propietaria de un predio ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Tiíulo de propiedad",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Acuerdo"
+            },
+            {
+                "id": 3,
+                "texto": "Carta venta"
+            },
+            {
+                "id": 4,
+                "texto": "Sucesión"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "pregunta": "Inventario actualizado y clasificado, de los bienes inmuebles pertenecientes al Estado y a los particulares, con el objeto de lograr su correcta identificación física, jurídica, fiscal y económica",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Tiíulo de propiedad"
+            },
+            {
+                "id": 2,
+                "texto": "Catastro",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Escritura"
+            },
+            {
+                "id": 4,
+                "texto": "Sistema de información geográfica"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "pregunta": "Plan que determina las actividades que se realizan en cada finca para un aprovechamiento y uso sostenible de los recursos naturales",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Tierra colectiva"
             },
             {
                 "id": 2,
@@ -1877,241 +2037,1024 @@
             },
             {
                 "id": 3,
-                "texto": "Innovación"
-            },
-            {
-                "id": 4,
-                "texto": "Limitepredial"
-            }
-        ]
-    },
-    {
-        "id": 83,
-        "pregunta": "Coordinación y consistencia en las políticas públicas y acciones gubernamentales.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "coordinación"
-            },
-            {
-                "id": 2,
-                "texto": "coherencia",
-                "correcta": true
-            },
-            {
-                "id": 3,
-                "texto": "colaboración"
-            },
-            {
-                "id": 4,
-                "texto": "confusión"
-            }
-        ]
-    },
-    {
-        "id": 84,
-        "pregunta": "Introducción de nuevos métodos y herramientas para mejorar la eficiencia y eficacia del gobierno.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "tradición"
-            },
-            {
-                "id": 2,
-                "texto": "conservadurismo"
-            },
-            {
-                "id": 3,
-                "texto": "estancamiento"
-            },
-            {
-                "id": 4,
-                "texto": "innovación",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 85,
-        "pregunta": "Obligación de los gobernantes de actuar con ética y tomar decisiones pensando en el bien común.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "responsabilidad",
-                "correcta": true
-            },
-            {
-                "id": 2,
-                "texto": "corrupción"
-            },
-            {
-                "id": 3,
-                "texto": "impunidad"
-            },
-            {
-                "id": 4,
-                "texto": "negligencia"
-            }
-        ]
-    },
-    {
-        "id": 86,
-        "pregunta": "Compromiso de los gobernantes de actuar con honestidad y transparencia en el desempeño de sus funciones.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "opacidad"
-            },
-            {
-                "id": 2,
-                "texto": "engaño"
-            },
-            {
-                "id": 3,
-                "texto": "hipocresía"
-            },
-            {
-                "id": 4,
-                "texto": "integridad",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 87,
-        "pregunta": "Uso efectivo y eficiente de los recursos públicos en la prestación de servicios y la ejecución de políticas públicas.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "ineficiencia"
-            },
-            {
-                "id": 2,
-                "texto": "derroche"
-            },
-            {
-                "id": 3,
-                "texto": "eficiencia",
+                "texto": "Plan predial",
                 "correcta": true
             },
             {
                 "id": 4,
-                "texto": "ineficacia"
-            }
-        ]
-    },
-    {
-        "id": 88,
-        "pregunta": "Trato justo e igualitario a todos los ciudadanos sin importar su origen, género, raza o religión.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "favoritismo"
-            },
-            {
-                "id": 2,
-                "texto": "desigualdad"
-            },
-            {
-                "id": 3,
-                "texto": "discriminación"
-            },
-            {
-                "id": 4,
-                "texto": "equidad",
-                "correcta": true
-            }
-        ]
-    },
-    {
-        "id": 89,
-        "pregunta": "Acción de involucrar a la ciudadanía en los procesos de toma de decisiones gubernamentales.",
-        "respuestas": [
-            {
-                "id": 1,
-                "texto": "silenciamiento"
-            },
-            {
-                "id": 2,
-                "texto": "ciudadana",
-                "correcta": true
-            },
-            {
-                "id": 3,
-                "texto": "exclusión"
-            },
-            {
-                "id": 4,
-                "texto": "ignorancia"
+                "texto": "Suelo de protección"
             }
         ]
     },
     {
         "id": 90,
-        "pregunta": "Acción de tomar decisiones y acciones pensando en el impacto a largo plazo en el medio ambiente, la economía y la sociedad.",
+        "pregunta": "Figura de ordenamiento territorial  que busca entregarle a los campesinos las tierras que son del Estado pero que no están siendo aprovechados",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "sostenibilidad",
-                "correcta": true
+                "texto": "Vía Parque"
             },
             {
                 "id": 2,
-                "texto": "agotamiento"
+                "texto": "Determinante ambiental"
             },
             {
                 "id": 3,
-                "texto": "desecho"
+                "texto": "Parque Nacional Natural"
             },
             {
                 "id": 4,
-                "texto": "explotación"
+                "texto": "Reserva campesina",
+                "correcta": true
             }
         ]
     },
     {
         "id": 91,
-        "pregunta": "Acción de garantizar la igualdad de oportunidades y el acceso a la justicia para todos los ciudadanos.",
+        "pregunta": "Propiedad colectiva de las comunidades indígenas, de carácter de inalienable (no se puede vender, ceder o donar), imprescriptible (no pierde vigencia) e inembargable (no se embarga)",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "opresión"
+                "texto": "Suelo de protección"
             },
             {
                 "id": 2,
-                "texto": "discriminación"
+                "texto": "Plan de ordenación y manejo de cuencas hidrográficas (POMCA)"
             },
             {
                 "id": 3,
-                "texto": "injusticia"
+                "texto": "Reserva natural"
             },
             {
                 "id": 4,
-                "texto": "justicia",
+                "texto": "Resguardo indígena",
                 "correcta": true
             }
         ]
     },
     {
         "id": 92,
-        "pregunta": "Sistema político en el que el poder se divide entre el gobierno central y los gobiernos regionales o estatales.",
+        "pregunta": "Figura legal que reconoce la titularidad de tierras a pueblos indígenas (Resguardo indígena), comunidades negras (Tierras de Comunidades Negras) y campesinas (Zonas de Reserva Campesina)",
         "respuestas": [
             {
                 "id": 1,
-                "texto": "federalismo",
+                "texto": "Tierra colectiva",
                 "correcta": true
             },
             {
                 "id": 2,
-                "texto": "centralismo"
+                "texto": "Acuerdo"
             },
             {
                 "id": 3,
-                "texto": "confederación"
+                "texto": "Catastro"
             },
             {
                 "id": 4,
-                "texto": "descentralización"
+                "texto": "Resolución"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "pregunta": " Grupo de personas que comparten intereses, valores, cultura y territorio  y que se relacionan entre sí en distintos ámbitos de la vida cotidiana",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Territorio"
+            },
+            {
+                "id": 2,
+                "texto": "Acuerdos propios"
+            },
+            {
+                "id": 3,
+                "texto": "Comunidad",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Estrategia complementaria de conservación"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "pregunta": "Capacidad de una persona o una comunidad para tomar decisiones propias y actuar en consecuencia, sin estar subordinados a otras autoridades o poderes",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Responsabilidad"
+            },
+            {
+                "id": 2,
+                "texto": "Autoestima"
+            },
+            {
+                "id": 3,
+                "texto": "Autonomía",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Debilidad"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "pregunta": "Distinciones internacionales que apoyan la conservación de diversidad biológica reconocidas en el Decreto 2372 de 2010",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Áreas de uso común"
+            },
+            {
+                "id": 2,
+                "texto": "Estrategia complementaria de conservación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Estrategia de protección"
+            },
+            {
+                "id": 4,
+                "texto": "Páramos"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "pregunta": "Territorios que son modelo de gestión de conservación de la biodiversidad y los recursos naturales a nivel nacional e internacional",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Zonas de reserva minera"
+            },
+            {
+                "id": 2,
+                "texto": "Suelos de expansión urbana"
+            },
+            {
+                "id": 3,
+                "texto": "Territorios y Áreas Conservadas por Comunidades Indígenas y Locales (TICCA)",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Zonas de recarga de acuíferos"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "pregunta": "Reglas definidas por la comunidad que son respetadas y cumplidas por sus integrantes que generalmente quedan escritas en actas firmadas por los representantes de la comunidad u organización",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Leyes"
+            },
+            {
+                "id": 2,
+                "texto": "Actas"
+            },
+            {
+                "id": 3,
+                "texto": "Acuerdos propios",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Decretos"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "pregunta": "Derecho de los pueblos a decidir libremente sobre su forma de gobierno, su cultura, su territorio y sus recursos, sin interferencia externa",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Libertad de expresión"
+            },
+            {
+                "id": 2,
+                "texto": "Autodeterminación",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Autonomía"
+            },
+            {
+                "id": 4,
+                "texto": "Consulta previa"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "pregunta": "Territorio de vida ubicado en Argelia (Cauca) registrado formalmente en la base de datos TICCA en noviembre de 2022 conservado por comunidades campesinas que alberga especies y ecosistemas únicos de la Cordillera Occidental colombiana",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "TICCA Sierra Nevada de Santa Martha"
+            },
+            {
+                "id": 2,
+                "texto": "TICCA Puracé"
+            },
+            {
+                "id": 3,
+                "texto": "TICCA Selvas de Matavén"
+            },
+            {
+                "id": 4,
+                "texto": "TICCA Serranía El Pinche",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "pregunta": "Uno de los objetivos de la red TICCA Colombia (Territorios y Áreas Conservadas por Comunidades Indígenas y Locales) que permite mostrar al mundo la importancia y amenazas que enfrentan los territorios de vida ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Visibilidad",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Autonomía"
+            },
+            {
+                "id": 3,
+                "texto": "Degradación"
+            },
+            {
+                "id": 4,
+                "texto": "Desarrollo sostenible"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "pregunta": "Máxima autoridad de la junta de acción comunal, integrada por todos los afiliados o delegados de la comunidad, cada uno de los cuales actúa en ella con voz y voto",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Consejo directivo"
+            },
+            {
+                "id": 2,
+                "texto": "Asamblea general",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Comité técnico"
+            },
+            {
+                "id": 4,
+                "texto": "Concejo municipal"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "pregunta": "Capacidad de las juntas de acción comunal para gestionar por cuenta propia todo asunto que contribuya al desarrollo de su comunidad y territorio",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Planificación"
+            },
+            {
+                "id": 2,
+                "texto": "Autogestión",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Comunicación"
+            },
+            {
+                "id": 4,
+                "texto": "Desarrollo"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "pregunta": "Proceso de crecimiento y mejora de una comunidad en diferentes aspectos, como económicos, sociales, tecnológicos, culturales, etc ",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Representación"
+            },
+            {
+                "id": 2,
+                "texto": "Creación"
+            },
+            {
+                "id": 3,
+                "texto": "Desarrollo",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Empobrecimiento"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "pregunta": "Documento que describe las tareas y actividades que se deben realizar para lograr un objetivo específico, junto con los plazos, recursos y responsabilidades de los integrantes de un grupo",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Plan de trabajo",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Biografía"
+            },
+            {
+                "id": 3,
+                "texto": "Democracia"
+            },
+            {
+                "id": 4,
+                "texto": "Plan de ordenamiento territorial"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "pregunta": "Entidad gubernamental encargada de administrar el departamento del Cauca en Colombia. Inspecciona, vigila y controla a las juntas de acción comunal de su jurisdicción",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Secretaría de Planeación del Cauca"
+            },
+            {
+                "id": 2,
+                "texto": "Corporación Autónoma Regional del Cauca"
+            },
+            {
+                "id": 3,
+                "texto": "Cámara de Comercio del Cauca"
+            },
+            {
+                "id": 4,
+                "texto": "Gobernación del Cauca",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "pregunta": "Acto administrativo del ente territorial gubernamental por el cual se crea, modifica o disuelve una junta de acción comunal",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Resolución",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Acuerdo"
+            },
+            {
+                "id": 3,
+                "texto": "Mandato propio"
+            },
+            {
+                "id": 4,
+                "texto": "Ordenanza"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "pregunta": "Persona ficticia, capaz de ejercer derechos y contraer obligaciones civiles, y de ser representada judicial y extrajudicialmente como las ONGs, asociaciones, entre otros",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Personería jurídica",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Persona amable"
+            },
+            {
+                "id": 3,
+                "texto": "Persona declarante de renta"
+            },
+            {
+                "id": 4,
+                "texto": "Persona natural"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "pregunta": "Principio que rige las Juntas de Acción Comunal que busca la participación equitativa en las deliberaciones y decisiones",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Planificación"
+            },
+            {
+                "id": 2,
+                "texto": "Democracia",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Impunidad"
+            },
+            {
+                "id": 4,
+                "texto": "Paz ambiental"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "pregunta": "Proporción o número de asistentes que se requieren para que una sesión de una asamblea o reunión pueda tomar una decisión formalmente válida",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Totalidad de asistentes"
+            },
+            {
+                "id": 2,
+                "texto": "Minoría de asistentes"
+            },
+            {
+                "id": 3,
+                "texto": "Quorum decisorio",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Quorum deliberatorio"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "pregunta": "Comisión integrada por personas de la comunidad que trabajan con la junta de acción comunal en pro de la conservación y el desarrollo sostenible de su territorio",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Comisión de trabajo"
+            },
+            {
+                "id": 2,
+                "texto": "Comisión ambiental",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Comisión de adulto mayor"
+            },
+            {
+                "id": 4,
+                "texto": "Comisión de infraestructura"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "pregunta": "Corporación político-administrativa elegida popularmente para períodos de cuatro años. Ejerce el control político sobre la administración municipal y aprueba el plan de ordenamiento territorial",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Consorcio "
+            },
+            {
+                "id": 2,
+                "texto": "Asamblea departamental"
+            },
+            {
+                "id": 3,
+                "texto": "Concejo municipal",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Consejo directivo"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "pregunta": " Entidad gubernamental encargada de administrar y manejar las áreas protegidas del Sistema de Parques Nacionales Naturales de Colombia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Red TICCA Colombia"
+            },
+            {
+                "id": 2,
+                "texto": "Asociación Agroambiental Santa Clara Serranía El Pinche"
+            },
+            {
+                "id": 3,
+                "texto": "Corporaciones Autónomas Regionales"
+            },
+            {
+                "id": 4,
+                "texto": "Parques Nacionales Naturales",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "pregunta": "Iniciativa conjunta de la Agencia Francesa de Desarrollo, Conservación Internacional, Unión Europea, Fondo para el Medio Ambiente Mundial, gobierno de Japón y Banco Mundial que apoya a la sociedad civil en la conservación de biodiversidad",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Fondo de Alianzas para Ecosistemas Críticos (CEPF)",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "American Bird Conservancy"
+            },
+            {
+                "id": 3,
+                "texto": "Asociación Agroambiental Santa Clara Serranía El Pinche"
+            },
+            {
+                "id": 4,
+                "texto": "Conservación Internacional"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "pregunta": "Organización internacional dedicada a conservar las aves en estado silvestre y sus hábitats en las Américas",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Red TICCA Colombia"
+            },
+            {
+                "id": 2,
+                "texto": "American Bird Conservancy",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "BirdLife"
+            },
+            {
+                "id": 4,
+                "texto": "Corporaciones Autónomas Regionales"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "pregunta": "Organización internacional encargada de promover, apoyar y fortalecer actividades y proyectos a favor del medio ambiente en Colombia",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Ministerio del Interior"
+            },
+            {
+                "id": 2,
+                "texto": "Conservación Internacional Colombia",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Corporaciones Autónomas Regionales"
+            },
+            {
+                "id": 4,
+                "texto": "Ministerio de Minas y Energía"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "pregunta": "Organización no gubernamental colombiana que busca fortalecer la gobernanza comunitaria e institucional para la protección de biodiversidad, adaptación a variabilidad y cambio climático y planificación territorial",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Fundación Ecohabitats",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Concejo municipal"
+            },
+            {
+                "id": 3,
+                "texto": "Consorcio TICCA"
+            },
+            {
+                "id": 4,
+                "texto": "Fondo para el Medio Ambiente Mundial (FMAM)"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "pregunta": "Entidad gubernamental en donde se solicita la certificación de presencia de comunidades étnicas como parte de la fase de aprestamiento de la declaración o ampliación de un área protegida",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Ministerio del Interior",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Alcaldías municipales"
+            },
+            {
+                "id": 3,
+                "texto": "Gobernaciones departamentales"
+            },
+            {
+                "id": 4,
+                "texto": "Instituto de Investigación Científica"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "pregunta": "Entidad del gobierno encargada, según su jurisdicción, de emitir el concepto técnico (favorable o no) a partir del documento justificatorio de declaración o ampliación de un área protegida",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Instituto de Investigación Científica",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Colciencias"
+            },
+            {
+                "id": 3,
+                "texto": "Instituto Colombiano Agropecuario (ICA)"
+            },
+            {
+                "id": 4,
+                "texto": "Instituto Nacional de Salud (INS)"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "pregunta": "Órgano de administración de una Corporación Autónoma Regional entre cuyas funciones se encuentra la aprobación de la incorporación o sustracción de áreas protegidas de su jurisdicción",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Dirección general"
+            },
+            {
+                "id": 2,
+                "texto": "Asamblea departamental"
+            },
+            {
+                "id": 3,
+                "texto": "Concejo municipal"
+            },
+            {
+                "id": 4,
+                "texto": "Consejo directivo",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "pregunta": "Autoridad étnica encargada de administrar los territorios colectivos de las comunidades negras, afrocolombianas, raizales y palenqueras",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Ministerio del Interior"
+            },
+            {
+                "id": 2,
+                "texto": "Cabildo "
+            },
+            {
+                "id": 3,
+                "texto": "Consejo comunitario",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Junta de acción comunal (JAC)"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "pregunta": "Agrupación global de fondos dedicados a hacer frente a la pérdida de biodiversidad, el cambio climático, la contaminación y las presiones sobre la salud de la tierra y los océanos",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Ministerio de Ambiente y Desarrollo Sostenible"
+            },
+            {
+                "id": 2,
+                "texto": "American Bird Conservancy"
+            },
+            {
+                "id": 3,
+                "texto": "Fondo para el Medio Ambiente Mundial (FMAM)",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Instituto de Investigaciones Marinas y Costeras (INVEMAR)"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "pregunta": "Asociación internacional sin ánimo de lucro promotora del reconocimiento, autofortalecimiento  y defensa de los territorios de vida (TICCA) y la conformación de redes nacionales e internacionales que opera en mas de 75 países",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "TICCA Serranía El Pinche"
+            },
+            {
+                "id": 2,
+                "texto": "Consejo comunitario"
+            },
+            {
+                "id": 3,
+                "texto": "Consorcio TICCA",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Programa de Pequeñas Donaciones"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "pregunta": "Red de territorios TICCA nacional creada en noviembre de 2018, conformada por 17 organizaciones de comunidades rurales",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Red de ambientalistas de Colombia"
+            },
+            {
+                "id": 2,
+                "texto": "Red TICCA Colombia",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Red de Juntas de acción comunal"
+            },
+            {
+                "id": 4,
+                "texto": "Red de Reservas Naturales de la Soceidad Civil"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "pregunta": "Asociación campesina sin ánimo de lucro que, bajo articulación con las juntas de acción comunal, promueve la conservación del Territorio de Vida (TICCA) Serranía El Pinche en Argelia (Cauca)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Fundación Ecohabitats"
+            },
+            {
+                "id": 2,
+                "texto": "Asociación Agroambiental Santa Clara Serranía El Pinche",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Asociación Nacional de Usuarios Campesinos (ANUC)"
+            },
+            {
+                "id": 4,
+                "texto": "Federación Campesina del Cauca"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "pregunta": "Organización cívica, social y comunitaria de gestión social, sin ánimo de lucro, con personería jurídica y patrimonio propio, integrada voluntariamente por los residentes de un lugar cuyo ámbito de acción es la vereda",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Junta de acción comunal (JAC)",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Consejo comunitario"
+            },
+            {
+                "id": 3,
+                "texto": "Grupo de control social"
+            },
+            {
+                "id": 4,
+                "texto": "Guardia indígena"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "pregunta": "Conjunto de áreas protegidas, actores sociales e institucionales y sus estrategias e instrumentos de gestión, que aportan al logro de los objetivos de conservación del país",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Sistema de Información Geográfica para el Ordenamiento Territorial (SIGOT)"
+            },
+            {
+                "id": 2,
+                "texto": "Registro Único Nacional de Áreas Protegidas (RUNAP)"
+            },
+            {
+                "id": 3,
+                "texto": "Sistema Nacional de Áreas Protegidas (SINAP)",
+                "correcta": true
+            },
+            {
+                "id": 4,
+                "texto": "Sistema de Información Ambiental de Colombia (SIAC)"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "pregunta": "Registro que consolida la base de datos con la información de las áreas protegidas del país (p.e. declaración, cartografía), de consulta libre en la web y administrado por Parques Nacionales Naturales",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Sistema de Información Geográfica para el Ordenamiento Territorial (SIGOT)"
+            },
+            {
+                "id": 2,
+                "texto": "Registro TICCA"
+            },
+            {
+                "id": 3,
+                "texto": "Registro Único Comunal (RUC)"
+            },
+            {
+                "id": 4,
+                "texto": "Registro Único de Áreas Protegidas de Colombia (RUNAP)",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "pregunta": "Registro nacional que identifica ecosistemas y áreas ambientales (excepto áreas RUNAP), en las que se podrán implementar incentivos y/o instrumentos orientados a la conservación",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Sistema de Información Ambiental de Colombia (SIAC)"
+            },
+            {
+                "id": 2,
+                "texto": "Base de datos catastral"
+            },
+            {
+                "id": 3,
+                "texto": "Registro Único Nacional de Áreas Protegidas (RUNAP)"
+            },
+            {
+                "id": 4,
+                "texto": "Registro Único de Ecosistemas y Áreas Ambientales (REAA)",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "pregunta": "Sistema de información administrado por el Instituto Geográfico Agustín Codazzi (IGAC),  donde se accede a bases de datos sobre el desarrollo, la transformación, la ocupación y vocación del territorio",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Sistema de Información Ambiental de Colombia (SIAC)",
+                "correcta": true
+            },
+            {
+                "id": 2,
+                "texto": "Agencia Nacional de Tierras (ANT)"
+            },
+            {
+                "id": 3,
+                "texto": "Registro Único Tributario (RUT)"
+            },
+            {
+                "id": 4,
+                "texto": "Sistema Nacional Catastral "
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "pregunta": "Sistema de información que registra datos sobre los territorios de vida TICCA, con el fin de fortalecer su gestión y reconocimiento a nivel nacional e internacional",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Sistema de Información Ambiental de Colombia (SIAC)"
+            },
+            {
+                "id": 2,
+                "texto": "Registro TICCA",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Registro Único Comunal (RUC)"
+            },
+            {
+                "id": 4,
+                "texto": "Registro Único de Áreas Protegidas de Colombia (RUNAP)"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "pregunta": "Registro que sirve para identificar, ubicar y clasificar a las organizaciones de Acción Comunal en Colombia ante el Ministerio del Interior",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Registro Único Nacional de Áreas Protegidas (RUNAP)"
+            },
+            {
+                "id": 2,
+                "texto": "Banco de Acción Comunal"
+            },
+            {
+                "id": 3,
+                "texto": "Dirección Nacional de Consulta Previa"
+            },
+            {
+                "id": 4,
+                "texto": "Registro Único Comunal (RUC)",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "pregunta": "Registro que identifica a las personas o empresas que están inscritas como contribuyentes ante la Dirección de Impuestos y Aduanas Nacionales (DIAN)",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Registro Único de Áreas Protegidas de Colombia (RUNAP)"
+            },
+            {
+                "id": 2,
+                "texto": "Banco de Acción Comunal"
+            },
+            {
+                "id": 3,
+                "texto": "Registro Civil"
+            },
+            {
+                "id": 4,
+                "texto": "Registro Único Tributario (RUT)",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "pregunta": "Programa del Ministerio del Interior que apoya económicamente iniciativas productivas y sociales de las organizaciones de acción comunal para su desarrollo comunitario a través de convocatorias anuales",
+        "respuestas": [
+            {
+                "id": 1,
+                "texto": "Registro Único Comunal (RUC)"
+            },
+            {
+                "id": 2,
+                "texto": "Banco de Acción Comunal",
+                "correcta": true
+            },
+            {
+                "id": 3,
+                "texto": "Departamento para la Prosperidad Social"
+            },
+            {
+                "id": 4,
+                "texto": "Ingreso Solidario"
             }
         ]
     }

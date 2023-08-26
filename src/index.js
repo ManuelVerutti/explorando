@@ -9,6 +9,7 @@ import Registro from './Pantallas/Registro';
 import Temas from './Pantallas/Temas';
 import Juego from './Pantallas/Juego';
 import TablaPuntuacion from './Pantallas/TablaPuntuacion';
+import Music from './Componentes/Music.jsx';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
@@ -17,6 +18,7 @@ function App() {
 
   return (
     <React.StrictMode>
+      <Music/>
       <Router>
         <Routes>
           <Route exact path="/" element={<Inicio/>} /> 
