@@ -5,11 +5,17 @@ import "./Juego.css";
 import soundFile from '../Sounds/pop.mpeg';
 import Animation from "../Componentes/Animation";
 import LazyImage from "../Componentes/LazyImage";
+import tiktakSound from "../Sounds/tension.mp3";
+import whosh from "../Componentes/whosh.mp3";
+
+
+const audioS = new Audio(tiktakSound);
+
 
 
 //Pendiente - Hacer lectura del json
 
-function Juego() {
+function Juego(props) {
 
     const navigate = useNavigate();
 
@@ -18,28 +24,65 @@ function Juego() {
         audio.play();
     }
 
+    const playEffects = (action, sound) => {
+
+        switch (action) {
+            case "start":
+                
+                props.playSound(false);
+                console.log("playing Musica")
+                audioS.play();
+                break;
+            case "stop":
+                console.log("stop Musica")
+                audioS.pause();
+                props.playSound(true);
+                audioS.currentTime = 0;
+                break;
+    
+            default:
+                break;
+        }
+    
+    }
+
     const [topic, setTopic] = useState(localStorage.getItem("currentTema"));
     const [enPregunta, setEnPregunta] = useState(true);
     const [puntos, setPuntos] = useState(0);
     const [preguntas, setPreguntas] = useState([]);
     const [cinematicOn, setCinematicOn] = useState(true);
     const [preguntaActual, setPreguntaActual] = useState(0);
-    const [tiempoRestante, setTiempoRestante] = useState(30);
+    const [tiempoRestante, setTiempoRestante] = useState(45);
     const [finDelJuego, setFinDelJuego] = useState(false);
     const [victoria, setVictoria] = useState(false);
     const [imgFondo, setImgFondo] = useState("/Medios/Cinematicas/fondo (1).webp");
-    const [imgPersona1, setImgPersona1] = useState("/Medios/Cinematicas/explorador (1).png");
-    const [imgPersona2, setImgPersona2] = useState("/Medios/Cinematicas/explorador (2).png");
-    const [mensaje, setMensaje] = useState("<b> Vamos por tu primer nivel:</b><br> ECOSISTEMAS MARINOS");
+    const [imgMap, setImgMap] = useState("/Medios/Mapas/Map1.Fwebp");
+    const [imgPersona1, setImgPersona1] = useState("/Medios/Cinematicas/explorador.webp");
+    const [imgPersona2, setImgPersona2] = useState("/Medios/Cinematicas/exploradora.webp");
+    const [mensaje, setMensaje] = useState("<b> Vamos por tu primer nivel:</b><br> GLACIARES");
     const [infoMessage, setInfoMessage] = useState([]);
 
 
-    let extraPoints = 100;
+    let extraPoints = 150;
     // función para manejar el tiempo restante
 
     useEffect(() => {
+        console.log(enPregunta, cinematicOn)
+        if (enPregunta && !cinematicOn) {
+            playEffects("start", "");
+        } else{
+
+
+            playEffects("stop", "");
+
+        }
+
+    }
+        , [enPregunta, cinematicOn])
+
+    useEffect(() => {
         setPuntos(0);
-        setTiempoRestante(30);
+        setTiempoRestante(45);
         let selectedTopic = "JSONBiodiversidad.json";
         switch (topic) {
             case "Biodiversidad":
@@ -53,7 +96,6 @@ function Juego() {
             .then(res => res.json())
             .then(data => {
                 console.log(data);
-                // Seleccionamos 7 preguntas aleatorias
                 const preguntasAleatorias = randomQuestion(data, 15);
                 console.log(preguntasAleatorias);
                 // Almacenamos las preguntas aleatorias en setPreguntas
@@ -101,7 +143,8 @@ function Juego() {
     }, [enPregunta]);
 
     useEffect(() => {
-        setImgFondo(("/Medios/Cinematicas/fondo (" + (preguntaActual + 1) + ").webp"))
+        setImgFondo(("/Medios/Cinematicas/fondo (" + (preguntaActual + 1) + ").webp"));
+        setImgMap("/Medios/Mapas/Map" + (preguntaActual + 1) + ".webp");
 
         console.log(preguntaActual);
         messageUpdate();
@@ -163,9 +206,9 @@ function Juego() {
                     break;
             }
         } catch (error) {
-            
+
         }
-        
+
     }
 
     function randomQuestion(preguntas, cantidad) {
@@ -197,7 +240,7 @@ function Juego() {
         }
         if (preguntaActual < preguntas.length - 1) {
             setPreguntaActual(preguntaActual + 1);
-            setTiempoRestante(30);
+            setTiempoRestante(45);
         } else {
             setFinDelJuego(true);
             setVictoria(true);
@@ -266,7 +309,9 @@ function Juego() {
 
     const handleAnimationClick = () => {
         setCinematicOn(false);
-        setTiempoRestante(30);
+        const audio = new Audio(whosh);
+        audio.play();
+        setTiempoRestante(45);
     }
 
 
@@ -283,6 +328,7 @@ function Juego() {
                     message={mensaje}
                     secondMessage={infoMessage}
                     stage={preguntaActual}
+                    imgMap={"./Medios/Mapas/Map1.webp"}
                 >
 
                 </Animation>
@@ -300,7 +346,7 @@ function Juego() {
                                         <div className="gameEndContainer">
                                             <LazyImage className="backgroundImage" src="/Medios/Victoria/fondo.PNG" />
 
-                                            <Back destino="/temas" />
+                                            <Back destino="/temas" playEffects={playEffects} />
                                             <LazyImage className="colibriImg" src="Medios\logo-colibri-03.webp" alt="" />
 
                                             <h1>¡Felicidades Has Ganado!</h1>
@@ -323,7 +369,7 @@ function Juego() {
                                         <div className="gameEndContainer">
                                             <LazyImage className="backgroundImage" src="/Medios/Victoria/fondo.PNG" />
 
-                                            <Back destino="/temas" />
+                                            <Back destino="/temas" playEffects={playEffects} />
                                             <LazyImage className="colibriImg" src="Medios\logo-colibri-03.webp" alt="" />
 
                                             <h1>¡Fin del juego!</h1>
@@ -334,6 +380,7 @@ function Juego() {
                                                     if (!JSON.parse(localStorage.getItem("scores"))) {
                                                         alert('No existen datos de partidas');
                                                     } else {
+                                                        playEffects("stop")
                                                         playSound();
                                                         navigate("/puntuaciones")
                                                     }
@@ -352,7 +399,7 @@ function Juego() {
                                     {enPregunta ? (
                                         <>
                                             <LazyImage className="backgroundImage" src={imgFondo} />
-                                            <Back destino="/temas" />
+                                            <Back destino="/temas" playEffects={playEffects} />
                                             <div className="pregunta">
 
                                                 <h2 className="tiempo">{tiempoRestante}s</h2>
@@ -377,15 +424,20 @@ function Juego() {
                                                 <LazyImage id="bg1" className="backgroundImage" src="/Medios/Victoria/fondo.PNG" />
 
                                                 <div className="piramide">
+                                                    <img src="/Medios/Niveles-10.webp" alt="piramide" />
+
                                                     <button className="btnSig" onClick={() => { playSound(); setEnPregunta(true); setCinematicOn(true); }}>Siguiente</button>
-                                                    {preguntas.map((pregunta, i) => (
-                                                        <div className="escalon"
-                                                            id={"escalon" + (i + 1)}
-                                                            key={pregunta.id}
-                                                        >
-                                                            {i + 1}
-                                                        </div>
-                                                    ))}
+                                                    <div className="escalones">
+                                                        {preguntas.map((pregunta, i) => (
+                                                            <div className="escalon"
+                                                                id={"escalon" + (i + 1)}
+                                                                key={pregunta.id}
+                                                            >
+
+                                                            </div>
+                                                        ))}
+                                                    </div>
+
                                                 </div>
                                             </>
                                         )

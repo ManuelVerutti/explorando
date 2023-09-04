@@ -20,7 +20,15 @@ function Back(props) {
     }
 
     return (
-        <button onTouchEnd={()=>{onPress()}} className='backBtn'> {"<"} </button>
+        <button onTouchEnd={()=>{
+            try {
+                
+            props.playEffects("stop","");
+            } catch (error) {
+                
+            }
+        onPress(); 
+            }} className='backBtn'> {"<"} </button>
     );
 }
 

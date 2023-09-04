@@ -26,19 +26,18 @@
 
 .person {
   position: absolute;
-  bottom: -200px;
-  width: 175px;
-  height: 200px;
+  bottom: -400px;
+  width: 155px;
   transition: all 0.5s ease-out;
 
 }
 
 .person-1 {
-  left: 10%;
+  left: 15%;
 }
 
 .person-2 {
-  right: 10%;
+  right: 15%;
   transform: scaleX(-1);
 
 }
@@ -52,7 +51,7 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(255, 255, 255);
   padding: 20px;
   border-radius: 10px;
   cursor: pointer;
@@ -80,10 +79,77 @@
 
 }
 
+.skip{
+  background-color: rgba(255, 255, 255, 0.7);
+  border-style: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: auto;
+  font-weight: 900;
+  border-radius: 20px;
+  box-shadow: 2px 2px 8px -1px black;
+  
+}
+
+.map{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+align-items: center;
+justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.map img{
+  height: 90vh;
+  animation: zoomIn 1s forwards ease-in, zoomLoop 2s infinite ease-in;
+  box-shadow: 2px 2px 8px -1px black;
+}
+@keyframes zoomIn{
+  from{
+    height: 0;
+  }
+  to{
+
+    height: 90vh;
+  }
+}
+
+@keyframes zoomLoop {
+  0%{
+    transform: scale(0.99);
+  }
+  50%{
+    transform: scale(1.01);
+  }
+  100%{
+    transform: scale(0.99);
+  }
+}
+
 .dialogue p {
   height: auto;
   font-size: 0.8rem;
   margin: 0 auto;
+}
+
+.dialogue p span {
+  position:absolute;
+  right:0;
+  height: 100% ;
+  width:100%;
+  background: white;
+  animation: escribir 7s  forwards;
+  border-radius: 10px;
+  bottom: 0;
+}
+
+@keyframes escribir {
+  from {height: calc(100% - 20px) }
+  to { height:0 }
 }
 
 .dialogue p p {
