@@ -39,7 +39,6 @@ function App() {
 
 
   useEffect(()=>{
-    alert("Bienvenido a Explorando");
     playSound(true);
   }
   

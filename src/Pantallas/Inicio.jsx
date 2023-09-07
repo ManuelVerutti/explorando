@@ -56,7 +56,7 @@ function Inicio() {
 //
     return (
         <div>
-        <LazyImage className="backgroundImage" src="/Medios/Cinematicas/main.jpeg" />
+        <LazyImage className="backgroundImage" src="/Medios/Cinematicas/main.webp" />
 
         <div className='fondoInicio'>
 

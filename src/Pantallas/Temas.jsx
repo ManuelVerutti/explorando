@@ -28,10 +28,10 @@ setEnCinematica(false);
 
     return (
         <div>
-            <LazyImage className="backgroundImage" src="/Medios/Cinematicas/main.jpeg" />
+            <LazyImage className="backgroundImage" src="/Medios/Cinematicas/main.webp" />
 
             {enCinematica ?
-                <Animation backgroundImage="/Medios/Cinematicas/main.jpeg" personImage1="/Medios/Cinematicas/explorador.webp" personImage2="/Medios/Cinematicas/exploradora.webp" handleAnimationClick={handleAnimationClick} message="<b>¡Bienvenido!</b><br> En explorando deberás recorrer desde los 0 m.s.n.m en la <b>Isla Gorgona</b> hasta los 5364 m.s.n.m en el <b>Nevado del Huila</b> a medida que aciertas respuestas.<br> <b>¡Buena Suerte!</b>"></Animation>
+                <Animation backgroundImage="/Medios/Cinematicas/main.webp" personImage1='/camina.webp' personImage2='/camina2.webp' handleAnimationClick={handleAnimationClick} message="<b>¡Bienvenido!</b><br> En explorando deberás recorrer desde los los 5364 m.s.n.m en el <b>Nevado del Huila</b> hasta 0 m.s.n.m en la <b>Isla Gorgona</b> a medida que aciertas respuestas.<br> <b>¡Buena Suerte!</b>"></Animation>
                 : <><div className='fondoTemas'>
                     <div className='btnPuntuaciones' onTouchEnd={() => { 
                         

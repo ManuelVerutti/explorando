@@ -27,23 +27,24 @@
 .person {
   position: absolute;
   bottom: -400px;
-  width: 155px;
+  width: 195px;
   transition: all 0.5s ease-out;
 
 }
 
 .person-1 {
-  left: 15%;
+  left: 10%;
+  transform: scaleX(-1);
 }
 
 .person-2 {
-  right: 15%;
+  right: 10%;
   transform: scaleX(-1);
 
 }
 
 .slide-up {
-  bottom: 0;
+  bottom: 0px;
 }
 
 .dialogue {
@@ -56,9 +57,10 @@
   border-radius: 10px;
   cursor: pointer;
   width: 40%;
-  font-size: 0.7em;
+  font-size: 1rem !important;
   text-align: justify;
   animation: fadeIn 1.2s forwards;
+  transition: all 0.5s ease-out;
 
 }
 
@@ -76,6 +78,7 @@
   font-weight: bold;
   text-align: center;
   animation: fadeIn 1.2s forwards;
+  transition: all 0.5s ease-out;
 
 }
 
@@ -132,7 +135,7 @@ justify-content: center;
 
 .dialogue p {
   height: auto;
-  font-size: 0.8rem;
+  font-size: 0.95rem;
   margin: 0 auto;
 }
 
@@ -142,7 +145,7 @@ justify-content: center;
   height: 100% ;
   width:100%;
   background: white;
-  animation: escribir 7s  forwards;
+  animation: escribir 4.5s  forwards;
   border-radius: 10px;
   bottom: 0;
 }
@@ -160,7 +163,6 @@ justify-content: center;
   font-size: 1.7rem !important;
   font-weight: 900;
   color: green;
-  font-family: cursive;
 }
 
 .dialogueClick p {

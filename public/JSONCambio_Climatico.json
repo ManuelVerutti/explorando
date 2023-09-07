@@ -3133,7 +3133,7 @@
         "respuestas": [
             {
                 "id": 1,
-                "texto": NaN
+                "texto": "Coche Eléctrico"
             },
             {
                 "id": 2,
@@ -3142,11 +3142,11 @@
             },
             {
                 "id": 3,
-                "texto": NaN
+                "texto": "Coche a Gas"
             },
             {
                 "id": 4,
-                "texto": NaN
+                "texto": "Coche de combustión"
             }
         ]
     },

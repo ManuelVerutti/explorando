@@ -7,6 +7,8 @@ import Animation from "../Componentes/Animation";
 import LazyImage from "../Componentes/LazyImage";
 import tiktakSound from "../Sounds/tension.mp3";
 import whosh from "../Componentes/whosh.mp3";
+import winSound from "../Sounds/gana.mp3";
+import loseSound from "../Sounds/pierde.mp3";
 
 
 const audioS = new Audio(tiktakSound);
@@ -28,7 +30,7 @@ function Juego(props) {
 
         switch (action) {
             case "start":
-                
+
                 props.playSound(false);
                 console.log("playing Musica")
                 audioS.play();
@@ -39,11 +41,11 @@ function Juego(props) {
                 props.playSound(true);
                 audioS.currentTime = 0;
                 break;
-    
+
             default:
                 break;
         }
-    
+
     }
 
     const [topic, setTopic] = useState(localStorage.getItem("currentTema"));
@@ -56,11 +58,14 @@ function Juego(props) {
     const [finDelJuego, setFinDelJuego] = useState(false);
     const [victoria, setVictoria] = useState(false);
     const [imgFondo, setImgFondo] = useState("/Medios/Cinematicas/fondo (1).webp");
-    const [imgMap, setImgMap] = useState("/Medios/Mapas/Map1.Fwebp");
-    const [imgPersona1, setImgPersona1] = useState("/Medios/Cinematicas/explorador.webp");
-    const [imgPersona2, setImgPersona2] = useState("/Medios/Cinematicas/exploradora.webp");
-    const [mensaje, setMensaje] = useState("<b> Vamos por tu primer nivel:</b><br> GLACIARES");
+    const [imgMap, setImgMap] = useState("/Medios/Mapas/Map1.webp");
+    const [imgPersona1, setImgPersona1] = useState("/camina.webp");
+    const [imgPersona2, setImgPersona2] = useState("/camina2.webp");
+    const [mensaje, setMensaje] = useState("<b> Vamos por tu primer ecosistema:</b><br> GLACIARES");
     const [infoMessage, setInfoMessage] = useState([]);
+    const [anounceOn, setAnounceOn] = useState(true);
+    const [powerUsed, setPowerUsed] = useState(false);
+    const [powerActive, setPowerActive] = useState(false);
 
 
     let extraPoints = 150;
@@ -70,7 +75,7 @@ function Juego(props) {
         console.log(enPregunta, cinematicOn)
         if (enPregunta && !cinematicOn) {
             playEffects("start", "");
-        } else{
+        } else {
 
 
             playEffects("stop", "");
@@ -84,13 +89,19 @@ function Juego(props) {
         setPuntos(0);
         setTiempoRestante(45);
         let selectedTopic = "JSONBiodiversidad.json";
-        switch (topic) {
-            case "Biodiversidad":
-                selectedTopic = "JSONBiodiversidad.json";
-            case "Cambio":
-                selectedTopic = "JSONCambio_Climatico.json";
-            case "Planificación":
-                selectedTopic = "JSONPlanificación.json";
+
+        if (topic === "Biodiversidad") {
+            console.log("selecciono Json Bio");
+            selectedTopic = "JSONBiodiversidad.json";
+
+        } if (topic === "Cambio") {
+            console.log("selecciono Json camb");
+            selectedTopic = "JSONCambio_Climatico.json";
+
+        } if (topic === "Planificación") {
+            console.log("selecciono Json Plani");
+            selectedTopic = "JSONPlanificación.json";
+
         }
         fetch(selectedTopic)
             .then(res => res.json())
@@ -137,13 +148,18 @@ function Juego(props) {
             console.log("escalon" + preguntaActual);
             let escalon = document.getElementById("escalon" + preguntaActual);
             escalon.classList.add('escalonDone');
-            escalon.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            setTimeout(() => {
+                escalon.focus();
+                escalon.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }, 500);
 
         }
     }, [enPregunta]);
 
     useEffect(() => {
+        setPowerActive(false);
         setImgFondo(("/Medios/Cinematicas/fondo (" + (preguntaActual + 1) + ").webp"));
+        console.log("Cambio de img mapa", "/Medios/Mapas/Map" + (preguntaActual + 1) + ".webp");
         setImgMap("/Medios/Mapas/Map" + (preguntaActual + 1) + ".webp");
 
         console.log(preguntaActual);
@@ -157,49 +173,49 @@ function Juego(props) {
             switch (preguntaActual) {
                 case 0:
                     console.log(infoMessage);
-                    setMensaje("<b> Vamos por tu primer nivel:</b><br>  " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu primer ecosistema:</b><br>  " + infoMessage[preguntaActual].nombre);
                     break;
                 case 1:
-                    setMensaje("<b> Vamos por tu segundo nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu segundo ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 case 2:
-                    setMensaje("<b> Vamos por tu tercer nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu tercer ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 case 3:
-                    setMensaje("<b> Vamos por tu cuarto nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu cuarto ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 case 4:
-                    setMensaje("<b> Vamos por tu quinto nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu quinto ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 case 5:
-                    setMensaje("<b> Vamos por tu sexto nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu sexto ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 case 6:
-                    setMensaje("<b> Vamos por tu septimo nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu septimo ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 case 7:
-                    setMensaje("<b> Vamos por tu octavo nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu octavo ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 case 8:
-                    setMensaje("<b> Vamos por tu noveno nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu noveno ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 case 9:
-                    setMensaje("<b> Vamos por tu decimo nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu decimo ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 case 10:
-                    setMensaje("<b> Vamos por tu decimo primer nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu decimo primer ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 case 11:
-                    setMensaje("<b> Vamos por tu decimo segundo nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu decimo segundo ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 case 12:
-                    setMensaje("<b> Vamos por tu decimo tercero nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu decimo tercero ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 case 13:
-                    setMensaje("<b> Vamos por tu decimo cuarto nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu decimo cuarto ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 case 14:
-                    setMensaje("<b> Vamos por tu decimo quinto nivel:</b><br> " + infoMessage[preguntaActual].nombre);
+                    setMensaje("<b> Vamos por tu decimo quinto ecosistema:</b><br> " + infoMessage[preguntaActual].nombre);
                     break;
                 default:
                     setMensaje("");
@@ -231,21 +247,43 @@ function Juego(props) {
     // función para manejar la selección de respuesta
 
     const handleRes = (correcta) => {
+
+        let resp = document.getElementById("correcta");
+        resp.classList.add('correct');
         if (correcta) {
+            const audio = new Audio(winSound);
+            audio.play();
             setPuntos(puntos + extraPoints);
-            setEnPregunta(false);
+
+            setTimeout(() => {
+
+                setAnounceOn(true);
+                setEnPregunta(false);
+                setTimeout(() => {
+                    setAnounceOn(false);
+                }, 4500);
+                if (preguntaActual < preguntas.length - 1) {
+                    setPreguntaActual(preguntaActual + 1);
+                    setTiempoRestante(45);
+                } else {
+                    saveScores();
+                    setFinDelJuego(true);
+                    setVictoria(true);
+                }
+
+            }, 2500);
+
         } else {
-            setFinDelJuego(true);
-            saveScores();
+            const audio = new Audio(loseSound);
+            audio.play();
+            setTimeout(() => {
+
+                saveScores();
+                setFinDelJuego(true);
+            }, 2500);
+
         }
-        if (preguntaActual < preguntas.length - 1) {
-            setPreguntaActual(preguntaActual + 1);
-            setTiempoRestante(45);
-        } else {
-            setFinDelJuego(true);
-            setVictoria(true);
-            saveScores();
-        }
+
     };
 
     function saveScores() {
@@ -328,7 +366,7 @@ function Juego(props) {
                     message={mensaje}
                     secondMessage={infoMessage}
                     stage={preguntaActual}
-                    imgMap={"./Medios/Mapas/Map1.webp"}
+                    imgMap={imgMap}
                 >
 
                 </Animation>
@@ -400,6 +438,12 @@ function Juego(props) {
                                         <>
                                             <LazyImage className="backgroundImage" src={imgFondo} />
                                             <Back destino="/temas" playEffects={playEffects} />
+
+                                            {!powerUsed &&
+
+                                                <button onClick={() => { playSound(); setPowerActive(true); setPowerUsed(true); }} className="buttonJ power">50/50</button>
+
+                                            }
                                             <div className="pregunta">
 
                                                 <h2 className="tiempo">{tiempoRestante}s</h2>
@@ -410,12 +454,66 @@ function Juego(props) {
                                             </div>
                                             <div className="respuestas">
                                                 {preguntas[preguntaActual].respuestas.map((respuesta) => (
-                                                    <button className="buttonJ"
-                                                        key={respuesta.id}
-                                                        onClick={() => { playSound(); handleRes(respuesta.correcta) }}
-                                                    >
-                                                        {respuesta.texto}
-                                                    </button>
+
+
+                                                    <>
+                                                        {
+                                                            respuesta.correcta ?
+                                                                <button className="buttonJ"
+                                                                    key={respuesta.id}
+                                                                    id="correcta"
+                                                                    onClick={() => { playSound(); handleRes(respuesta.correcta) }}
+                                                                >
+                                                                    {respuesta.texto}
+                                                                </button>
+                                                                :
+                                                                <>
+                                                                    {
+
+                                                                        powerActive ?
+
+                                                                            <>
+                                                                                {(preguntas[preguntaActual].respuestas.indexOf(preguntas[preguntaActual].respuestas.find(respuesta => respuesta.correcta === true)) == 0) ?
+                                                                                    <>
+                                                                                        {(preguntas[preguntaActual].respuestas[preguntas[preguntaActual].respuestas.length - 1].id == respuesta.id) &&
+                                                                                            <button className="buttonJ"
+                                                                                                key={respuesta.id}
+                                                                                                id="falsa"
+                                                                                                onClick={() => { playSound(); handleRes(respuesta.correcta) }}
+                                                                                            >
+                                                                                                {respuesta.texto}
+                                                                                            </button>
+                                                                                        }
+                                                                                    </>
+                                                                                    :
+                                                                                    <>
+                                                                                        {(preguntas[preguntaActual].respuestas[preguntas[preguntaActual].respuestas.indexOf(preguntas[preguntaActual].respuestas.find(respuesta => respuesta.correcta === true)) + 1].id == respuesta.id) &&
+                                                                                            <button className="buttonJ"
+                                                                                                key={respuesta.id}
+                                                                                                id="falsa"
+                                                                                                onClick={() => { playSound(); handleRes(respuesta.correcta) }}
+                                                                                            >
+                                                                                                {respuesta.texto}
+                                                                                            </button>
+                                                                                        }
+                                                                                    </>
+                                                                                }
+                                                                            </>
+
+                                                                            :
+                                                                            <button className="buttonJ"
+                                                                                key={respuesta.id}
+                                                                                id="falsa"
+                                                                                onClick={() => { playSound(); handleRes(respuesta.correcta) }}
+                                                                            >
+                                                                                {respuesta.texto}
+                                                                            </button>
+
+
+                                                                    }
+                                                                </>
+                                                        }
+                                                    </>
                                                 ))}
                                             </div>
                                         </>)
@@ -423,17 +521,29 @@ function Juego(props) {
                                             <>
                                                 <LazyImage id="bg1" className="backgroundImage" src="/Medios/Victoria/fondo.PNG" />
 
+
+                                                {anounceOn &&
+                                                    <div className="anounce">
+                                                        <div>
+                                                            <p>
+                                                                {"Felicitaciones, has ganado " + puntos + " puntos, vamos por tu próximo ecosistema"}
+                                                            </p>
+                                                        </div>
+
+                                                    </div>
+                                                }
+
                                                 <div className="piramide">
-                                                    <img src="/Medios/Niveles-10.webp" alt="piramide" />
 
                                                     <button className="btnSig" onClick={() => { playSound(); setEnPregunta(true); setCinematicOn(true); }}>Siguiente</button>
                                                     <div className="escalones">
                                                         {preguntas.map((pregunta, i) => (
                                                             <div className="escalon"
-                                                                id={"escalon" + (i + 1)}
-                                                                key={pregunta.id}
-                                                            >
-
+                                                            id={"escalon" + (i + 1)}
+                                                            key={pregunta.id}>
+                                                                <img src={"/Medios/Niveles/Nivel " + (i + 1) + ".webp"} 
+                                                                />
+                                                                <p>{(i + 1) * 150}</p>
                                                             </div>
                                                         ))}
                                                     </div>

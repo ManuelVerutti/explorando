@@ -121,7 +121,7 @@ const TablaPuntuacion = () => {
             // Guardar el archivo PDF
             doc.save('Progreso_Explorando_' + currentUser.nombre + '.pdf');
 
-            toast("Archivo guardado en Documentos", {
+            toast("Archivo guardado, ve a la carpeta Documentos de tu celular", {
                 position: "top-center",
                 autoClose: 5000,
                 hideProgressBar: false,
