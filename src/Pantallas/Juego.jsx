@@ -487,7 +487,7 @@ function Juego(props) {
                                                                                     </>
                                                                                     :
                                                                                     <>
-                                                                                        {(preguntas[preguntaActual].respuestas[preguntas[preguntaActual].respuestas.indexOf(preguntas[preguntaActual].respuestas.find(respuesta => respuesta.correcta === true)) + 1].id == respuesta.id) &&
+                                                                                        {(preguntas[preguntaActual].respuestas[preguntas[preguntaActual].respuestas.indexOf(preguntas[preguntaActual].respuestas.find(respuesta => respuesta.correcta === true)) - 1].id == respuesta.id) &&
                                                                                             <button className="buttonJ"
                                                                                                 key={respuesta.id}
                                                                                                 id="falsa"
